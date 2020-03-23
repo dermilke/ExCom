@@ -1,2 +1,2 @@
 # ExCom
-Explore Community Data - Handling Ecological Data
+Explore Community - Handling Ecological Data
