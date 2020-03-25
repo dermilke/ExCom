@@ -274,13 +274,16 @@ datalist_Prok %>%
 
     ## Using Genus as id variables
 
-<img src="README2_files/figure-gfm/Example_Roseos-1.png" width="75%" style="display: block; margin: auto;" />
+<img src="README_files/figure-gfm/Example_Roseos-1.png" width="75%" style="display: block; margin: auto;" />
 
 ## Author:
 
 Felix Milke
 
-PhD Student at Institute for Chemistry and Biology of the Marine
-Environment University of Oldenburg
+PhD Student
+
+Institute for Chemistry and Biology of the Marine Environment
+
+University of Oldenburg
 
 Date: 25.03.2020
