@@ -1,0 +1,67 @@
+# Constructed from biom file						
+#OTU ID	1-200-3	1-200-8	1-300-0.22	1-60-3	10-20-3	taxonomy
+2a969b405d612c871859090a501893a2	0	200	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda
+0a3836a565b123d4e90d5053795e50ac	0	170	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda; genus_Clausocalanus; species_Clausocalanus_furcatus
+97cf77f3a70bc2457a4611e1b0e7d283	0	0	0	15	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-22; genus_Dino-Group-II-Clade-22_X; species_Dino-Group-II-Clade-22_X_sp.
+de527f9f86e968457b50b26ec7884986	0	5	0	8	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-1; genus_Dino-Group-I-Clade-1_X; species_Dino-Group-I-Clade-1_X_sp.
+bd7bfd4724b9487abbde51e494af9091	0	24	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda; genus_Oithona; species_Oithona_sp.
+1488e2f4eaf377a6e23fab1bee8a4f6b	0	32	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Acantharea; order_Acantharea-Group-I; family_Acantharea-Group-I_X; genus_Acantharea-Group-I_XX; species_Acantharea-Group-I_XX_sp.
+83a8f8f52db5eb36da92fc1df8d9e33f	0	30	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda
+34f63ebed43faf4a0467947b312e4206	9	31	11	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Fungi; class_Ascomycota; order_Pezizomycotina; family_Sordariomycetes
+f0ebeb17a68afd6e8f000390c93d7937	8	0	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Ciliophora; class_Colpodea; order_Colpodea_X; family_Colpodida; genus_Colpoda; species_Colpoda_steinii
+354c7da2e0911806b5f11bcac372e187	0	30	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Acantharea; order_Acantharea-Group-I; family_Acantharea-Group-I_X; genus_Acantharea-Group-I_XX; species_Acantharea-Group-I_XX_sp.
+20e21cdb951f7c21d0602891892373ed	0	119	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Cnidaria; order_Cnidaria_X; family_Hydrozoa
+127878091cbe9b282281503276398ade	0	85	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Dinophyceae; order_Gymnodiniales
+0b4b9c614cabd4b0178dcd134242510e	0	10	0	0	0	kingdom_Eukaryota; supergroup_Hacrobia; division_Telonemia; class_Telonemia_X; order_Telonemia_XX; family_Telonemia-Group-2; genus_Telonemia-Group-2_X; species_Telonemia-Group-2_X_sp.
+816abd90714636718fa817c9b630214e	0	0	0	31	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-10-and-11; genus_Dino-Group-II-Clade-10-and-11_X; species_Dino-Group-II-Clade-10-and-11_X_sp.
+edcc19808f45767e65ace3785cb245ac	0	7	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-4; genus_Dino-Group-I-Clade-4_X; species_Dino-Group-I-Clade-4_X_sp.
+3814a677c6e3c39bbd071d8d34ff7707	0	0	0	80	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-10-and-11; genus_Dino-Group-II-Clade-10-and-11_X; species_Dino-Group-II-Clade-10-and-11_X_sp.
+7ffb1b14f9165455f7b58a0bf3808e33	0	40	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda
+51cc889924688c9b80df7501b440454a	0	10	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Acantharea; order_Acantharea-Group-I; family_Acantharea-Group-I_X; genus_Acantharea-Group-I_XX; species_Acantharea-Group-I_XX_sp.
+c95039ef8e6df7ba758b5cc947de29ad	0	81	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda; genus_Pleuromamma
+ba5c538691a6816497fc37575c1a90e7	0	21	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_RAD-B; order_RAD-B_X; family_RAD-B-Group-IV; genus_RAD-B-Group-IV_X; species_RAD-B-Group-IV_X_sp.
+4b8284bce19195b961bc3cea36fe066f	0	11	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-10-and-11; genus_Dino-Group-II-Clade-10-and-11_X; species_Dino-Group-II-Clade-10-and-11_X_sp.
+21ea935917bcb6aecc6a7dc12496c123	0	67	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda; genus_Pleuromamma
+410223f19fb3c1e51e87f848e90510a0	0	4	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II
+7329618d04d976ab9af3a8b544c50413	0	0	0	3	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_RAD-B; order_RAD-B_X; family_RAD-B-Group-I; genus_RAD-B-Group-I_X; species_RAD-B-Group-I_X_sp.
+f466b489349372bb2fe1822ffdca0821	0	6	0	0	0	kingdom_Eukaryota; supergroup_Excavata; division_Discoba; class_Heterolobosea; order_Heterolobosea_X; family_Vahlkampfiidae; genus_Tetramitus; species_Tetramitus_sp.
+74e27e47e725e9909472fc18d0a089de	0	0	0	11	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-16; genus_Dino-Group-II-Clade-16_X; species_Dino-Group-II-Clade-16_X_sp.
+3ef45de25c067c94bccfaac1acd13a1e	0	2	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II_X; genus_Dino-Group-II_XX; species_Dino-Group-II_XX_sp.
+a4da3bb8303ca4f4c1f06cc46098c6a5	0	10	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Dinophyceae; order_Gymnodiniales; family_Chytriodiniaceae; genus_Chytriodinium; species_Chytriodinium_affine
+276c5722bdc9ef7c2f1ee132d44d6339	0	0	0	16	0	kingdom_Eukaryota; supergroup_Stramenopiles; division_Stramenopiles_X; class_MAST; order_MAST-4; family_MAST-4A; genus_MAST-4A_X; species_MAST-4A_X_sp.
+1a521875cc165c8d28f25c1f2950e07a	0	0	0	16	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_RAD-B; order_RAD-B_X; family_RAD-B-Group-I; genus_RAD-B-Group-I_X; species_RAD-B-Group-I_X_sp.
+8e7fcbee802eb37ca2b717d124b76414	0	9	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Acantharea; order_Acantharea-Group-I; family_Acantharea-Group-I_X; genus_Acantharea-Group-I_XX; species_Acantharea-Group-I_XX_sp.
+fc6ce23d05936a3eecd7f73d871b9e2f	0	0	0	4	0	kingdom_Eukaryota
+c13eefc7fc385c372af8c75e682d9511	0	0	0	0	1	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Arthropoda; order_Crustacea; family_Maxillopoda; genus_Delibus
+5007e99e0c7226cd02ff4275c772ec31	0	19	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Polycystinea; order_Spumellarida; family_Spumellarida-Group-I
+1c3bf6f587f5f2cb9aa4e9506621b79a	0	0	0	7	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-4; genus_Dino-Group-II-Clade-4_X; species_Dino-Group-II-Clade-4_X_sp.
+a61fae534f9cf4104d48a6a0da3046b6	0	0	0	8	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_RAD-B; order_RAD-B_X; family_RAD-B-Group-I; genus_RAD-B-Group-I_X; species_RAD-B-Group-I_X_sp.
+670d2b1acd084e55e4b65da0a89844ac	0	0	0	17	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-6; genus_Dino-Group-II-Clade-6_X; species_Dino-Group-II-Clade-6_X_sp.
+3d026b543f4eb4ee56acdf92fc275ab2	0	0	0	8	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-8; genus_Dino-Group-II-Clade-8_X; species_Dino-Group-II-Clade-8_X_sp.
+bcea92f14690fa47a8fe4b4a976941ed	0	3	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata
+7581b65e0aa6647f89a0e10b51857d99	0	3	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-5; genus_Dino-Group-I-Clade-5_X; species_Dino-Group-I-Clade-5_X_sp.
+ac513afacfa7a1745ec344033fab9dfe	0	10	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Polycystinea; order_Spumellarida; family_Spumellarida-Group-I; genus_Spumellarida-Group-I_X; species_Spumellarida-Group-I_X_sp.
+579564ab81783489b3e08b4cea5fdfe0	0	9	0	0	0	kingdom_Eukaryota; supergroup_Alveolata
+6b4cf80328d6e6a802361b0fc90ae033	0	4	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata
+2f61649ab7bc9296688854d663f315ff	0	0	0	9	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Dinophyceae; order_Gymnodiniales; family_Kareniaceae; genus_Takayama; species_Takayama_pulchellum
+98c3486da3303fe786f33f11d724f5fd	0	0	0	9	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-5; genus_Dino-Group-I-Clade-5_X; species_Dino-Group-I-Clade-5_X_sp.
+9b910dc5bb83799f28504e8533ae04fa	0	8	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Ciliophora; class_Oligohymenophorea; order_OLIGO5; family_OLIGO5_X; genus_OLIGO5_XX; species_OLIGO5_XX_sp.
+95696ccd54aac3957a3f2b66815df96f	0	0	0	8	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-17; genus_Dino-Group-II-Clade-17_X; species_Dino-Group-II-Clade-17_X_sp.
+9ba0c64b902e17dd4b737c7fcf6480f0	0	0	0	2	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-1; genus_Dino-Group-I-Clade-1_X; species_Dino-Group-I-Clade-1_X_sp.
+9a964077a2546edbe75b1aa69e59dad0	0	6	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Ctenophora; order_Ctenophora_X; family_Ctenophora_XX
+f116244938f966d2d5ea82580e9c35c1	0	4	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_RAD-A; order_RAD-A_X; family_RAD-A_XX; genus_RAD-A_XXX; species_RAD-A_XXX_sp.
+53ef6fff8c0914bfaf664c9446788d9a	0	6	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-4; genus_Dino-Group-I-Clade-4_X; species_Dino-Group-I-Clade-4_X_sp.
+3344595cd4573c52c4f4a320a2c4537d	0	0	0	6	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-6; genus_Dino-Group-II-Clade-6_X; species_Dino-Group-II-Clade-6_X_sp.
+793c300ca529b91645ab9e9bceb825de	5	0	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-7; genus_Dino-Group-II-Clade-7_X; species_Dino-Group-II-Clade-7_X_sp.
+77bdb1948feb1cb9c0f7dc5aba5ff88b	0	5	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Ciliophora; class_Nassophorea; order_Nassophorea_X; family_Discotrichidae; genus_NASSO_1; species_NASSO_1_sp.
+d9fe75e2058df3a451b21eb222481cd8	0	5	0	0	0	kingdom_Eukaryota; supergroup_Rhizaria; division_Radiolaria; class_Polycystinea; order_Spumellarida; family_Pyloniidae-Spongodiscidae; genus_Stylodictya
+48ee01df6f776824e369aa843a2af4e2	0	5	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-10-and-11; genus_Dino-Group-II-Clade-10-and-11_X; species_Dino-Group-II-Clade-10-and-11_X_sp.
+2d1259f4818be43c9df15c4a4500c59f	0	5	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I-Clade-1; genus_Dino-Group-I-Clade-1_X; species_Dino-Group-I-Clade-1_X_sp.
+6b7a7f445fdbde4c37f77bac84229bc5	0	0	0	5	0	kingdom_Eukaryota; supergroup_Stramenopiles; division_Stramenopiles_X; class_MAST; order_MAST-3; family_MAST-3A; genus_MAST-3A_X; species_MAST-3A_X_sp.
+bac19062af1395f4b1dd83fa82f39ac4	0	4	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Apicomplexa; class_Apicomplexa_X; order_Gregarines; family_Gregarines_X; genus_Lankesteria
+605b6f645cfe9edb7cebf397f07277e0	0	4	0	0	0	kingdom_Eukaryota; supergroup_Opisthokonta; division_Metazoa; class_Mollusca; order_Gastropoda; family_Heterobranchia
+b406a6596b5a9045cbd7a066a35b53d5	0	3	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Dinophyceae
+6119b73ab15810e2f0355af3f6307fa2	0	3	0	0	0	kingdom_Eukaryota
+de4b6abedcaf9a017f34a981e26ed6f9	0	3	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-I; family_Dino-Group-I_X; genus_Dino-Group-I_XX; species_Dino-Group-I_XX_sp.
+f8114f514dedfb36cb729ed46777f181	0	3	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Ciliophora; class_Oligohymenophorea; order_Apostomatia; family_Apostomatia_X; genus_Apostomatia_XX; species_Apostomatia_XX_sp.
+993640b9237a75a2a787a53ee5cf8326	0	2	0	0	0	kingdom_Eukaryota; supergroup_Alveolata; division_Dinoflagellata; class_Syndiniales; order_Dino-Group-II; family_Dino-Group-II-Clade-21; genus_Dino-Group-II-Clade-21_X; species_Dino-Group-II-Clade-21_X_sp.

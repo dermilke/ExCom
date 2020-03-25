@@ -108,12 +108,12 @@ prepare_raw <- function(file_ASV, file_Meta, confidence_lvl = 0.8, kingdom = "Pr
       select_if(!colnames(.) == "taxonomy") %>%
       filter(rowSums(select_if(.,is.numeric)) != 0)
     
-    write_tsv(Count_Data, paste(location_ASV, "Processed/Euk/Full_Euk_Count.tsv", sep = ""))
+    write_tsv(Count_Data, paste(file_ASV, "Processed/Euk/Full_Euk_Count.tsv", sep = ""))
     
     Meta_Data <- suppressMessages(read_delim(file_Meta, del = "\t")) %>% 
       slice(match(names(select_if(Count_Data, is.numeric)), .$Sample_ID))
     
-    write_tsv(Meta_Data, paste(location_ASV, "Meta_Data/Euk/Meta_Data.tsv", sep = ""))
+    write_tsv(Meta_Data, paste(file_ASV, "Meta_Data/Euk/Meta_Data.tsv", sep = ""))
 
   } else {
     
@@ -239,7 +239,7 @@ rarefy_datalist <- function(datalist, rare_lim, drop = F) {
     t() %>% 
     vegan::rrarefy(., rare_lim) %>%
     t() %>%
-    as.tibble() %>%
+    as_tibble() %>%
     bind_cols(select_if(datalist$Count_Data, is.character), .) %>%
     filter(rowSums(select_if(., is.numeric)) > 0)
   
@@ -301,7 +301,7 @@ slice_datalist <- function(datalist, selectNum = NULL) {
     datalist$Count_Data <- datalist$Count_Data %>%
       select_if(is.numeric) %>%
       select(selectNum) %>%
-      bind_cols(select_if(count, is.character), .) %>%
+      bind_cols(select_if(datalist$Count_Data, is.character), .) %>%
       filter(select_if(., is.numeric) %>% rowSums(.) > 0)
     
     datalist$Meta_Data <- datalist$Meta_Data %>%
@@ -318,7 +318,7 @@ NMDS_ordination_datalist <- function(datalist) {
     t(.) %>%
     vegan::vegdist(.) %>%
     as.matrix(.) %>%
-    metaMDS(try = 30)
+    vegan::metaMDS(try = 30)
   
   return(nmds_result)
   
