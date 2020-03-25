@@ -265,7 +265,6 @@ that:
 
 ``` r
 datalist_Prok %>%
-  filter_datalist(., apply(select_if(.$Count_Data, is.numeric),2 ,sum) > 1000) %>%
   filter_by_taxa(., taxLvl = 5, taxa = "Rhodobacteraceae") %>%
   create_datatable(., Genus, otherThreshold = 0.1) %>%
   ggplot(., aes(x = Depth, y = Proportion, col = Class)) +
