@@ -275,14 +275,11 @@ datalist_Prok %>%
 
 <img src="README_files/figure-gfm/Example_Roseos-1.png" width="75%" style="display: block; margin: auto;" />
 
-## Author:
+## About:
 
-Felix Milke
+**Author:** Felix Milke - *PhD Student*
 
-PhD Student
+**Institution:** Institute for Chemistry and Biology of the Marine
+Environment - University of Oldenburg
 
-Institute for Chemistry and Biology of the Marine Environment
-
-University of Oldenburg
-
-Date: 25.03.2020
+**Date:** 25.03.2020
