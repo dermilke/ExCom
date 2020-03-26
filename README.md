@@ -135,7 +135,7 @@ Count\_Data file.
 
 ``` r
 file_ASV <- "Data/Example_Data/Pacific-Project/V4V5_Primerset/Pool_2/"
-file_Meta <- "Data/Example_Data/Pacific-Project/Meta_Data/Meta_Data_Pacific_Sample_ID.tsv"
+file_Meta <- "Data/Example_Data/Pacific-Project/Meta_Data/Meta_Data_Pacific_Sample.tsv"
 
 prepare_raw(file_ASV, file_Meta, confidence_lvl = 0.8, kingdom = "Prok")
 ```
@@ -236,23 +236,23 @@ datalist_Prok %>%
     ## Warning: Column `Sample_ID` joining factor and character vector, coercing into
     ## character vector
 
-| Class                   | Sample\_ID | Proportion | Cruise | Station | Latitude | Longitude | Bot\_Depth | Depth |
-| :---------------------- | :--------- | ---------: | :----- | ------: | -------: | --------: | ---------: | ----: |
-| Actinomarinaceae        | 1-200-3    |       0.00 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| AEGEAN-169 marine group | 1-200-3    |       0.00 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Alcanivoracaceae        | 1-200-3    |       0.12 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Ambiguous\_taxa         | 1-200-3    |       0.03 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Burkholderiaceae        | 1-200-3    |       0.06 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Chitinophagaceae        | 1-200-3    |       0.05 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Clade I                 | 1-200-3    |       0.02 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Cyanobiaceae            | 1-200-3    |       0.03 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Marinobacteraceae       | 1-200-3    |       0.07 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Sphingomonadaceae       | 1-200-3    |       0.06 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| uncultured bacterium    | 1-200-3    |       0.03 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Others                  | 1-200-3    |       0.52 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Actinomarinaceae        | 1-200-8    |       0.00 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| AEGEAN-169 marine group | 1-200-8    |       0.00 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Alcanivoracaceae        | 1-200-8    |       0.04 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Group                   | Sample\_ID | Abundance | Cruise | Station | Latitude | Longitude | Bot\_Depth | Depth |
+| :---------------------- | :--------- | --------: | :----- | ------: | -------: | --------: | ---------: | ----: |
+| Actinomarinaceae        | 1-200-3    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| AEGEAN-169 marine group | 1-200-3    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Alcanivoracaceae        | 1-200-3    |       419 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Ambiguous\_taxa         | 1-200-3    |        92 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Burkholderiaceae        | 1-200-3    |       195 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Chitinophagaceae        | 1-200-3    |       174 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Clade I                 | 1-200-3    |        66 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Cyanobiaceae            | 1-200-3    |       114 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Marinobacteraceae       | 1-200-3    |       239 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Sphingomonadaceae       | 1-200-3    |       191 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| uncultured bacterium    | 1-200-3    |       118 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Others                  | 1-200-3    |      1767 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Actinomarinaceae        | 1-200-8    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| AEGEAN-169 marine group | 1-200-8    |         9 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Alcanivoracaceae        | 1-200-8    |       120 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 
 The datatable format is easy to use with ggplot functions but also
 everyother function from the dplyr package. To improve compatibility,
@@ -265,9 +265,10 @@ that:
 
 ``` r
 datalist_Prok %>%
+  make_proportion_datalist(.) %>%
   filter_by_taxa(., taxLvl = 5, taxa = "Rhodobacteraceae") %>%
   create_datatable(., Genus, otherThreshold = 0.1) %>%
-  ggplot(., aes(x = Depth, y = Proportion, col = Class)) +
+  ggplot(., aes(x = Depth, y = Abundance, col = Group)) +
     geom_point()
 ```
 
