@@ -18,7 +18,7 @@ create_datatable <- function(datalist, grpBy = Class, otherThreshold = 0.01) {
     mutate_at(2:ncol(.), as.numeric) %>%
     select_if(~sum(is.na(.)) == 0) %>%
     reshape2::melt(.) %>%
-    rename("Class" = as_label(grpBy), "Sample_ID" = "variable", "Proportion" = "value") %>%
+    rename("Abundance" = as_label(grpBy), "Sample_ID" = "variable", "Proportion" = "value") %>%
     left_join(., distinct(diversity_meta), by = "Sample_ID") %>%
     as_tibble() 
   
@@ -124,7 +124,7 @@ running_mean <- function(datatable, interv = 3) {
   datatable <- datatable %>%
     arrange(Latitude)
   
-  Prop <- datatable$Proportion
+  Prop <- datatable$Abundance
   Size_Levels <- unique(datatable$Size_Fraction)
   Depth_Levels <- if ("Depth_Grp" %in% names(datatable)) {unique(datatable$Depth_Grp)} else {unique(datatable$Depth)}
   
