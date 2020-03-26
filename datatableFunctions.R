@@ -2,25 +2,27 @@
 
 create_datatable <- function(datalist, grpBy = Class, otherThreshold = 0.01) {
 
-  diversity_meta <- diversity_datatable(datalist)
-  
   grpBy <- enquo(grpBy)
   
-  result <- datalist$Count_Data %>%
+  tmp <- datalist$Count_Data %>%
     group_by(!! grpBy) %>%
     select_if(is.numeric) %>%
+    mutate(Richness_Groupmerge = 1) %>%
     summarize_all(sum) %>%
-    mutate_if(is.numeric,
-              make_proportion) %>%
-    filter(apply(.[,-1], 1, mean, na.rm = T) > otherThreshold) %>%
-    rbind(., c("Others", 1 - apply(.[,-1], 2, sum))) %>%
+    filter(apply(select(., -1, -Richness_Groupmerge), 2, make_proportion) %>% apply(., 1, mean, na.rm = T) > otherThreshold) %>%
+    rbind(., c("Others", c(apply(select_if(datalist$Count_Data, is.numeric), 2, sum), nrow(datalist$Count_Data)) - apply(select(., -1), 2, sum))) %>%
     mutate_at(1, ~replace(., is.na(.), "")) %>%
     mutate_at(2:ncol(.), as.numeric) %>%
-    select_if(~sum(is.na(.)) == 0) %>%
+    select_if(~sum(is.na(.)) == 0)
+  
+  result <- tmp %>%
+    select(-Richness_Groupmerge) %>%
     reshape2::melt(.) %>%
-    rename("Abundance" = as_label(grpBy), "Sample_ID" = "variable", "Proportion" = "value") %>%
-    left_join(., distinct(diversity_meta), by = "Sample_ID") %>%
-    as_tibble() 
+    rename("Sample_ID" = "variable", "Abundance" = "value") %>%
+    left_join(., distinct(datalist$Meta_Data), by = "Sample_ID") %>%
+    as_tibble() %>%
+    left_join(., select(tmp, 1, Richness_Groupmerge), by = as_label(grpBy)) %>%
+    rename("Group" = as_label(grpBy)) 
   
   return(result)
   
@@ -84,7 +86,7 @@ distance_decay <- function(datalist, dist_measure = "Bray_Curtis") {
                 select(Sample_ID, Latitude, Longitude, Province, Depth), by = "Sample_ID") %>%
     rename("From" = "Sample_ID", "From_Latitude" = "Latitude", "From_Longitude" = "Longitude", 
            "From_Province" = "Province", "From_Depth" = "Depth") %>%
-    mutate(Distance = calculate_distance(To_Longitude, To_Latitude, From_Longitude, From_Latitude)) %>%
+    mutate(Distance = geographic_distance(To_Longitude, To_Latitude, From_Longitude, From_Latitude)) %>%
     as_tibble()
   
   return(DD_datatable)
