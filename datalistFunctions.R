@@ -42,7 +42,8 @@ read_taxonomy <- function(file, kingdom, DB, fillEmpty = T) {
     
     taxonomy_prok <- suppressWarnings(
       suppressMessages(read_tsv(file)) %>%
-        slice(grep("D_0__Bacteria", .$taxonomy, value = F)) %>%
+        slice(c(grep("D_0__Bacteria", .$taxonomy, value = F),
+                grep("D_0__Archaea", .$taxonomy, value = F))) %>%
         separate(., 2, c("Kingdom","Phylum","Class","Order","Family","Genus","Species"), sep = ";") %>%
         mutate_if(is.character, 
                   str_replace_all, pattern = "D_[0-9]*__", replacement = "") %>%
@@ -281,7 +282,7 @@ make_depth_groups <- function(datalist, depth_vek) {
   
 }
 
-filter_datalist <- function(datalist, selectLgl = NULL) {
+select_datalist <- function(datalist, selectLgl = NULL) {
   
     datalist$Count_Data <- datalist$Count_Data %>%
       select_if(is.numeric) %>%
@@ -291,6 +292,17 @@ filter_datalist <- function(datalist, selectLgl = NULL) {
     
     datalist$Meta_Data <- datalist$Meta_Data %>%
       filter(selectLgl)
+  
+  return(datalist)
+  
+}
+
+filter_datalist <- function(datalist, ...) {
+  
+  exprFilter <- enexprs(...)
+  
+  datalist$Count_Data <- filter(datalist$Count_Data, !!!(exprFilter))
+    
   
   return(datalist)
   
@@ -321,6 +333,63 @@ NMDS_ordination_datalist <- function(datalist) {
     vegan::metaMDS(try = 30)
   
   return(nmds_result)
+  
+}
+
+sizefraction_communities <- function(datalist) {
+  
+  datalist_022 <- datalist %>%
+    filter_datalist(datalist$Meta_Data$Size_Fraction == "0.22")
+  
+  datalist_3 <- datalist %>%
+    filter_datalist(datalist$Meta_Data$Size_Fraction == "3")
+  
+  datalist_8 <- datalist %>%
+    filter_datalist(datalist$Meta_Data$Size_Fraction == "8")
+  
+  tmp_022 <- datalist_022$Count_Data %>%
+    filter(!(.$OTU_ID %in% datalist_3$Count_Data$OTU_ID | .$OTU_ID %in% datalist_8$Count_Data$OTU_ID))
+  
+  tmp_3 <- datalist_3$Count_Data %>%
+    filter(!(.$OTU_ID %in% datalist_022$Count_Data$OTU_ID | .$OTU_ID %in% datalist_8$Count_Data$OTU_ID))
+  
+  tmp_8 <- datalist_8$Count_Data %>%
+    filter(!(.$OTU_ID %in% datalist_3$Count_Data$OTU_ID | .$OTU_ID %in% datalist_022$Count_Data$OTU_ID))
+  
+  datalist_022$Count_Data <- tmp_022
+  datalist_3$Count_Data <- tmp_3
+  datalist_8$Count_Data <- tmp_8
+  
+  return(list(Fraction_022 = datalist_022,
+              Fraction_3 = datalist_3,
+              Fraction_8 = datalist_8))
+  
+}
+
+mutate_datalist <- function(datalist, func, ...) {
+  
+  exprFunc <- rlang::enexpr(func)
+  arguments <- rlang::list2(...)
+  
+  datalist$Count_Data <- datalist$Count_Data %>%
+    select_if(is.numeric) %>%
+    mutate_all(eval(exprFunc), !!! arguments) %>%
+    cbind(select_if(datalist$Count_Data, is.character), .) %>%
+    as_tibble()
+  
+  return(datalist)
+  
+}
+
+decostand_datalist <- function(datalist, method) {
+  
+  datalist$Count_Data <- datalist$Count_Data %>%
+    select_if(is.numeric) %>%
+    vegan::decostand(method = method, MARGIN = 2) %>%
+    cbind(select_if(datalist$Count_Data, is.character), .) %>%
+    as_tibble()
+  
+  return(datalist)
   
 }
 
