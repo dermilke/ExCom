@@ -189,7 +189,7 @@ NMDS-wrapper. With this set of functions it would look like that.
 datalist_Prok %>%
   rarefy_datalist(., rare_lim = 2000, drop = T) %>%
   filter_abundance(.) %>%
-  filter_datalist(., .$Meta_Data$Size_Fraction != 0.22) %>%
+  filter_station_datalist(Size_Fraction != 0.22) %>%
   NMDS_ordination_datalist(.)
 ```
 
@@ -241,18 +241,18 @@ datalist_Prok %>%
 | Actinomarinaceae        | 1-200-3    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | AEGEAN-169 marine group | 1-200-3    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Alcanivoracaceae        | 1-200-3    |       419 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Ambiguous\_taxa         | 1-200-3    |        92 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Ambiguous\_taxa         | 1-200-3    |       166 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Burkholderiaceae        | 1-200-3    |       195 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Chitinophagaceae        | 1-200-3    |       174 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Clade I                 | 1-200-3    |        66 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Cyanobiaceae            | 1-200-3    |       114 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Marinobacteraceae       | 1-200-3    |       239 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Nitrosopumilaceae       | 1-200-3    |       116 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Sphingomonadaceae       | 1-200-3    |       191 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | uncultured bacterium    | 1-200-3    |       118 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Others                  | 1-200-3    |      1767 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
+| Others                  | 1-200-3    |      1897 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | Actinomarinaceae        | 1-200-8    |         0 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 | AEGEAN-169 marine group | 1-200-8    |         9 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
-| Alcanivoracaceae        | 1-200-8    |       120 | SO248  |       1 |     \-30 |       177 |       4268 |   200 |
 
 The datatable format is easy to use with ggplot functions but also
 everyother function from the dplyr package. To improve compatibility,
@@ -265,8 +265,8 @@ that:
 
 ``` r
 datalist_Prok %>%
-  make_proportion_datalist(.) %>%
-  filter_by_taxa(., taxLvl = 5, taxa = "Rhodobacteraceae") %>%
+  mutate_count_datalist(function(x) {x/sum(x)}) %>%
+  filter_taxa_datalist(Family == "Rhodobacteraceae") %>%
   create_datatable(., Genus, otherThreshold = 0.1) %>%
   ggplot(., aes(x = Depth, y = Abundance, col = Group)) +
     geom_point()
