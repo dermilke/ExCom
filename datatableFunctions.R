@@ -30,6 +30,12 @@ create_datatable <- function(datalist, grpBy = Class, otherThreshold = 0.01) {
 
 distance_decay <- function(datalist, dist_measure = "Bray_Curtis") {
   
+  if (!("Depth_Grp" %in% names(datalist$Meta_Data))) {
+    warning("Depth_Grps not found, using actual Depth instead.")
+    datalist <- datalist %>%
+      mutate_meta_datalist(Depth_Grp = Depth)
+  }
+  
   if (!(dist_measure %in% c("Bray_Curtis", "Shared_ASVs"))) {
     stop("dist_measure must be either \"Bray_Curtis\" or \"Shared_ASVs\".")
   }
@@ -79,13 +85,13 @@ distance_decay <- function(datalist, dist_measure = "Bray_Curtis") {
     reshape2::melt() %>%
     rename("From" = "Var1", "Sample_ID" = "Var2", !!dist_measure := "value") %>%
     left_join(., datalist$Meta_Data %>%
-                select(Sample_ID, Latitude, Longitude, Province, Depth), by = "Sample_ID") %>%
+                select(Sample_ID, Latitude, Longitude, Province, Depth_Grp), by = "Sample_ID") %>%
     rename("To" = "Sample_ID", "To_Latitude" = "Latitude", "To_Province" = "Province", 
-           "To_Longitude" = "Longitude", "Sample_ID" = "From", "To_Depth" = "Depth") %>%
+           "To_Longitude" = "Longitude", "Sample_ID" = "From", "To_Depth" = "Depth_Grp") %>%
     left_join(., datalist$Meta_Data %>%
-                select(Sample_ID, Latitude, Longitude, Province, Depth), by = "Sample_ID") %>%
+                select(Sample_ID, Latitude, Longitude, Province, Depth_Grp), by = "Sample_ID") %>%
     rename("From" = "Sample_ID", "From_Latitude" = "Latitude", "From_Longitude" = "Longitude", 
-           "From_Province" = "Province", "From_Depth" = "Depth") %>%
+           "From_Province" = "Province", "From_Depth" = "Depth_Grp") %>%
     mutate(Distance = geographic_distance(To_Longitude, To_Latitude, From_Longitude, From_Latitude)) %>%
     as_tibble()
   

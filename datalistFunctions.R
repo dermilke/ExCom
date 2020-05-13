@@ -11,14 +11,14 @@ make_proportion <- function(x) {
   return(result)
 }
 
-make_proportion_datalist <- function(datalist) {
-  
-  datalist$Count_Data <- datalist$Count_Data %>%
-    mutate_if(is.numeric, make_proportion) 
-  
-  return(datalist)
-  
-}
+#make_proportion_datalist <- function(datalist) {
+#  
+#  datalist$Count_Data <- datalist$Count_Data %>%
+#    mutate_if(is.numeric, make_proportion) 
+#  
+#  return(datalist)
+#  
+#}
 
 fill_empty <- function(x, entity) {
   
@@ -265,14 +265,6 @@ summarize_by_taxa <- function(datalist, tax_lvl = 7) {
   
 }
 
-filter_by_taxa <- function(datalist, taxLvl = 1, taxa = "Bacteria") {
-  
-  datalist$Count_Data <- datalist$Count_Data[datalist$Count_Data[,taxLvl+1] == taxa,]
-  
-  return(datalist)
-  
-}
-
 make_depth_groups <- function(datalist, depth_vek) {
   
   datalist$Meta_Data <- datalist$Meta_Data %>%
@@ -282,44 +274,74 @@ make_depth_groups <- function(datalist, depth_vek) {
   
 }
 
-select_datalist <- function(datalist, selectLgl = NULL) {
-  
-    datalist$Count_Data <- datalist$Count_Data %>%
-      select_if(is.numeric) %>%
-      select_if(selectLgl) %>%
-      bind_cols(select_if(datalist$Count_Data, is.character), .) %>%
-      filter(select_if(., is.numeric) %>% rowSums(.) > 0)
-    
-    datalist$Meta_Data <- datalist$Meta_Data %>%
-      filter(selectLgl)
-  
-  return(datalist)
-  
-}
-
-filter_datalist <- function(datalist, ...) {
+filter_station_datalist <- function(.datalist, ...) {
   
   exprFilter <- enexprs(...)
   
-  datalist$Count_Data <- filter(datalist$Count_Data, !!!(exprFilter))
-    
+  .datalist$Meta_Data <- .datalist$Meta_Data %>%
+    filter(!!! exprFilter)
   
-  return(datalist)
+  .datalist$Count_Data <- .datalist$Count_Data %>%
+    select_if(is.numeric) %>%
+    select_if(names(.) %in% .datalist$Meta_Data$Sample_ID) %>%
+    bind_cols(select_if(.datalist$Count_Data, is.character), .) %>%
+    filter(select_if(., is.numeric) %>% rowSums(.) > 0)
+
+  return(.datalist)
   
 }
 
-slice_datalist <- function(datalist, selectNum = NULL) {
+filter_taxa_datalist <- function(.datalist, ...) {
+  
+  exprFilter <- enquos(...)
+  
+  .datalist$Count_Data <- filter(.datalist$Count_Data, !!!(exprFilter))
+    
+  
+  return(.datalist)
+  
+}
 
-    datalist$Count_Data <- datalist$Count_Data %>%
+slice_station_datalist <- function(.datalist, ...) {
+
+  exprSlice <- enexprs(...)
+  
+  .datalist$Count_Data <- .datalist$Count_Data %>%
       select_if(is.numeric) %>%
-      select(selectNum) %>%
-      bind_cols(select_if(datalist$Count_Data, is.character), .) %>%
+      select(!!! exprSlice) %>%
+      bind_cols(select_if(.datalist$Count_Data, is.character), .) %>%
       filter(select_if(., is.numeric) %>% rowSums(.) > 0)
     
-    datalist$Meta_Data <- datalist$Meta_Data %>%
-      slice(selectNum)
+  .datalist$Meta_Data <- .datalist$Meta_Data %>%
+      slice(!!! exprSlice)
     
-  return(datalist)
+  return(.datalist)
+  
+}
+
+mutate_count_datalist <- function(.datalist, func, ...) {
+  
+  exprFunc <- rlang::enexpr(func)
+  arguments <- rlang::list2(...)
+  
+  .datalist$Count_Data <- .datalist$Count_Data %>%
+    select_if(is.numeric) %>%
+    mutate_all(eval(exprFunc), !!! arguments) %>%
+    cbind(select_if(.datalist$Count_Data, is.character), .) %>%
+    as_tibble()
+  
+  return(.datalist)
+  
+}
+
+mutate_meta_datalist <- function(.datalist, ...) {
+  
+  exprFunc <- enquos(...)
+  
+  .datalist$Meta_Data <- .datalist$Meta_Data %>%
+    mutate(!!!exprFunc)
+  
+  return(.datalist)
   
 }
 
@@ -339,26 +361,19 @@ NMDS_ordination_datalist <- function(datalist) {
 sizefraction_communities <- function(datalist) {
   
   datalist_022 <- datalist %>%
-    filter_datalist(datalist$Meta_Data$Size_Fraction == "0.22")
+    filter_station_datalist(Size_Fraction == "0.22") %>%
+    filter_taxa_datalist(!(OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "3")$Count_Data$OTU_ID | 
+                           OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "8")$Count_Data$OTU_ID))
   
   datalist_3 <- datalist %>%
-    filter_datalist(datalist$Meta_Data$Size_Fraction == "3")
+    filter_station_datalist(Size_Fraction == "3") %>%
+    filter_taxa_datalist(!(OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "0.22")$Count_Data$OTU_ID | 
+                           OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "8")$Count_Data$OTU_ID))
   
   datalist_8 <- datalist %>%
-    filter_datalist(datalist$Meta_Data$Size_Fraction == "8")
-  
-  tmp_022 <- datalist_022$Count_Data %>%
-    filter(!(.$OTU_ID %in% datalist_3$Count_Data$OTU_ID | .$OTU_ID %in% datalist_8$Count_Data$OTU_ID))
-  
-  tmp_3 <- datalist_3$Count_Data %>%
-    filter(!(.$OTU_ID %in% datalist_022$Count_Data$OTU_ID | .$OTU_ID %in% datalist_8$Count_Data$OTU_ID))
-  
-  tmp_8 <- datalist_8$Count_Data %>%
-    filter(!(.$OTU_ID %in% datalist_3$Count_Data$OTU_ID | .$OTU_ID %in% datalist_022$Count_Data$OTU_ID))
-  
-  datalist_022$Count_Data <- tmp_022
-  datalist_3$Count_Data <- tmp_3
-  datalist_8$Count_Data <- tmp_8
+    filter_station_datalist(Size_Fraction == "8") %>%
+    filter_taxa_datalist(!(OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "0.22")$Count_Data$OTU_ID | 
+                           OTU_ID %in% filter_station_datalist(datalist, Size_Fraction == "3")$Count_Data$OTU_ID))
   
   return(list(Fraction_022 = datalist_022,
               Fraction_3 = datalist_3,
@@ -366,30 +381,15 @@ sizefraction_communities <- function(datalist) {
   
 }
 
-mutate_datalist <- function(datalist, func, ...) {
-  
-  exprFunc <- rlang::enexpr(func)
-  arguments <- rlang::list2(...)
-  
-  datalist$Count_Data <- datalist$Count_Data %>%
-    select_if(is.numeric) %>%
-    mutate_all(eval(exprFunc), !!! arguments) %>%
-    cbind(select_if(datalist$Count_Data, is.character), .) %>%
-    as_tibble()
-  
-  return(datalist)
-  
-}
-
-decostand_datalist <- function(datalist, method) {
-  
-  datalist$Count_Data <- datalist$Count_Data %>%
-    select_if(is.numeric) %>%
-    vegan::decostand(method = method, MARGIN = 2) %>%
-    cbind(select_if(datalist$Count_Data, is.character), .) %>%
-    as_tibble()
-  
-  return(datalist)
-  
-}
+#decostand_datalist <- function(datalist, method) {
+#  
+#  datalist$Count_Data <- datalist$Count_Data %>%
+#    select_if(is.numeric) %>%
+#    vegan::decostand(method = method, MARGIN = 2) %>%
+#    cbind(select_if(datalist$Count_Data, is.character), .) %>%
+#    as_tibble()
+#
+#  return(datalist)
+#  
+#}
 
