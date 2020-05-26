@@ -11,15 +11,6 @@ make_proportion <- function(x) {
   return(result)
 }
 
-#make_proportion_datalist <- function(datalist) {
-#  
-#  datalist$Count_Data <- datalist$Count_Data %>%
-#    mutate_if(is.numeric, make_proportion) 
-#  
-#  return(datalist)
-#  
-#}
-
 fill_empty <- function(x, entity) {
   
   for (i in (3:ncol(select_if(x, is.character)))) {
@@ -380,16 +371,3 @@ sizefraction_communities <- function(datalist) {
               Fraction_8 = datalist_8))
   
 }
-
-#decostand_datalist <- function(datalist, method) {
-#  
-#  datalist$Count_Data <- datalist$Count_Data %>%
-#    select_if(is.numeric) %>%
-#    vegan::decostand(method = method, MARGIN = 2) %>%
-#    cbind(select_if(datalist$Count_Data, is.character), .) %>%
-#    as_tibble()
-#
-#  return(datalist)
-#  
-#}
-
