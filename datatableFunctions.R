@@ -66,7 +66,7 @@ create_datatable <- function(datalist, grpBy = Class, otherThreshold = 0.01, sel
       .[,1] %>%
       table() %>%
       as_tibble() %>%
-      rename("Group" = ".") %>%
+      dplyr::rename("Group" = ".") %>%
       mutate(Group = ordered(Group, levels = c(unique(Group)[-which(Group == "Others")], "Others"))) %>%
       arrange(Group) %>%
       mutate(main_color = colorTaxonomy$Colour[match(Group, colorTaxonomy$Group)]) %>%
@@ -155,14 +155,14 @@ distance_decay <- function(datalist, dist_measure = "Bray_Curtis") {
     select_if(is.numeric) %>%
     with(., if (dist_measure == "Bray_Curtis") {t(.) %>% vegan::vegdist(.) %>% t(.) %>% as.matrix(.)} else {shared_ASVs_distance(.)}) %>%
     reshape2::melt() %>%
-    rename("From" = "Var1", "Sample_ID" = "Var2", !!dist_measure := "value") %>%
+    dplyr::rename("From" = "Var1", "Sample_ID" = "Var2", !!dist_measure := "value") %>%
     left_join(., datalist$Meta_Data %>%
                 select(Sample_ID, Latitude, Longitude, Province, Depth_Grp), by = "Sample_ID") %>%
-    rename("To" = "Sample_ID", "To_Latitude" = "Latitude", "To_Province" = "Province", 
+    dplyr::rename("To" = "Sample_ID", "To_Latitude" = "Latitude", "To_Province" = "Province", 
            "To_Longitude" = "Longitude", "Sample_ID" = "From", "To_Depth" = "Depth_Grp") %>%
     left_join(., datalist$Meta_Data %>%
                 select(Sample_ID, Latitude, Longitude, Province, Depth_Grp), by = "Sample_ID") %>%
-    rename("From" = "Sample_ID", "From_Latitude" = "Latitude", "From_Longitude" = "Longitude", 
+    dplyr::rename("From" = "Sample_ID", "From_Latitude" = "Latitude", "From_Longitude" = "Longitude", 
            "From_Province" = "Province", "From_Depth" = "Depth_Grp") %>%
     mutate(Distance = geographic_distance(To_Longitude, To_Latitude, From_Longitude, From_Latitude)) %>%
     as_tibble()
@@ -336,7 +336,7 @@ profiling <- function(datatable, groupFilter) {
     best_Latitude <- Model_Fit %>%
       filter(Abundance == max(Abundance)) %>%
       select(Latitude, Abundance) %>%
-      rename("Abundance_Model" = "Abundance")
+      dplyr::rename("Abundance_Model" = "Abundance")
     
   }
   

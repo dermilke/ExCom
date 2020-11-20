@@ -38,7 +38,7 @@ read_taxonomy <- function(file, kingdom, DB, fillEmpty = T) {
         separate(., 2, c("Kingdom","Phylum","Class","Order","Family","Genus","Species"), sep = ";") %>%
         mutate_if(is.character, 
                   str_replace_all, pattern = "D_[0-9]*__", replacement = "") %>%
-        rename(., 'OTU_ID' = '#OTUID') %>%
+        dplyr::rename(., 'OTU_ID' = '#OTUID') %>%
         with(., if (fillEmpty) {fill_empty(., "unknown")} else {.})
     )
     
@@ -48,7 +48,7 @@ read_taxonomy <- function(file, kingdom, DB, fillEmpty = T) {
         separate(., 2, c("Kingdom","Supergroup","Phylum","Class","Subclass","Order","Suborder", "Family", "Genus", "Species"), sep = ";") %>%
         mutate_if(is.character, 
                   str_replace_all, pattern = ".*\\.", replacement = "") %>%
-        rename(., 'OTU_ID' = '#OTUID') %>%
+        dplyr::rename(., 'OTU_ID' = '#OTUID') %>%
         with(., if (fillEmpty) {fill_empty(., "unknown")} else {.})
     )
     
@@ -63,7 +63,7 @@ read_taxonomy <- function(file, kingdom, DB, fillEmpty = T) {
           separate(., 2, c("Kingdom","Phylum","Class","Order","Family","Genus","Species"), sep = ";") %>%
           mutate_if(is.character, 
                     str_replace_all, pattern = "D_[0-9]*__", replacement = "") %>%
-          rename(., 'OTU_ID' = '#OTUID') %>%
+          dplyr::rename(., 'OTU_ID' = '#OTUID') %>%
           with(., if (fillEmpty) {fill_empty(., "unknown")} else {.})
       )
       
@@ -74,8 +74,8 @@ read_taxonomy <- function(file, kingdom, DB, fillEmpty = T) {
           separate(., 2, c("Kingdom","Supergroup","Phylum","Class","Subclass","Order","Suborder", "Family", "Genus", "Species"), sep = ";") %>%
           mutate_if(is.character, 
                     str_replace_all, pattern = "[a-z]*_", replacement = "") %>%
-          rename(., 'OTU_ID' = '#OTUID') %>%
-            with(., if (fillEmpty) {fill_empty(., "unknown")} else {.})
+          dplyr::rename(., 'OTU_ID' = '#OTUID') %>%
+          with(., if (fillEmpty) {fill_empty(., "unknown")} else {.})
       )
       
     }
@@ -93,7 +93,7 @@ prepare_raw <- function(file_ASV, file_Meta, confidence_lvl = 0.8, kingdom = "Pr
     
     Count_Data <- suppressMessages(read_delim(paste(file_ASV, "Raw/", kingdom, "/all-18S-seqs.with-", DB, "-tax.tsv", sep = ""),
                                               delim = "\t", skip = 1)) %>%
-      rename(., 'OTU_ID' = '#OTU ID') %>%
+      dplyr::rename(., 'OTU_ID' = '#OTU ID') %>%
       right_join(taxonomy, ., by = 'OTU_ID') %>%
       filter(confidence >= confidence_lvl) %>%                                                           
       select(-confidence) %>%
@@ -113,7 +113,7 @@ prepare_raw <- function(file_ASV, file_Meta, confidence_lvl = 0.8, kingdom = "Pr
     
     Count_Data <- suppressMessages(read_delim(paste(file_ASV, "Raw/", kingdom, "/all-16S-seqs.with-tax.tsv", sep = ""), 
                                               delim = "\t", skip = 1)) %>%
-      rename(., 'OTU_ID' = '#OTU ID') %>%
+      dplyr::rename(., 'OTU_ID' = '#OTU ID') %>%
       left_join(taxonomy$Prok, ., by = 'OTU_ID') %>%
       filter(confidence >= confidence_lvl) %>%                                                           
       select(-confidence) %>%
@@ -129,7 +129,7 @@ prepare_raw <- function(file_ASV, file_Meta, confidence_lvl = 0.8, kingdom = "Pr
     
     Count_Data <- suppressMessages(read_delim(paste(file_ASV, "Raw/", kingdom, "/all-16S-seqs.with-tax.tsv", sep = ""), 
                                               delim = "\t", skip = 1)) %>%
-      rename(., 'OTU_ID' = '#OTU ID') %>%
+      dplyr::rename(., 'OTU_ID' = '#OTU ID') %>%
       left_join(taxonomy$Chloroplast, ., by = 'OTU_ID') %>%
       filter(confidence >= confidence_lvl) %>%                                                           
       select(-confidence) %>%
