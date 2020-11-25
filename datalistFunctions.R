@@ -8,7 +8,7 @@ remove_NAs <- function(Count_Data, replace = 0) {
 
 make_proportion <- function(x) {
   result <- x/sum(x, na.rm = T)
-  return(result)
+  return(ifelse(is.finite(result), result, 0))
 }
 
 fill_empty <- function(x, entity) {
@@ -450,7 +450,7 @@ summarize_by_param <- function(datalist, ...) {
     
   tmp_obj <- unique(select(datalist$Meta_Data, !!!param)) %>%
     mutate_if(is.ordered, as.character)
-      
+       
   for (j in 1:nrow(tmp_obj)) {
       
     tmp <- datalist 
@@ -463,14 +463,17 @@ summarize_by_param <- function(datalist, ...) {
     }
     
     tmp_final <- tmp_final %>%
-      mutate(!! paste(tmp_obj[j,], collapse = "_") := rowMeans(select_if(tmp$Count_Data, is.numeric)))
-  }
+      mutate(!! paste(tmp_obj[j,], collapse = "_") := 
+            rowSums(select_if(tmp$Count_Data, is.numeric)))
+  } 
   
   Meta_Data_new <- datalist$Meta_Data %>%
     group_by(!!!param) %>%
     summarize_if(is.numeric, mean) %>%
     ungroup() %>%
-    mutate(Sample_ID = deframe(unite(select(., !!! param), "")))
+    mutate(Sample_ID = deframe(unite(select(., !!! param), ""))) %>%
+    slice(match(names(select_if(tmp_final, is.numeric)),Sample_ID))
+  
   
   datalist_return <- list(Count_Data = tmp_final, Meta_Data = Meta_Data_new) %>%
     mutate_count_datalist(make_proportion)
@@ -513,6 +516,10 @@ plot_heatmap <- function(datalist, taxa_filter = NULL, envir_filter = NULL, clus
   datalist_filtered <- datalist %>%
     with(., if (!rlang::quo_is_null(taxa_filter)) filter_taxa_datalist(., !!taxa_filter) else .) %>%
     with(., if(!rlang::quo_is_null(envir_filter)) filter_station_datalist(., !!envir_filter) else .)
+  
+  if (length(unique(datalist_filtered$Meta_Data$Size_Fraction)) == 1) gaps_col <- NULL else {
+    gaps_col <- cumsum(table(datalist_filtered$Meta_Data$Size_Fraction))
+  }
   
   Count_Matrix <- datalist_filtered %>%
     .$Count_Data %>%
@@ -596,8 +603,7 @@ plot_heatmap <- function(datalist, taxa_filter = NULL, envir_filter = NULL, clus
            labels_row = row_label, show_rownames = ifelse(!is.null(row_label),T,F),
            annotation_row = row_annotation, fontsize_row = 6, fontsize_col = 7,
            annotation_colors = row_annotation_color, fontsize = 7,
-           gaps_col = gaps_col, 
-           clustering_callback = callback)
+           gaps_col = gaps_col)
   
 }
 
