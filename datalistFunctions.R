@@ -506,19 +506,24 @@ plot_VennDiagram <- function(datalist, param, file) {
 
 plot_heatmap <- function(datalist, taxa_filter = NULL, envir_filter = NULL, cluster_cols = F, row_label = NULL,
                          scale_method = make_proportion, col_label = NULL, title = NULL, cluster_order = NULL,
-                         gaps_col = NULL) {
+                         gaps_col = NULL, col_group = NULL) {
   
   taxa_filter <- enquo(taxa_filter) 
   envir_filter <- enquo(envir_filter)
   col_label <- enquo(col_label)
   row_label <- enquo(row_label)
+  col_group <- enquo(col_group)
   
   datalist_filtered <- datalist %>%
     with(., if (!rlang::quo_is_null(taxa_filter)) filter_taxa_datalist(., !!taxa_filter) else .) %>%
-    with(., if(!rlang::quo_is_null(envir_filter)) filter_station_datalist(., !!envir_filter) else .)
+    with(., if (!rlang::quo_is_null(envir_filter)) filter_station_datalist(., !!envir_filter) else .)
   
-  if (length(unique(datalist_filtered$Meta_Data$Size_Fraction)) == 1) gaps_col <- NULL else {
-    gaps_col <- cumsum(table(datalist_filtered$Meta_Data$Size_Fraction))
+  if (!rlang::quo_is_null(col_group)) {
+    if (nrow(unique(select(datalist_filtered$Meta_Data, !!col_group))) > 1) {
+      gaps_col <- cumsum(table(select(datalist_filtered$Meta_Data, !!col_group)))
+    }
+  } else {
+    gaps_col <- NULL
   }
   
   Count_Matrix <- datalist_filtered %>%
@@ -530,7 +535,7 @@ plot_heatmap <- function(datalist, taxa_filter = NULL, envir_filter = NULL, clus
                  if ("Size_Fraction" %in% names(datalist$Meta_Data)) {
                    arrange(., Size_Fraction, !!col_label)
                  } else {
-                   arrange(., !!col_label)
+                   arrange(., !!col_group, !!col_label)
                  }
                } else {
                  if ("Size_Fraction" %in% names(datalist$Meta_Data)) {
@@ -564,7 +569,7 @@ plot_heatmap <- function(datalist, taxa_filter = NULL, envir_filter = NULL, clus
         as.character()
     } else {
       datalist_filtered$Meta_Data %>%
-        arrange(!!col_label) %>%
+        arrange(!!col_group, !!col_label) %>%
         mutate(!!col_label := if (is.numeric(!!col_label)) round(!!col_label, digits = 0) else !!col_label) %>%
         select(!!col_label) %>%
         deframe() %>%
