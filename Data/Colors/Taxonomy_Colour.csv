@@ -5,14 +5,14 @@ Alphaproteobacteria,#D43F3AFF
 Bacteroidia,#357EBDFF
 Deltaproteobacteria,#c6ecde
 Gammaproteobacteria,#EEA236FF
-Nitrososphaeria,#2a752e
+Nitrososphaeria,#996622
 Oxyphotobacteria,#339900FF
-Thermoplasmata,#FED439FF
+Thermoplasmata,#662299
 Unknown Marinimicrobia (SAR406 clade),#E762D7FF
 Dehalococcoidia,#7e7b52
 Nitrospinia,#FDAF91FF
 Planctomycetacia,#76ecfe
-Verrucomicrobiae,#1a9000
+Verrucomicrobiae,#1f621e
 BD2-11 terrestrial group,#afbd22
 Calditrichia,#40b5bc
 Ignavibacteria,#962c54
@@ -36,28 +36,41 @@ Methanobacteria,#0080ff
 Bathyarchaeia,#D08442
 Odinarchaeia,#428ed0
 Unknown Archaea,#8442d0
-Woesearchaeia,#c02519
-Arthropoda,
-Ascomycota,
-AX,
-Cnidaria,
-Colpodea,
-CX,
-Dinophyceae,
-Heterolobosea,
-Mamiellophyceae,
-MAST,
-Polycystinea,
-RAD-A,
-Spirotrichea,
-Syndiniales,
+Woesearchaeia,#229966
 Bacillariophyta,#FAFD7CFF
-Chrysophyceae-Synurophyceae,#ebcc65
-Chrysophyceae,#D43F3AFF
+Chrysophyceae-Synurophyceae,#afbd22
+Chrysophyceae,#40b5bc
 Dictyochophyceae,#EEA236FF
 Embryophyceae,#339900FF
-Mamiellophyceae,#E762D7FF
-Ochrophyta organism,#40b5bc
+Mamiellophyceae,#62eb96
+Ochrophyta organism,#FDAF91FF
 Pelagophyceae,#f0bc0e
 Prymnesiophyceae,#0080ff
 Cryptophyceae,#8442d0
+Crustaceans,#9632B8FF
+Flatworms,#357EBDFF
+Gastrotrichs,#EEA236FF
+Nematodes,#339900FF
+Segmented Worms,#e71837
+Arrow Worms,#FAFD7CFF
+Bivalves,#2e7a97
+Bryozoans,#62eb96
+Hydrozoans,#ed5555
+Ribbon Worms,#ffc425
+Tardigrades,#afbd22
+Arthropoda,#357EBDFF
+AX,#EEA236FF
+Cnidaria,#E762D7FF
+Dinophyceae,#1f621e
+Heterolobosea,#40b5bc
+Polycystinea,#ebcc65
+RAD-A,#5b912b
+Spirotrichea,#2f36a1
+Syndiniales,#f04b0e
+Ascomycota,#f04b0e
+Unknown Eukaryota,#a15205
+Parcubacteria,#f04b0e
+vadinHA49,#a15205
+Marine Benthic Group A,#428bca
+Halobacteria,#8bca42
+Group 1.1c,#42cac5
