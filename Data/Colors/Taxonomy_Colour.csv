@@ -1,76 +1,101 @@
-Group,Colour
-Acidimicrobiia,#FAFD7CFF
-Actinobacteria,#9632B8FF
-Alphaproteobacteria,#D43F3AFF
-Bacteroidia,#357EBDFF
-Deltaproteobacteria,#c6ecde
-Gammaproteobacteria,#EEA236FF
-Nitrososphaeria,#996622
-Oxyphotobacteria,#339900FF
-Thermoplasmata,#662299
-Unknown Marinimicrobia (SAR406 clade),#E762D7FF
-Dehalococcoidia,#7e7b52
-Nitrospinia,#FDAF91FF
-Planctomycetacia,#76ecfe
-Verrucomicrobiae,#1f621e
-BD2-11 terrestrial group,#afbd22
-Calditrichia,#40b5bc
-Ignavibacteria,#962c54
-Kiritimatiellae,#2c5496
-OM190,#f04b0e
-Rhodothermia,#f0bc0e
-Subgroup 22,#89819f
-Thermoanaerobaculia,#ebcc65
-Thermodesulfovibrionia,#5b912b
-Unknown Latescibacteria,#dd447d
-Holophagae,#e71837
-Acidobacteriia,#ffd732
-Phycisphaerae,#d7a036
-Spirochaetia,#663399
-Clostridia,#62eb96
-Melainabacteria,#87244b
-Negativicutes,#f0f209
-Saccharimonadia,#ffc425
-Unknown FCPU426,#d11141
-Methanobacteria,#0080ff
-Bathyarchaeia,#D08442
-Odinarchaeia,#428ed0
-Unknown Archaea,#8442d0
-Woesearchaeia,#229966
-Bacillariophyta,#FAFD7CFF
-Chrysophyceae-Synurophyceae,#afbd22
-Chrysophyceae,#40b5bc
-Dictyochophyceae,#EEA236FF
-Embryophyceae,#339900FF
-Mamiellophyceae,#62eb96
-Ochrophyta organism,#FDAF91FF
-Pelagophyceae,#f0bc0e
-Prymnesiophyceae,#0080ff
-Cryptophyceae,#8442d0
-Crustaceans,#9632B8FF
-Flatworms,#357EBDFF
-Gastrotrichs,#EEA236FF
-Nematodes,#339900FF
-Segmented Worms,#e71837
-Arrow Worms,#FAFD7CFF
-Bivalves,#2e7a97
-Bryozoans,#62eb96
-Hydrozoans,#ed5555
-Ribbon Worms,#ffc425
-Tardigrades,#afbd22
-Arthropoda,#357EBDFF
-AX,#EEA236FF
-Cnidaria,#E762D7FF
-Dinophyceae,#1f621e
-Heterolobosea,#40b5bc
-Polycystinea,#ebcc65
-RAD-A,#5b912b
-Spirotrichea,#2f36a1
-Syndiniales,#f04b0e
-Ascomycota,#f04b0e
-Unknown Eukaryota,#a15205
-Parcubacteria,#f04b0e
-vadinHA49,#a15205
-Marine Benthic Group A,#428bca
-Halobacteria,#8bca42
-Group 1.1c,#42cac5
+Group,Colour,
+Acidimicrobiia,#FAFD7CFF,
+Actinobacteria,#9632B8FF,
+Alphaproteobacteria,#D43F3AFF,
+Bacteroidia,#357EBDFF,
+Deltaproteobacteria,#c6ecde,
+Gammaproteobacteria,#EEA236FF,
+Nitrososphaeria,#a33800,#1a472a
+Oxyphotobacteria,#339900FF,
+Thermoplasmata,#f9d423,
+Unknown Marinimicrobia (SAR406 clade),#E762D7FF,
+Dehalococcoidia,#7e7b52,
+Nitrospinia,#FDAF91FF,
+Planctomycetacia,#76ecfe,
+Verrucomicrobiae,#1f621e,
+BD2-11 terrestrial group,#afbd22,
+Calditrichia,#40b5bc,
+Ignavibacteria,#962c54,
+Kiritimatiellae,#2c5496,
+OM190,#f04b0e,
+Rhodothermia,#f0bc0e,
+Subgroup 22,#89819f,
+Thermoanaerobaculia,#ebcc65,
+Thermodesulfovibrionia,#5b912b,
+Unknown Latescibacteria,#dd447d,
+Holophagae,#e71837,
+Acidobacteriia,#ffd732,
+Phycisphaerae,#d7a036,
+Spirochaetia,#663399,
+Clostridia,#62eb96,
+Melainabacteria,#87244b,
+Negativicutes,#f0f209,
+Saccharimonadia,#ffc425,
+Unknown FCPU426,#d11141,
+Methanobacteria,#0080ff,
+Bathyarchaeia,#D08442,
+Odinarchaeia,#428ed0,
+Unknown Archaea,#8442d0,
+Woesearchaeia,#229966,
+Bacillariophyta,#339900FF,
+Chrysophyceae-Synurophyceae,#afbd22,
+Chrysophyceae,#40b5bc,
+Dictyochophyceae,#EEA236FF,
+Embryophyceae,#339900FF,
+Mamiellophyceae,#D43F3AFF,
+Ochrophyta organism,#FDAF91FF,
+Pelagophyceae,#f0bc0e,
+Prymnesiophyceae,#0080ff,
+Cryptophyceae,#8442d0,
+Crustaceans,#9632B8FF,
+Flatworms,#357EBDFF,
+Gastrotrichs,#EEA236FF,
+Nematodes,#339900FF,
+Segmented Worms,#e71837,
+Arrow Worms,#FAFD7CFF,
+Bivalves,#2e7a97,
+Bryozoans,#62eb96,
+Hydrozoans,#ed5555,
+Ribbon Worms,#ffc425,
+Tardigrades,#afbd22,
+Arthropoda,#357EBDFF,
+AX,#d6c466,
+Cnidaria,#E762D7FF,
+Dinophyceae,#1f621e,
+Heterolobosea,#40b5bc,
+Polycystinea,#ebcc65,
+RAD-A,#5b912b,
+Spirotrichea,#2f36a1,
+Syndiniales,#EEA236FF,
+Ascomycota,#f04b0e,
+Unknown Eukaryota,#a15205,
+Parcubacteria,#f04b0e,
+vadinHA49,#a15205,
+Marine Benthic Group A,#428bca,
+Halobacteria,#8bca42,
+Group 1.1c,#662299,
+Crenarchaeota Incertae Sedis,#ca428b,
+Prasinophyceae,#E762D7FF,
+Unknown Ochrophyta,#FAFD7CFF,
+Bolidophyceae,#0080ff,
+CX,#ffe433,
+Colpodea,#b42006,
+Acantharea,#eb1469,
+Cyanobacteria,#339900FF,
+Deferribacteres,#7e7b52,
+Flavobacteriia,#357EBDFF,
+Unknown Chloroflexi,#FDAF91FF,
+RAD-B,#afbd22,
+Poseidoniia,#EEA236FF,
+Labyrinthulomycetes,#ffd732,
+Unknown,#853232,
+Anaerolineae,#69140a,
+Elusimicrobia,#00ffff,
+Fibrobacteria,#949810,
+Fimbriimonadia,#e5b551,
+Methanomicrobia,#ff6666,
+Subgroup 6,#100a7c,
+Thermoleophilia,#576675,
+Unknown Bacteria,#420420,
+Unknown FBP,#daa520,
+Unknown WS4,#ffff66,
