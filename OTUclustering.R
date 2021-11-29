@@ -1,7 +1,5 @@
 ##### Creating OTUs based on aligned sequence distances #####
 
-rm(list = ls(all=T))
-
 library(tidyverse)
 
 source("datalistFunctions.R")
