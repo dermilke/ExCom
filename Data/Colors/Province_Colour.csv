@@ -6,12 +6,17 @@ SSTC,#d9984f
 SPSG,#ffcf40
 PEQD,#d62d20
 PNEC,#d94f90
+<<<<<<< HEAD
 NTPG,#870087
+=======
+NPTG,#870087
+>>>>>>> refs/remotes/origin/master
 NPST,#7fffd4
 NPPF,#5ac18e
 PSAG,#36802d
 BERS,#30514f
 N-SANT,#01cdfe
+<<<<<<< HEAD
 S-SANT,#428bca
 APLR,#85b6bb
 FKLD,#78369f
@@ -20,3 +25,6 @@ WTRA,#d27120
 NATR,#f1b434
 NAST,#558a33
 NADR,#327250
+=======
+S-SANT,#428bca
+>>>>>>> refs/remotes/origin/master

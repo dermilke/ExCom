@@ -5,13 +5,21 @@ Alphaproteobacteria,#D43F3AFF,
 Bacteroidia,#357EBDFF,
 Deltaproteobacteria,#c6ecde,
 Gammaproteobacteria,#EEA236FF,
+<<<<<<< HEAD
 Nitrososphaeria,#a33800,
+=======
+Nitrososphaeria,#a33800,#1a472a
+>>>>>>> refs/remotes/origin/master
 Oxyphotobacteria,#339900FF,
 Thermoplasmata,#f9d423,
 Unknown Marinimicrobia (SAR406 clade),#E762D7FF,
 Dehalococcoidia,#7e7b52,
 Nitrospinia,#FDAF91FF,
+<<<<<<< HEAD
 Planctomycetacia,#FAFD7CFF,#76ecfe
+=======
+Planctomycetacia,#76ecfe,
+>>>>>>> refs/remotes/origin/master
 Verrucomicrobiae,#1f621e,
 BD2-11 terrestrial group,#afbd22,
 Calditrichia,#40b5bc,
@@ -24,8 +32,13 @@ Thermoanaerobaculia,#ebcc65,
 Thermodesulfovibrionia,#5b912b,
 Unknown Latescibacteria,#dd447d,
 Holophagae,#e71837,
+<<<<<<< HEAD
 Acidobacteriia,#663399,#ffd732
 Phycisphaerae,#89819f,#d7a036
+=======
+Acidobacteriia,#ffd732,
+Phycisphaerae,#d7a036,
+>>>>>>> refs/remotes/origin/master
 Spirochaetia,#663399,
 Clostridia,#62eb96,
 Melainabacteria,#87244b,
@@ -37,7 +50,11 @@ Bathyarchaeia,#D08442,
 Odinarchaeia,#428ed0,
 Unknown Archaea,#8442d0,
 Woesearchaeia,#229966,
+<<<<<<< HEAD
 Bacillariophyta,#66CC00,
+=======
+Bacillariophyta,#339900FF,
+>>>>>>> refs/remotes/origin/master
 Chrysophyceae-Synurophyceae,#afbd22,
 Chrysophyceae,#40b5bc,
 Dictyochophyceae,#EEA236FF,
@@ -55,7 +72,11 @@ Segmented Worms,#e71837,
 Arrow Worms,#FAFD7CFF,
 Bivalves,#2e7a97,
 Bryozoans,#62eb96,
+<<<<<<< HEAD
 Hydrozoans,x,
+=======
+Hydrozoans,#ed5555,
+>>>>>>> refs/remotes/origin/master
 Ribbon Worms,#ffc425,
 Tardigrades,#afbd22,
 Arthropoda,#357EBDFF,
@@ -98,6 +119,7 @@ Subgroup 6,#100a7c,
 Thermoleophilia,#576675,
 Unknown Bacteria,#420420,
 Unknown FBP,#daa520,
+<<<<<<< HEAD
 Unknown WS4,#ffff66,
 Oligohymenophorea,#339900FF,
 Unknown Chlorophyta,#FDAF91FF,
@@ -171,3 +193,6 @@ Actinomycetia,#9632B8FF,
 Campylobacteria,#2eb9b5,
 Planctomycetia,#FAFD7CFF,
 Vicinamibacteria,#ff6666,
+=======
+Unknown WS4,#ffff66,
+>>>>>>> refs/remotes/origin/master
