@@ -1,169 +1,169 @@
 OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	1-200-3	1-200-8	1-300-0.22	1-60-3	10-20-0.22	10-20-3
 00232f374cfc930f3fffbaef0d0c6d80	Bacteria	Proteobacteria	Gammaproteobacteria	HgCo23	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	9	0	0	0
-00713acdc5483c168999109394c7cff7	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	Blastocatella bacterium	56	69	37	0	0	0
-00c4c1c65d8669ed9f07abe149f9a01d	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	OCS116 clade bacterium	OCS116 clade bacterium	0	0	0	50	0	0
+00713acdc5483c168999109394c7cff7	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	unknown Blastocatella	56	69	37	0	0	0
+00c4c1c65d8669ed9f07abe149f9a01d	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	unknown OCS116 clade	unknown OCS116 clade	0	0	0	50	0	0
 014f58766f882e0c98eabd33229e9da9	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfarculales	Desulfarculaceae	uncultured	uncultured delta proteobacterium	0	9	0	0	0	0
-01677752b1ecceb552fd3cb185a26bdb	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	12	0	0	0	0	0
+01677752b1ecceb552fd3cb185a26bdb	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	12	0	0	0	0	0
 0225d05bb66c5a547c8ae332bc9534eb	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	uncultured marine bacterium	0	13	0	0	0	0
 023508b3d98703578691529c14d1aab2	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	0	0	0	0	190	0
 0369ed25113dc257ea5bed8edc5bfd9d	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	0	0	0	0	101	0
-038d60fb14879bfb6c909d0bfe8c8940	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	7	0	0	0
+038d60fb14879bfb6c909d0bfe8c8940	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	7	0	0	0
 03ab93d845083373ace598d92ee9765a	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Cryomorphaceae	uncultured	uncultured Owenweeksia sp.	0	0	0	34	0	0
 03c5273acf49d5f662eaf4346fc47bb0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	6	0
 04a47212749ae920d5426a2650d9f8e4	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	marine metagenome	marine metagenome	marine metagenome	0	0	0	23	0	0
-04b0ce85a4466b0d1d946905ace50237	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	NS9 marine group bacterium	NS9 marine group bacterium	0	0	0	9	0	0
-053803f6334c0980d486973cd5b42376	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	OM27 clade bacterium	0	13	0	0	0	0
+04b0ce85a4466b0d1d946905ace50237	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	unknown NS9 marine group	unknown NS9 marine group	0	0	0	9	0	0
+053803f6334c0980d486973cd5b42376	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	unknown OM27 clade	0	13	0	0	0	0
 065b07f56ceb647b70a8eb6c98ea4bb9	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	4	0	0	0	0
 0687f78ed118642d5ac7357d14b3586f	Bacteria	Planctomycetes	Pla3 lineage	uncultured planctomycete	uncultured planctomycete	uncultured planctomycete	uncultured planctomycete	5	0	0	0	0	0
-0689b2bcbd0fde1688e1a0210bd5c701	Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	0	18	0	0	0	0
-075c32e386967d7aa9b1b4a27c9b4854	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	87	0	0
+0689b2bcbd0fde1688e1a0210bd5c701	Bacteria	Proteobacteria	Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	0	18	0	0	0	0
+075c32e386967d7aa9b1b4a27c9b4854	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	87	0	0
 0780c22c545ff02f8993b1837b08b3c5	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	132	0	0
-09304de7bcdde93714df6d4800a79b4d	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium bacterium	0	28	0	0	0	0
-098148fd37c4e150eeb8daae24b7faa5	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	Henriciella bacterium	23	29	0	0	0	0
+09304de7bcdde93714df6d4800a79b4d	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	unknown Mycobacterium	0	28	0	0	0	0
+098148fd37c4e150eeb8daae24b7faa5	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Henriciella	unknown Henriciella	23	29	0	0	0	0
 0b1c2b9ed02095f223b442c9bdd35006	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	0	18	1120	0
-0c4847f9b58aa8469a655e382af656d9	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	0	0	32	0	0	0
-0c9555db9393750e7e5fa8c36125c9f6	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	SAR92 clade bacterium	0	0	0	24	0	0
+0c4847f9b58aa8469a655e382af656d9	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	0	0	32	0	0	0
+0c9555db9393750e7e5fa8c36125c9f6	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	unknown SAR92 clade	0	0	0	24	0	0
 0d391ddc849fe8fe54de114a4a6b3d46	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	Ambiguous_taxa	8	0	0	0	0	0
-0e26d35a67af25a2b4ce071c774db4a2	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	16	0	0
+0e26d35a67af25a2b4ce071c774db4a2	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	16	0	0
 0e5915bd9df9a70a51abcfa8739f1a84	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	marine metagenome	0	0	0	16	0	0
-0e98bee086019db35e0976a5ef4f92e3	Bacteria	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	9	9	0	0	0	0
+0e98bee086019db35e0976a5ef4f92e3	Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	9	9	0	0	0	0
 0f2551eb7c43e82c8bd59d9e51a5aadf	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	0	173	0	0
 0f8acccd4e4670461d46a9a8b7ec890b	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	5	0	0	0
 1040ac2ea3623b07c3b076572151499b	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	6	0	0
 1086637ffa5016a8f9f1311965a8c1f3	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	9	0	0	0
-1169e4a9b8791b0ba26c062c610fed24	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	Alteromonas bacterium	0	0	0	0	34	0
-12342bc5a8b458024ce32abaebef3521	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	85	0	0
+1169e4a9b8791b0ba26c062c610fed24	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	unknown Alteromonas	0	0	0	0	34	0
+12342bc5a8b458024ce32abaebef3521	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	85	0	0
 12410564eef73c3c877af2b6ea638ba2	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	10	553	0	0
-12d5ccc750efc584519f6dc6e8badba0	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	18	0
+12d5ccc750efc584519f6dc6e8badba0	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	18	0
 13619828c878447a5e2bc1cf8b804d6b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Stappiaceae	Labrenzia	Ambiguous_taxa	6	0	0	0	0	0
 13806f533739605d754850272931f9ab	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	4	0	0	0
-13eea987393ec9079bd9805404f0d4b3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	122	1030	0
-13f83513155132e0e5e0a35a83139522	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	Blastocatella bacterium	14	14	0	0	0	0
-1401cfd6a11ecc38fc403120fd9baf85	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	0	39	0
+13eea987393ec9079bd9805404f0d4b3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	122	1030	0
+13f83513155132e0e5e0a35a83139522	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	unknown Blastocatella	14	14	0	0	0	0
+1401cfd6a11ecc38fc403120fd9baf85	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	0	39	0
 14244a5ca23d163c729d468f01ccc474	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	0	18	0
-14b80c114f83d3890a10ea17a66e3ac5	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	SAR86 clade bacterium	SAR86 clade bacterium	SAR86 clade bacterium	0	0	0	29	6	0
+14b80c114f83d3890a10ea17a66e3ac5	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	0	0	0	29	6	0
 14c9dab7ef89df3d9edeb9b529065d0e	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45	Ambiguous_taxa	Ambiguous_taxa	5	0	0	0	0	0
 1509e348df63bea777aafd5796372abc	Bacteria	Chloroflexi	JG30-KF-CM66	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	5	0	0	0	0	0
 151badb74ff04e42c9c93ce7bdb6b20e	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	P3OB-42	uncultured bacterium	uncultured bacterium	0	0	5	0	0	0
 1551d560c797f06308fe23770fe27619	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	marine metagenome	marine metagenome	marine metagenome	0	0	9	0	0	0
 155887d600fc88a24f01cd62da008cb3	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	0	75	0
-1592091d5a0cacf5bad46fbc50d6bd12	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Xanthobacteraceae bacterium	Xanthobacteraceae bacterium	8	0	0	0	0	0
+1592091d5a0cacf5bad46fbc50d6bd12	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	unknown Xanthobacteraceae	unknown Xanthobacteraceae	8	0	0	0	0	0
 165d53a3627c5b13dc0e4d43a9585b35	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	116	0	0
 16f7c728fe7f8f9a9949102acd617bc8	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Arenibacter	Ambiguous_taxa	4	0	0	0	0	0
 1816e09570f69294ef9acec1652a8455	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	40	0	0	0
 1902c4b8eb03e5ee67fc1960dfb418c2	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	uncultured	uncultured bacterium	0	11	0	0	0	0
 195ea247db83e0610b18d380550c48e5	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Gimesiaceae	Gimesia	Ambiguous_taxa	0	26	0	0	0	0
 1982df1413137789d207f675a4ec4adc	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02	uncultured planctomycete	0	46	0	0	0	0
-1a3cf97c1aa3c3e5d855ab1218a9fb28	Bacteria	Planctomycetes	BD7-11	BD7-11 bacterium	BD7-11 bacterium	BD7-11 bacterium	BD7-11 bacterium	0	2	0	0	0	0
+1a3cf97c1aa3c3e5d855ab1218a9fb28	Bacteria	Planctomycetes	BD7-11	unknown BD7-11	unknown BD7-11	unknown BD7-11	unknown BD7-11	0	2	0	0	0	0
 1a7732dfe27d6838b8c1778357f57964	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	7	0	0
 1ab218e8e54c591636f830262de2be58	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Magnetospira	Ambiguous_taxa	4	0	0	0	0	0
-1ab3eff4e2a4f8e248aa8fe7147cb24e	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	46	0	0
-1b5a60402861b0b7c2765dcc85c7db70	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	12	0	0	0
-1b99aaeb64bee113af2f78c0551b142f	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacteriaceae bacterium	Microbacteriaceae bacterium	23	0	0	0	0	0
+1ab3eff4e2a4f8e248aa8fe7147cb24e	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	46	0	0
+1b5a60402861b0b7c2765dcc85c7db70	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	12	0	0	0
+1b99aaeb64bee113af2f78c0551b142f	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	unknown Microbacteriaceae	unknown Microbacteriaceae	23	0	0	0	0	0
 1be989868673897fa0bda04b1a02eb60	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	0	12	0	0
 1c8b34d8f5b31f94bedcaf79ace4e77e	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	marine metagenome	marine metagenome	0	0	0	17	0	0
-1c9b722217592cbca01202112c753162	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured bacterium	0	0	0	13	0	0
+1c9b722217592cbca01202112c753162	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	unknown uncultured	0	0	0	13	0	0
 1cf354e9fa6ab14d2e27b9aea534f5ba	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	Ambiguous_taxa	Ambiguous_taxa	0	0	0	16	0	0
-1d154b6bac94567b760b1710e91c79ca	Bacteria	Acidobacteria	Subgroup 21	Subgroup 21 bacterium	Subgroup 21 bacterium	Subgroup 21 bacterium	Subgroup 21 bacterium	0	7	0	0	0	0
-1d8ee0be7f19241be4b40d0927bb8619	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Coxiella bacterium	0	0	0	8	0	0
-1dc09c355256b9137a2e3d95fd54e86e	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonadaceae bacterium	Sphingomonadaceae bacterium	0	0	12	7	0	0
+1d154b6bac94567b760b1710e91c79ca	Bacteria	Acidobacteria	Subgroup 21	unknown Subgroup 21	unknown Subgroup 21	unknown Subgroup 21	unknown Subgroup 21	0	7	0	0	0	0
+1d8ee0be7f19241be4b40d0927bb8619	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	unknown Coxiella	0	0	0	8	0	0
+1dc09c355256b9137a2e3d95fd54e86e	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	unknown Sphingomonadaceae	unknown Sphingomonadaceae	0	0	12	7	0	0
 1df60b9f54cf25fefe73d5e70fa3c2a8	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	74	0
-1e34dbcf6ea7eff18d045e30eb12be2e	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	70	0	0	0
-1efd63c42025dae4afe5095e0c856f83	Bacteria	Proteobacteria	Gammaproteobacteria	Ga0077536	Ga0077536 bacterium	Ga0077536 bacterium	Ga0077536 bacterium	0	22	0	0	0	0
-1f344f9b751898ccc2e28e0593d6f2e9	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Candidatus Actinomarina bacterium	0	0	0	82	0	0
+1e34dbcf6ea7eff18d045e30eb12be2e	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	70	0	0	0
+1efd63c42025dae4afe5095e0c856f83	Bacteria	Proteobacteria	Gammaproteobacteria	Ga0077536	unknown Ga0077536	unknown Ga0077536	unknown Ga0077536	0	22	0	0	0	0
+1f344f9b751898ccc2e28e0593d6f2e9	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	unknown Candidatus Actinomarina	0	0	0	82	0	0
 1f8ca282cfb0f42d5afce37fa24618df	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	Simkaniaceae	uncultured	metagenome	0	0	0	9	0	0
-20a0d2f150b3312772f5c00e54fd7baf	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	NS2b marine group bacterium	0	0	0	420	0	0
-20eada1922a1fcd6faffd5713b528a82	Bacteria	Margulisbacteria	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	3	0	0	0	0	0
+20a0d2f150b3312772f5c00e54fd7baf	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	unknown NS2b marine group	0	0	0	420	0	0
+20eada1922a1fcd6faffd5713b528a82	Bacteria	Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	3	0	0	0	0	0
 21ddfc89c4ff2cf41bd991c7a8f4831f	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	20	0	0
 21e17de71dd905a4095354cb4351839f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Muricauda	uncultured bacterium	7	11	0	0	0	0
-2209364ae80b444d90b63c9866efff2e	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	17	0	0	0
+2209364ae80b444d90b63c9866efff2e	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	17	0	0	0
 2280feccc26074dbd6675b25b5559f0c	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured deep-sea bacterium	uncultured deep-sea bacterium	uncultured deep-sea bacterium	0	0	10	0	0	0
 22a6f2b05f6665a4c54809af16415a1e	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	uncultured bacterium	7	0	0	0	0	0
 232c9842c9756a943c5f2b619ea9a434	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	3	0	0	0
 239f7f3079d5bc2e711f24c95d253908	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured marine bacterium	3	0	0	0	0	0
 24fe443a2806c07b67090c380b45ce51	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	uncultured marine eukaryote	0	0	0	5	0	0
 259dba8d349b89fdecefcd439b023c96	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured bacterium	0	0	0	3	0	0
-25b1587f9d2ce6a2f046e92cd496599d	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Pirellula	Pirellula bacterium	0	0	0	70	0	0
+25b1587f9d2ce6a2f046e92cd496599d	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Pirellula	unknown Pirellula	0	0	0	70	0	0
 25e3a20dee4030a0865879789f518147	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	0	0	0	0	67	0
 261a73c6417e72f98ca58114702d9f98	Bacteria	PAUC34f	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	3	0	0	0	0	0
 2666c28abcb7e5140a52f2ea995f05b2	Bacteria	Proteobacteria	Gammaproteobacteria	KI89A clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	17	0	0
 27519dfda8b463271f576f8bc5200f63	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	31	0	0	11	0	0
 27657d9a19a7544663aa3dcf45cbf143	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	P3OB-42	uncultured bacterium	uncultured bacterium	3	9	0	0	0	0
 2785fb0b491e01264e5358053d12618e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	Ambiguous_taxa	0	0	0	0	12	0
-27ca2b8f287c3a7e4d864cc870cf67b7	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	398	0	0
-27edcf20818a2e22b02dda0168e8a82b	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	uncultured	uncultured bacterium	0	65	0	0	0	0
+27ca2b8f287c3a7e4d864cc870cf67b7	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	398	0	0
+27edcf20818a2e22b02dda0168e8a82b	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	uncultured	unknown uncultured	0	65	0	0	0	0
 281a8c0145f56a7d7a63f9b06847b862	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	uncultured Hyphomicrobiaceae bacterium	6	0	0	0	0	0
 284056dd9333bfb812d1b2bb79369200	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	hydrothermal vent metagenome	hydrothermal vent metagenome	0	3	0	0	0	0
 2859d0c4e0f71bcc5074a5cf465bb43f	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	Ambiguous_taxa	0	0	38	0	0	0
-2997f1920aefbb91632b549f2538b73b	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	Clade Ia bacterium	0	0	0	7	26	0
+2997f1920aefbb91632b549f2538b73b	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	unknown Clade Ia	0	0	0	7	26	0
 29adfe738220e55512f65524687fca9a	Bacteria	PAUC34f	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	5	0	0	0
-29fd937aa8d6e5a115ad64e2209a9ec6	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	Phenylobacterium bacterium	0	0	14	0	0	0
+29fd937aa8d6e5a115ad64e2209a9ec6	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	unknown Phenylobacterium	0	0	14	0	0	0
 2a42393f6da41b7bbff9b036fd34a7bc	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	uncultured	marine metagenome	0	0	48	0	0	0
-2a86cccd424ed4c7f2b08d91d95165a1	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Midichloriaceae	MD3-55	MD3-55 bacterium	6	0	0	0	0	0
+2a86cccd424ed4c7f2b08d91d95165a1	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Midichloriaceae	MD3-55	unknown MD3-55	6	0	0	0	0	0
 2aa9a3c6f6965c9b78a271efe8096b99	Bacteria	Proteobacteria	Gammaproteobacteria	Piscirickettsiales	Piscirickettsiaceae	Candidatus Endoecteinascidia	uncultured marine bacterium	0	0	0	4	0	0
 2b2fb78de0f085023779de5078d92fae	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	metagenome	metagenome	9	0	0	0	0	0
 2b426003f80a504011fefd302d6311d4	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	0	0	42	0	0	0
 2b57c198938e7481ac86753a8cfaa087	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	41	0
-2c390d4b017b859fc20866eb5882c2c9	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	A4b bacterium	A4b bacterium	5	0	0	0	0	0
-2c40e9498897c85eda8fde851826e7e7	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	Pseudohongiella bacterium	4	0	9	0	0	0
+2c390d4b017b859fc20866eb5882c2c9	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	unknown A4b	unknown A4b	5	0	0	0	0	0
+2c40e9498897c85eda8fde851826e7e7	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	unknown Pseudohongiella	4	0	9	0	0	0
 2d98fa777fdf85b2ba3c90bf7f35d374	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	8	0
 2dc46d3959e0edd8e5d9a42d71934ca0	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	uncultured	uncultured marine bacterium	5	0	0	0	0	0
 2ddfcd91636853ea427bfd186377cd65	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	uncultured marine bacterium	0	7	0	0	0	0
 2de4c4d21f34ef30deccd7956154f589	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	12	0	35	0	0	0
-2ded10c32eba63612f9cd7cb0dee11d8	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	Erythrobacter bacterium	0	7	0	0	0	0
+2ded10c32eba63612f9cd7cb0dee11d8	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter	unknown Erythrobacter	0	7	0	0	0	0
 2e36396f2a2cf0a66df12340031af4e9	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	uncultured	Ambiguous_taxa	Ambiguous_taxa	26	12	18	0	0	0
-2e564f8aca17849c7fa754f1abdf72ce	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	uncultured bacterium	0	5	0	0	0	0
+2e564f8aca17849c7fa754f1abdf72ce	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	unknown uncultured	0	5	0	0	0	0
 2eaca7bbe24298729fdade842d8d0622	Bacteria	Acidobacteria	Subgroup 26	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	16	0	0	0
-2ec7114c8f390b5c2a6c2b7897a1c73d	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Nitratireductor	Nitratireductor bacterium	30	15	0	0	0	0
-2fc57e79de44ed1f662497532b95668f	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	50	0	0
+2ec7114c8f390b5c2a6c2b7897a1c73d	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Nitratireductor	unknown Nitratireductor	30	15	0	0	0	0
+2fc57e79de44ed1f662497532b95668f	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	unknown uncultured	unknown uncultured	unknown uncultured	0	0	0	50	0	0
 2ff0a172c72d96fac751f72b803c6ee7	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	0	14	137	0	0	0
 30ed8d4e2915d97b2906d9a9a9a33e4c	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured gamma proteobacterium HF4000_19M20	uncultured gamma proteobacterium HF4000_19M20	uncultured gamma proteobacterium HF4000_19M20	0	5	0	0	0	0
 3152207514dbef092ba6c74544c667af	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	62	0
 31f18280654c3b734dc52067fad44df7	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	uncultured marine bacterium	0	0	0	93	0	0
-31f1c6b0fc2ac518e94e7cadfe7f28a1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	81	130	0
+31f1c6b0fc2ac518e94e7cadfe7f28a1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	81	130	0
 32a1de2e50f861d3faa0a10359894288	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	37	0
 32fca445b760a61f0140ac465546c643	Bacteria	Planctomycetes	Planctomycetacia	uncultured	uncultured planctomycete	uncultured planctomycete	uncultured planctomycete	21	0	0	0	0	0
-33403727eab5e74f77f4fdb62af21ab9	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	3	0	0	0
+33403727eab5e74f77f4fdb62af21ab9	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	3	0	0	0
 33488aab37a5015697d273c52eae05bf	Bacteria	Planctomycetes	OM190	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	6	0	0	0	0
 335320754dc1b90d6dbb6c195dc3ddab	Bacteria	Acidobacteria	Subgroup 6	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	13	0	64	0	0	0
 344089ebc509c879da59f936bf57322d	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	0	13	0
 3441b55697a9ee5d7140a1b463d8513e	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	75	0	0
-3468430277ce2317dec6f413dcfaa03e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ascidiaceihabitans	Ascidiaceihabitans bacterium	0	0	0	50	0	0
-34b36c0071414535f29d7558a25a8f3f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	104	0	0
+3468430277ce2317dec6f413dcfaa03e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ascidiaceihabitans	unknown Ascidiaceihabitans	0	0	0	50	0	0
+34b36c0071414535f29d7558a25a8f3f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	104	0	0
 352d9607a6e5f58072d7ec9c0c019585	Bacteria	Acidobacteria	Subgroup 6	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	21	0	0	0
 353261e56f5f40772892c06760f7cafb	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	uncultured bacterium	3	0	0	0	0	0
 35e78c8d325d722664022c308e809585	Bacteria	Planctomycetes	Pla3 lineage	uncultured planctomycete	uncultured planctomycete	uncultured planctomycete	uncultured planctomycete	0	6	0	0	0	0
 36f6f8223d6670ccdbe5e61cf4c605c4	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Eel-36e1D6	uncultured delta proteobacterium	uncultured delta proteobacterium	4	0	0	0	0	0
 3754b474d7e5d262794cf0d3e078f006	Bacteria	WPS-2	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	44	0	0
 37569180595c13dc2818dadf11078581	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured Rhodobacteraceae bacterium	0	0	0	148	0	0
-389adab348868b45815efabf492f7819	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Hydrogenophilaceae	Tepidiphilus	Tepidiphilus bacterium	3	11	0	0	0	0
-389d7b68cc34a122d8ee90438f9b279e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Magnetospira	Magnetospira bacterium	0	0	4	0	0	0
-392ee7492e923e4f13c5a405ea403f9d	Bacteria	Margulisbacteria	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	7	0	0	0	0	0
-392f23bedb0596d56f855f8637b5f871	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	42	19	14	0	0	0
+389adab348868b45815efabf492f7819	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Hydrogenophilaceae	Tepidiphilus	unknown Tepidiphilus	3	11	0	0	0	0
+389d7b68cc34a122d8ee90438f9b279e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	Magnetospira	unknown Magnetospira	0	0	4	0	0	0
+392ee7492e923e4f13c5a405ea403f9d	Bacteria	Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	7	0	0	0	0	0
+392f23bedb0596d56f855f8637b5f871	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	42	19	14	0	0	0
 393771342e9f75ab65e2d1ace3de5d2b	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	0319-6G20	Ambiguous_taxa	Ambiguous_taxa	6	0	0	0	0	0
 39b5438dd50050fe6484da6719bb7468	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	8	0	0	0	0	0
-39bf64c33eb7e375663d0672c1f6e68c	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	Pseudonocardia bacterium	17	12	0	0	0	0
-39f9479aaf160ee2fd7c82e24a28f54a	Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	0	0	0	7	0	0
+39bf64c33eb7e375663d0672c1f6e68c	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia	unknown Pseudonocardia	17	12	0	0	0	0
+39f9479aaf160ee2fd7c82e24a28f54a	Bacteria	Proteobacteria	Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	0	0	0	7	0	0
 3a15db1c9e3ab24a60e364854be4c8c8	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	0	0	22	0	0	0
 3a692c573f1c89e26f98a8c357a10a96	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	7	0	0
-3a8a7409bdc33da14a01ec3e3313b9a7	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus bacterium	0	8	0	0	0	0
-3b8a6a1e831ff317190dab9392eae0db	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	88	0	0
+3a8a7409bdc33da14a01ec3e3313b9a7	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	unknown Staphylococcus	0	8	0	0	0	0
+3b8a6a1e831ff317190dab9392eae0db	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	88	0	0
 3b9757662bd48cd960323389dff580c3	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	uncultured delta proteobacterium	0	17	0	0	0	0
 3b9848bcf6e8ea84a7d5ba080be7fefe	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	118	58	0
 3ce75cd3fc45da312be462504f90da53	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	96	0	0
 3d0d96ced1f2cb596c86e245d598baa2	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	63	96	0
-3e526e7f9d0ce0f82aa692324290bf59	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	Nitrospina bacterium	0	0	6	0	0	0
-3e55906ed8ff656a2279c79afb9fcfdf	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	uncultured bacterium	0	0	4	0	0	0
+3e526e7f9d0ce0f82aa692324290bf59	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	unknown Nitrospina	0	0	6	0	0	0
+3e55906ed8ff656a2279c79afb9fcfdf	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	unknown uncultured	0	0	4	0	0	0
 3e72b8de860ab796bf7f5dde632be5c9	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	uncultured gamma proteobacterium	0	0	0	58	0	0
 3ef0fe65c6a4f0a310952791a050d49c	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	22	0	0	0	0
 3f0e01a49b7642132bffbe57fdf225a2	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Peredibacter	metagenome	0	4	0	0	0	0
-3f306c3e1c4fcafdebbf916a780bb91e	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	19	0	0	0
+3f306c3e1c4fcafdebbf916a780bb91e	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	19	0	0	0
 3f5a7dcd1a7e2165d00e5c0a1f1755fc	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	85	0	0
 3f75af9bba716b458ed2573d8ed7f5cc	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	54	0	0	511	0	0
 3fc44c4edb89e5a33b7a2bef6fd75d99	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	cvE6	uncultured bacterium	uncultured bacterium	0	0	0	29	0	0
-3fcd1379c87bc6cb5bd3cdbbe10a298d	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	0	43	0
+3fcd1379c87bc6cb5bd3cdbbe10a298d	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	0	43	0
 40468b5c5be21815dad91b11261d8687	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	uncultured	uncultured marine bacterium	0	0	0	32	0	0
-404af273fc4d507301140bc42daab021	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Coxiella bacterium	0	0	0	5	0	0
+404af273fc4d507301140bc42daab021	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	unknown Coxiella	0	0	0	5	0	0
 40ca48a0e5f43d8774d69b2c8fca3830	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured SAR86 cluster bacterium	uncultured SAR86 cluster bacterium	uncultured SAR86 cluster bacterium	0	0	0	0	53	0
 41378c0d1422c99fe376b37f5e1eb290	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ambiguous_taxa	Ambiguous_taxa	8	0	0	0	0	0
 413acb769d9d1a100dc3fde5a388f29d	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	uncultured bacterium	uncultured bacterium	0	0	0	21	8	0
@@ -172,95 +172,95 @@ OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	1-200-3	1-200-8	1-300-0.2
 42c934de102d6e0a94dc3ff3260de439	Bacteria	PAUC34f	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	3	0	0	0
 42ccf8875f48f31cd795070e55c1aec6	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	P3OB-42	uncultured bacterium	uncultured bacterium	0	0	0	10	0	0
 43663402b09845f5cb5af0d2207ddbb2	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	Ambiguous_taxa	0	0	0	0	9	0
-43b357636f24d8d3ab42e0b4f83a6ea6	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	SAR116 clade bacterium	SAR116 clade bacterium	0	0	0	100	97	0
-43b8372716a9e3a2b9b96f58ff4a7411	Bacteria	Margulisbacteria	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	Margulisbacteria bacterium	0	0	0	3	0	0
+43b357636f24d8d3ab42e0b4f83a6ea6	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	unknown SAR116 clade	unknown SAR116 clade	0	0	0	100	97	0
+43b8372716a9e3a2b9b96f58ff4a7411	Bacteria	Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	unknown Margulisbacteria	0	0	0	3	0	0
 43c811eee73713e92df41d5df808efb2	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Cryomorphaceae	uncultured	uncultured Owenweeksia sp.	0	0	0	32	0	0
-44e9efaebe760c0be710f881f6e66661	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	79	0
-45d7631d18ed63c2c80003f28ee7cc10	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	Pseudohongiella bacterium	0	0	0	43	0	0
+44e9efaebe760c0be710f881f6e66661	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	79	0
+45d7631d18ed63c2c80003f28ee7cc10	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	unknown Pseudohongiella	0	0	0	43	0	0
 4613b7d14e8907561b3c2377185808ff	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	uncultured	marine metagenome	0	0	31	0	0	0
-4619fcd8310e7a45edb201c8e18e8b7c	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	Pseudohongiella bacterium	0	0	0	0	5	0
-465953a6030e0bfb6de6372f9c9ff09a	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	SAR86 clade bacterium	SAR86 clade bacterium	SAR86 clade bacterium	0	0	0	41	0	0
+4619fcd8310e7a45edb201c8e18e8b7c	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	unknown Pseudohongiella	0	0	0	0	5	0
+465953a6030e0bfb6de6372f9c9ff09a	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	0	0	0	41	0	0
 46a18c97329e9afefa70b7dd6e8d3930	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	marine metagenome	marine metagenome	marine metagenome	0	0	0	0	4	0
 46a58dbeec46438c1dcfb01ffc1f8b7d	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Salinisphaeraceae	Salinisphaera	uncultured bacterium	33	37	15	18	0	0
-46d193cece056874477487980ba56ccf	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Cyanobiaceae bacterium	Cyanobiaceae bacterium	7	0	0	0	0	0
+46d193cece056874477487980ba56ccf	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	unknown Cyanobiaceae	unknown Cyanobiaceae	7	0	0	0	0	0
 475b065e4396bc0baa48bdf16330ddee	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	DEV007	Ambiguous_taxa	Ambiguous_taxa	0	0	0	177	0	0
-480c8f63f11aae3fb4c203e2eb01cb80	Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	4	0	0	0	0	0
+480c8f63f11aae3fb4c203e2eb01cb80	Bacteria	Proteobacteria	Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	4	0	0	0	0	0
 48410c2f7a489101b4855f12559fc277	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	MB11C04 marine group	Ambiguous_taxa	0	0	6	0	0	0
-48c45e81402b779e627315a9d74a5d6f	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	Clade II bacterium	Clade II bacterium	0	0	0	50	0	0
-48ffcb295861dbb73c356cd26f041a07	Bacteria	Planctomycetes	Pla3 lineage	Pla3 lineage bacterium	Pla3 lineage bacterium	Pla3 lineage bacterium	Pla3 lineage bacterium	0	16	0	0	0	0
+48c45e81402b779e627315a9d74a5d6f	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	unknown Clade II	unknown Clade II	0	0	0	50	0	0
+48ffcb295861dbb73c356cd26f041a07	Bacteria	Planctomycetes	Pla3 lineage	unknown Pla3 lineage	unknown Pla3 lineage	unknown Pla3 lineage	unknown Pla3 lineage	0	16	0	0	0	0
 491cea0c05b7a7bd293731a1d3dab91c	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	10	0	0	0	0
 49217c2b99d162ba9f6661c6a35c91ff	Bacteria	Planctomycetes	Pla3 lineage	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	4	20	10	0	0	0
-49337d5cfe8b2fe497bb9236615991b1	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Candidatus Actinomarina bacterium	0	0	0	0	45	0
+49337d5cfe8b2fe497bb9236615991b1	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	unknown Candidatus Actinomarina	0	0	0	0	45	0
 49338f7ee52e573d33f824e7e2a2d725	Bacteria	Proteobacteria	Gammaproteobacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	18	0	0	0
 495d5d9d5c0f503181f93330b631db1d	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	0	0	10	0	0	0
-49c8c4820da6a7fc15e716f27ddf9290	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	0	0	9	0	0	0
+49c8c4820da6a7fc15e716f27ddf9290	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	0	0	9	0	0	0
 49d2d2576b887085591f3c4f9ac98279	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	uncultured organism	uncultured organism	uncultured organism	6	0	0	0	0	0
 4a06b1cfaa2fd0c388172d9c57329053	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	56	0	0	0
-4af5434d8c3c86c1e85d2455dd13d6e1	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas bacterium	79	63	32	0	0	0
+4af5434d8c3c86c1e85d2455dd13d6e1	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	unknown Sphingomonas	79	63	32	0	0	0
 4af6d1e2dd91ba6eed84c2cfe19ce939	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	32	0	0
 4b2815c17a181bc9e9f6444b4e6fbbd5	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	19	0	0	0	0
-4b439911efc92e1109281984edacd4a4	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Altererythrobacter	Altererythrobacter bacterium	0	18	0	0	0	0
+4b439911efc92e1109281984edacd4a4	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Altererythrobacter	unknown Altererythrobacter	0	18	0	0	0	0
 4b6e307a35228e15a1677630d67fd835	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	9	0	17	0	0	0
 4bf0922f1b71f1fbfe243272e71eab0e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Hoeflea	Ambiguous_taxa	21	0	0	0	0	0
-4c3685c132f5b6790e4eabef3274a2f7	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus bacterium	0	0	20	0	0	0
-4cab0df7abb88b31989680d38a6e8df1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Synechococcus CC9902	Synechococcus CC9902 bacterium	0	0	0	142	22	0
+4c3685c132f5b6790e4eabef3274a2f7	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	unknown Micrococcus	0	0	20	0	0	0
+4cab0df7abb88b31989680d38a6e8df1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Synechococcus CC9902	unknown Synechococcus CC9902	0	0	0	142	22	0
 4cd6c49fc9d86b86063d3fd2d1fc3142	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	8	0	0	0	0	0
 4d7f6cda980b48c46331ef83db2602a1	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured gamma proteobacterium	uncultured gamma proteobacterium	uncultured gamma proteobacterium	0	0	8	0	0	0
 4dd0210532d049d500b1bb77d6a7297b	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	0	0	6	0	0	0
 4e329b7b6b3e7aefe01870270858c483	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	4	0	0	0
 4e446a437f4b70fae13651fd0593ca2e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	6	0	0	0
-4ed2f9733c0972cff1540d443ed02187	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	34	0
+4ed2f9733c0972cff1540d443ed02187	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	34	0
 4ed5410552dd1abf46f8c30bf6afb8fe	Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	5	0	0
 4f2f30b530ae3f2b2f7e7b78d7b86a88	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	0	0	0	30	72	0
-4f8257e5a38397d186bc493c97412d42	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	50	531	0
+4f8257e5a38397d186bc493c97412d42	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	50	531	0
 4fc0dd3c9ef2d2a35f25562f8ba88302	Bacteria	Proteobacteria	Gammaproteobacteria	KI89A clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	27	0	0
-4fd8d7e3b7063c989d0ca49d2c9144bc	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	0	50	0	0
+4fd8d7e3b7063c989d0ca49d2c9144bc	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	0	50	0	0
 507bde5f0881c173c1e15830f78a2087	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	21	0	0	0	0
-50ad42c4c1f1d98301e4287ae5d68b2b	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	Mitochondria bacterium	Mitochondria bacterium	0	3	0	0	0	0
+50ad42c4c1f1d98301e4287ae5d68b2b	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	unknown Mitochondria	unknown Mitochondria	0	3	0	0	0	0
 50f30edf5c218accf5570f34b213ef8c	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	uncultured	marine metagenome	10	0	0	0	0	0
-51617017322e10ee8b86116e2483fb49	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Candidatus Actinomarina bacterium	0	0	20	39	0	0
+51617017322e10ee8b86116e2483fb49	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	unknown Candidatus Actinomarina	0	0	20	39	0	0
 51b640423c950a083bb4a6cd9c6b7ed3	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	Simkaniaceae	Ambiguous_taxa	Ambiguous_taxa	6	0	0	0	0	0
-51c2a7b6bf2d9cc9f88fe749dcff7543	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	29	0	0
+51c2a7b6bf2d9cc9f88fe749dcff7543	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	29	0	0
 5269b0417432cdd7c5a48cc2d51ab341	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	unidentified marine bacterioplankton	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	61	0	0
-527c00e00c2e0a3bd17dd426b323b95f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	Fluviicola bacterium	0	0	0	12	0	0
+527c00e00c2e0a3bd17dd426b323b95f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Fluviicola	unknown Fluviicola	0	0	0	12	0	0
 528ddef454f746e7f591c903bbce65ef	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	Ambiguous_taxa	0	0	0	0	13	0
-52941d0608e7deac737a1153fc1a5698	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	110	0	0
+52941d0608e7deac737a1153fc1a5698	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	110	0	0
 52b2a447e22b1ef85b9ec9f5de4d52e7	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	uncultured bacterium	uncultured bacterium	0	0	0	37	0	0
 52d97df581b6fda1aa8bba96d437ff36	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ascidiaceihabitans	Ambiguous_taxa	0	0	0	60	0	0
 535cc0a9b85c0b1b9ad2b5a61ad29496	Bacteria	Planctomycetes	Pla4 lineage	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	13	0	0	0	0	0
-53b5e72c1f75d323de76ae2bfdb00f14	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	122	101	0
+53b5e72c1f75d323de76ae2bfdb00f14	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	122	101	0
 54195a169173145bfaf95b69edd15230	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	uncultured alpha proteobacterium	uncultured alpha proteobacterium	0	0	0	0	27	0
-54bbf2f2e3e59adce996cec3482d68e8	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	3	0	31	0	0	0
+54bbf2f2e3e59adce996cec3482d68e8	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	3	0	31	0	0	0
 560e11571d4018b0a94675b7426ab036	Bacteria	Marinimicrobia (SAR406 clade)	marine metagenome	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	0	0	33	0	0
 565df5925b4782564d7bcbd34ea37a61	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphomonas	Ambiguous_taxa	12	0	0	0	0	0
-57afb93819f58a6676435c9232fc79b3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	47	0	0	0	0	0
+57afb93819f58a6676435c9232fc79b3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	47	0	0	0	0	0
 57ebbecd5634f818c024cecdb7754345	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured Rhodobacteraceae bacterium	0	0	0	76	0	0
 57f7ad5714868981fcd1d33b35e3bb15	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	CL500-3	Ambiguous_taxa	0	15	0	0	0	0
 58624df32c1c7e4e889a1c4f316241a9	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	uncultured marine microorganism	0	0	0	19	0	0
-587f86b5ce5a152e4a32892441b34be8	Bacteria	Kiritimatiellaeota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	R76-B128 bacterium	0	0	0	9	0	0
-588253f8c914de60cbb9577946854a39	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	Clade Ia bacterium	0	0	0	22	0	0
-5891c15315042c01b034fe98a5ed3f16	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	38	91	0
+587f86b5ce5a152e4a32892441b34be8	Bacteria	Kiritimatiellaeota	Kiritimatiellae	Kiritimatiellales	Kiritimatiellaceae	R76-B128	unknown R76-B128	0	0	0	9	0	0
+588253f8c914de60cbb9577946854a39	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	unknown Clade Ia	0	0	0	22	0	0
+5891c15315042c01b034fe98a5ed3f16	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	38	91	0
 58b7c8d0be79ea0ad39920f425719ca6	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	hydrothermal vent metagenome	0	0	14	0	0	0
-59c46f3998718cbfba2f809f1322ec93	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	Bdellovibrio bacterium	24	9	0	2	0	0
+59c46f3998718cbfba2f809f1322ec93	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio	unknown Bdellovibrio	24	9	0	2	0	0
 5a038bf076f4eccf24e57b1b8579f566	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	Ambiguous_taxa	166	178	89	20	0	0
 5a78493b237ff663a5033edac55506a3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	8	0	0
-5a9d00cee98596c1c9abaed5b0df2600	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia	Afipia bacterium	0	0	15	0	0	0
+5a9d00cee98596c1c9abaed5b0df2600	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia	unknown Afipia	0	0	15	0	0	0
 5aa32b1ca8ae0cdfae1e8dede3a2bd27	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	OM60(NOR5) clade	Ambiguous_taxa	0	0	0	24	0	0
 5ace574ee3a673f1558e2487b3773dda	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Thalassobius	uncultured bacterium	0	5	0	0	0	0
 5ae1bd321e5773ab4b8dc9b3759411cd	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Cryomorphaceae	uncultured	uncultured Owenweeksia sp.	0	0	0	112	0	0
 5b142a31618e88a899a52b9521d70a59	Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	Arctic95B-14	Ambiguous_taxa	Ambiguous_taxa	5	0	0	0	0	0
 5b368ac79a55817d531c36e645757709	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	uncultured planctomycete	0	7	4	20	0	0
 5b4613f1e15307ee30e96e020adfbaf5	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade IV	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	188	0
-5cb1250cec910e6819b838249878d53a	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	253	96	327	0
-5cbedd642a51c1fba49346baae148ece	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	34	0	0
-5cf311d6cacfe9f554a0d5c199140d71	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	0	32	0
-5d1eca5eed8bc208c96c46d29f236b48	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Cyanobiaceae bacterium	Cyanobiaceae bacterium	0	0	0	0	37	0
+5cb1250cec910e6819b838249878d53a	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	253	96	327	0
+5cbedd642a51c1fba49346baae148ece	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	34	0	0
+5cf311d6cacfe9f554a0d5c199140d71	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	0	32	0
+5d1eca5eed8bc208c96c46d29f236b48	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	unknown Cyanobiaceae	unknown Cyanobiaceae	0	0	0	0	37	0
 5d60bed0cd320f0908f52b82ace6070f	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	9	0	0
 5eef5f0d8d246b0f63ddefac41518967	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Amorphus	Ambiguous_taxa	13	13	0	0	0	0
 5f4233d4457e2e4c794a03d721035ec2	Bacteria	Chloroflexi	TK10	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	0	16	0	0	0
 602f5abc8bc44e305b4ef53e6b690959	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Ambiguous_taxa	0	21	0	0	0	0
-60e6400129d74b4634d1d984c57b3fa0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonadaceae bacterium	Sphingomonadaceae bacterium	108	50	39	29	0	0
-60ef79c7598b4bb8bfac608371581367	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	0	0	29	0	0	0
+60e6400129d74b4634d1d984c57b3fa0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	unknown Sphingomonadaceae	unknown Sphingomonadaceae	108	50	39	29	0	0
+60ef79c7598b4bb8bfac608371581367	Bacteria	Proteobacteria	Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	0	0	29	0	0	0
 625acc495ca69b192d6d3a22940ab977	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Ambiguous_taxa	0	0	0	108	0	0
 62a805cf84e274c58c07915cd187628a	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Rhodopirellula	uncultured marine microorganism	8	26	0	0	0	0
 636b5cc36e5e18530dff18b97a977ee1	Bacteria	Proteobacteria	Gammaproteobacteria	EPR3968-O8a-Bc78	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	7	0	0	0
@@ -272,95 +272,95 @@ OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	1-200-3	1-200-8	1-300-0.2
 65dcb2b9e54eb9814b12cc34c84408bf	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	Ambiguous_taxa	0	0	0	13	0	0
 664e6109005c69b5e74ab10f65c60dde	Bacteria	Chloroflexi	JG30-KF-CM66	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	2	0	0	0	0	0
 66ec1f10037ef33f491b997cb34f123f	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Oceanococcus	uncultured bacterium	9	0	0	0	0	0
-67c219dd54817c53f58880534a725dee	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Marinobacteraceae	Marinobacter	Marinobacter bacterium	239	180	17	0	14	0
+67c219dd54817c53f58880534a725dee	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Marinobacteraceae	Marinobacter	unknown Marinobacter	239	180	17	0	14	0
 6830965255b7e74012dbd98a35f0fff2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Sulfitobacter	Ambiguous_taxa	0	0	16	0	0	0
 68f2b93c2016ac3ee3f7f71d08d1664a	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	34	0	0	0
-69244e91435d46ed99325f3efc46f652	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Litoricolaceae	Litoricola	Litoricola bacterium	0	0	0	0	27	0
+69244e91435d46ed99325f3efc46f652	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Litoricolaceae	Litoricola	unknown Litoricola	0	0	0	0	27	0
 69337c9dc6fdd82c940ada72a0282177	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	6	0	0	0
-694a42c9fe03eae6f8a3919cf7588d81	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	24	0
+694a42c9fe03eae6f8a3919cf7588d81	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	24	0
 69eba855e45cc168dfbaf5319c8131f2	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	Hymenobacter terrenus	49	42	0	0	0	0
-6a4ef2696ec550b3c80eb625de83e767	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	47	0	0	0
+6a4ef2696ec550b3c80eb625de83e767	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	47	0	0	0
 6bada9b93743446a47e94a75b699b154	Bacteria	Dadabacteria	Dadabacteriia	Dadabacteriales	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	8	0	0
-6c27cb563b6844068938f376253320ea	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	PB19 bacterium	PB19 bacterium	PB19 bacterium	0	0	0	19	0	0
-6c96a1695f90c8c98ef17b98af81c5b3	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas bacterium	0	0	27	28	0	0
+6c27cb563b6844068938f376253320ea	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	unknown PB19	unknown PB19	unknown PB19	0	0	0	19	0	0
+6c96a1695f90c8c98ef17b98af81c5b3	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	unknown Brevundimonas	0	0	27	28	0	0
 6cd32ec9dfc5a1dd09a9cba679898bed	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Ambiguous_taxa	0	0	0	0	2	0
 6d1a5858beda1b50d7b20714bd39fd56	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	18	0	0
-6d4e5d09bb5160628961a40061bb9b89	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	12	0	0	0
+6d4e5d09bb5160628961a40061bb9b89	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	12	0	0	0
 6e0abb8f40bb59ddb54555f67b6aadb4	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Rhodopirellula	marine metagenome	0	0	0	12	0	0
 6e5deab2d25a3e7b7e8850bd63f48624	Bacteria	Chloroflexi	TK10	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	7	0	0	0	0
-6e69cd1319c5d17b8dd8deb02ebe2a6f	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	35	0	0	0
-6eaf268ee56ce3a93ac843f9637c8e40	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	42	0	0	0
-6ee4bbcfc905ef646c20b2a304a73ed5	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	7	0	0	0	0	0
+6e69cd1319c5d17b8dd8deb02ebe2a6f	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	35	0	0	0
+6eaf268ee56ce3a93ac843f9637c8e40	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	42	0	0	0
+6ee4bbcfc905ef646c20b2a304a73ed5	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	7	0	0	0	0	0
 6fc349c12af9a0b375a698280627ffbe	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	54	0
 703542ea7ef3cc5cdc51f5366db3db19	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus	uncultured bacterium	0	4	0	0	0	0
 7165d074eb88b262a4d44633764c0ee5	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	12	0	0	0	0
-7182ae14e40b3851ef2fc36882053550	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	OCS116 clade bacterium	OCS116 clade bacterium	0	0	0	0	45	0
-71f3d3a20bb3b57532615d15c7ea0f50	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	NS4 marine group bacterium	0	0	0	0	95	0
+7182ae14e40b3851ef2fc36882053550	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	unknown OCS116 clade	unknown OCS116 clade	0	0	0	0	45	0
+71f3d3a20bb3b57532615d15c7ea0f50	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	unknown NS4 marine group	0	0	0	0	95	0
 730d3fd99af84364b9f9bf67c49ba606	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	23	0	0
-73748067baf6a8d8dfd693497d93c01f	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	34	0	0
-73914fa6184771d114bb4bd0716ff070	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	5	0	0	0
+73748067baf6a8d8dfd693497d93c01f	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	34	0	0
+73914fa6184771d114bb4bd0716ff070	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	5	0	0	0
 73bb0e2c76d16ba150d1100779c644a7	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	4	0	0	0	0
-74cb33441b9da10b918b602ea183df0c	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured bacterium	0	0	0	6	0	0
+74cb33441b9da10b918b602ea183df0c	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	unknown uncultured	0	0	0	6	0	0
 74eae06bb7a2c84c027d362d9e9d282a	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	22	0	0	0	0	0
 7507dee23bb87e4ba5a157fa42902974	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	uncultured bacterium	0	0	35	0	0	0
-7573e228456a887581476598ee62abbd	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	25	0	0
+7573e228456a887581476598ee62abbd	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	25	0	0
 75806b3b6f7236b36a35cd1d98b83f8c	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Lentimonas	Ambiguous_taxa	0	0	0	10	0	0
-758e76f1a9016a2c001a3907ef9b8ff5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	40	0	0
+758e76f1a9016a2c001a3907ef9b8ff5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	40	0	0
 758f1de1502c6b44d9f94be04ff91d2c	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Parahaliea	Ambiguous_taxa	0	0	0	45	0	0
 758f27676a0834cb67e24816bc20571f	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	15	0	0
 75aa322ae960f3da266d0cec494d402a	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Ambiguous_taxa	Ambiguous_taxa	0	0	0	52	104	0
-7602a37c8962cabd9a9cabeaec904ce3	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	uncultured bacterium	2	0	0	0	0	0
-7648e30a38c6c1acce39b36a12278d24	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	10	0	0	0
+7602a37c8962cabd9a9cabeaec904ce3	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	unknown uncultured	2	0	0	0	0	0
+7648e30a38c6c1acce39b36a12278d24	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	10	0	0	0
 768a9c0b9fa477d456d457d42d1128bd	Bacteria	Proteobacteria	Gammaproteobacteria	Milano-WF1B-44	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	5	0	0	0	0
-76ae1cf252c043e4e446310b2287b209	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	Blastocatella bacterium	42	46	0	11	0	0
-76dfe03cf1770d4ae5c703515096f2e9	Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thioglobaceae	SUP05 cluster	SUP05 cluster bacterium	0	0	70	0	0	0
+76ae1cf252c043e4e446310b2287b209	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	Blastocatella	unknown Blastocatella	42	46	0	11	0	0
+76dfe03cf1770d4ae5c703515096f2e9	Bacteria	Proteobacteria	Gammaproteobacteria	Thiomicrospirales	Thioglobaceae	SUP05 cluster	unknown SUP05 cluster	0	0	70	0	0	0
 7719788844357e409d86c14254be6f09	Bacteria	Chloroflexi	JG30-KF-CM66	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	0	8	0	0	0
 7783b2a7d7f86bbe4da5e31b570b6f5d	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Spirosomaceae	Spirosoma	Spirosoma sp. 209	0	14	11	0	0	0
 7795caee49d61143988f16b1884c0e24	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	Chlamydiaceae	uncultured	metagenome	0	0	0	47	0	0
-77ad962abeadf0133594754f4c7ce61a	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas bacterium	0	0	0	0	43	0
-77d24901cbeffd3474c4fe3bb52d7d7d	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	NS4 marine group bacterium	0	0	0	0	11	0
+77ad962abeadf0133594754f4c7ce61a	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	unknown Pseudoalteromonas	0	0	0	0	43	0
+77d24901cbeffd3474c4fe3bb52d7d7d	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	unknown NS4 marine group	0	0	0	0	11	0
 780206e1b35b4d35ce6e0250a0d3a73f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	20	0	0	0	0	0
 7a1011dfbc8b253cb0032a00e74454e9	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	274	0	0
 7a1744364c77357118f18f188410a6a0	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	10	0	0	0	0	0
 7b731c782416a790f6d0b1b86d46aa5f	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	8	0	0
-7ccdb9acdd6f51066fd2b35118a0b8db	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium bacterium	0	0	16	0	0	0
+7ccdb9acdd6f51066fd2b35118a0b8db	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	unknown Novosphingobium	0	0	16	0	0	0
 7ce3c32a755a6b4757714accc21540a3	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Rhodopirellula	uncultured deep-sea bacterium	0	44	0	0	0	0
-7d252938dc9274396c45a06fbe7121a4	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	OCS116 clade bacterium	OCS116 clade bacterium	0	0	0	0	52	0
+7d252938dc9274396c45a06fbe7121a4	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	OCS116 clade	unknown OCS116 clade	unknown OCS116 clade	0	0	0	0	52	0
 7d75ffb9d0fc0058c4de4a0d309cffda	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	13	0	0	0	0
 7dc08afa996e4913a41f06ab8303cb52	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	Ambiguous_taxa	0	0	0	19	0	0
 7e24684ab6363006936dd91bd2e20102	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	13	0	0
-7e3c204e94d900ebcd177ddedcffaa7d	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonadaceae bacterium	Sphingomonadaceae bacterium	0	37	0	0	0	0
-7e827fb5b75b230c4e2a620de3977cd7	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	SAR86 clade bacterium	SAR86 clade bacterium	SAR86 clade bacterium	0	0	29	0	0	0
+7e3c204e94d900ebcd177ddedcffaa7d	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	unknown Sphingomonadaceae	unknown Sphingomonadaceae	0	37	0	0	0	0
+7e827fb5b75b230c4e2a620de3977cd7	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	0	0	29	0	0	0
 7ecbc6327d1ac20634d87b3b58290c3d	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	0	5	0	0
-7f0f996f4c72a45c542d3df0874ad705	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	uncultured bacterium	6	0	15	0	0	0
+7f0f996f4c72a45c542d3df0874ad705	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	unknown uncultured	6	0	15	0	0	0
 7f4668513256c90ba1c89870f67876f5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	uncultured bacterium	uncultured bacterium	0	0	7	0	0	0
 7f487102ee30b2894285d5acd8da0ed9	Bacteria	PAUC34f	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	7	0	0	0	0
 7f61b6c865132a5868ec4062df4c93bc	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured SAR202 cluster bacterium	uncultured SAR202 cluster bacterium	uncultured SAR202 cluster bacterium	14	0	0	0	0	0
 7f6c326f7f5f2fc2644810a602812035	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	6	0	0
-7fb4b7a28f4bb70e84a1e5094e5c9ca4	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	35	0	0
+7fb4b7a28f4bb70e84a1e5094e5c9ca4	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	35	0	0
 8007c707a1b98cd80542b93ca122db22	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	52	0
 803b35aa3b8518ba4dc016d829f5bbb1	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	4	0	0	0	0
 806dfc7efa0b331a0f78ff1e7c3d916d	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	0	1	0
-816e245ca59f836cba504377a90b8e0d	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	59	0	0
+816e245ca59f836cba504377a90b8e0d	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	59	0	0
 817a7bb93b59d96e999a5559f923f307	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	uncultured prokaryote	uncultured prokaryote	uncultured prokaryote	0	6	0	0	0	0
 81f3198e2f4a995d6063df73d1207066	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Litoricolaceae	Litoricola	uncultured bacterium	0	0	0	20	0	0
 81f53d092132d8f2faeaf7f8fe6d2400	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Rhodopirellula	uncultured bacterium	0	14	0	0	0	0
 82039f64e271af4e1f14a9a18013406e	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	9	0	0	0
-82070e20272a7b5a203c5b448e7dae76	Bacteria	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	0	0	0	5	0	0
-82971a0788af55d6bd3d3540dd1fabd0	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	0	0	0	7	0	0
+82070e20272a7b5a203c5b448e7dae76	Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	0	0	0	5	0	0
+82971a0788af55d6bd3d3540dd1fabd0	Bacteria	Proteobacteria	Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	0	0	0	7	0	0
 829d2ec2f65827f68770b6b305d0af2c	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	0	6	0	0
 82e9df5a158490c23a3485361f500a7c	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	Ambiguous_taxa	0	11	0	0	0	0
 8341f0047610a4d516294e57ff563292	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	SAR92 clade	uncultured marine bacterium	0	0	0	55	0	0
-838578e62435ad0daca804b83cc5037f	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Sva0996 marine group bacterium	0	0	32	0	0	0
+838578e62435ad0daca804b83cc5037f	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	unknown Sva0996 marine group	0	0	32	0	0	0
 83bcf01ec1405e69d6d326469735e7b2	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	8	0	0
 84116e0fbfc1cc20a9945f057e7e2e0b	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	73	0
 84bebb8ac46504f55e1b5f252a5598e1	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	71	0	0	0
-84c1fe7acde454ec4a993d5786c299b8	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	22	0	0
-84dd7bcb561653f26a52fff1e3ee9a02	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	25	0	0
-857e5b3aad430604e8e1f4e247b1668e	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	DEV007	DEV007 bacterium	DEV007 bacterium	4	0	0	0	0	0
-85dcf551413ccad2d224d40fbedd8a38	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	Micrococcus bacterium	23	0	0	0	0	0
+84c1fe7acde454ec4a993d5786c299b8	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	22	0	0
+84dd7bcb561653f26a52fff1e3ee9a02	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	25	0	0
+857e5b3aad430604e8e1f4e247b1668e	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	DEV007	unknown DEV007	unknown DEV007	4	0	0	0	0	0
+85dcf551413ccad2d224d40fbedd8a38	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus	unknown Micrococcus	23	0	0	0	0	0
 86334c5c7b097c59c09cd89805129c2c	Bacteria	Planctomycetes	OM190	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	17	0	0	0	0	0
-86cd70d2450e3f44f4a7c543f53008ee	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	30	0	2209	0	0
+86cd70d2450e3f44f4a7c543f53008ee	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	30	0	2209	0	0
 874f68e0f8ca56c99e556c882f7c8831	Bacteria	Planctomycetes	OM190	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	13	0	0	0	0
 88187648b1ac6560a9ea9c80659fc883	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	unidentified marine bacterioplankton	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	16	0	0
 882e0de9056d8d06c0973aa7b116e09e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Methylobacterium radiotolerans	72	74	65	13	0	0
@@ -369,174 +369,174 @@ OTU_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species	1-200-3	1-200-8	1-300-0.2
 88a94330d18976b023935720b0b82020	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	uncultured gamma proteobacterium	uncultured gamma proteobacterium	uncultured gamma proteobacterium	0	3	0	0	0	0
 88fbdc2700d41cb1a981a78cae02d378	Bacteria	Gemmatimonadetes	BD2-11 terrestrial group	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	5	0	95	0	0	0
 891a94802c16b5af10ca85253da037c7	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	0	0	111	0
-8942852492778ce00978e5fd9225b7cf	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	bacteriap25	bacteriap25 bacterium	bacteriap25 bacterium	4	0	0	0	0	0
+8942852492778ce00978e5fd9225b7cf	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	bacteriap25	unknown bacteriap25	unknown bacteriap25	4	0	0	0	0	0
 8a4dd24f793ef5640fe3d3c527f8f08e	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	26	26	0	0	0	0
-8a79658cc3d0b1da5dc3381db590e744	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	49	0
+8a79658cc3d0b1da5dc3381db590e744	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	49	0
 8b5dd9350e443d05ae8a82e6c6e601ca	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	50	0	0
 8c14284152260668849dd8b0f955f95a	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	hydrothermal vent metagenome	0	0	11	16	0	0
 8c503b9a08b45abca26fb4a1f42d06ee	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	0	115	0	0
 8cc066fa0d601707aaa8faa6e36d42db	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus	Ambiguous_taxa	0	0	0	11	0	0
-8cdd2f95256c93c7223f6b88ce25a092	Bacteria	Bacteroidetes	Rhodothermia	Balneolales	Balneolaceae	Balneola	Balneola bacterium	0	0	0	9	0	0
-8d13a21c6fa4455824b63ed8431a8141	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Candidatus Actinomarina bacterium	0	0	0	0	310	0
+8cdd2f95256c93c7223f6b88ce25a092	Bacteria	Bacteroidetes	Rhodothermia	Balneolales	Balneolaceae	Balneola	unknown Balneola	0	0	0	9	0	0
+8d13a21c6fa4455824b63ed8431a8141	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	unknown Candidatus Actinomarina	0	0	0	0	310	0
 8d2293cedcbd19f9e4028a1593fb88cc	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Ambiguous_taxa	40	0	0	0	0	0
-8e844bfdef6d6c162c70bf887ee10022	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	5	0	0	0
+8e844bfdef6d6c162c70bf887ee10022	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	5	0	0	0
 8f2a9ee4af880c70fa4c1639ab060eb2	Bacteria	Proteobacteria	Gammaproteobacteria	KI89A clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	12	0	0
 8f575a1dacdb7a44a5e5f2332d5a4b38	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Blfdi19	uncultured bacterium	uncultured bacterium	0	0	5	0	0	0
-90817f9676ccf2ce5e9f57049fc6d6fc	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderiaceae bacterium	Burkholderiaceae bacterium	0	0	0	3	0	0
+90817f9676ccf2ce5e9f57049fc6d6fc	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	unknown Burkholderiaceae	unknown Burkholderiaceae	0	0	0	3	0	0
 90fe265b56e41f38fa28a8dbbbfa12f7	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Ambiguous_taxa	0	0	13	0	0	0
-9110c4bc0570a8f5bf9658b76a52b848	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter bacterium	12	0	0	0	0	0
-912dc151e3ecdf57069e8103e82ca984	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	175	221	0
-9141dfe6b4bf4b85267433f4a0346017	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	0	0	30	0	0	0
+9110c4bc0570a8f5bf9658b76a52b848	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	unknown Caulobacter	12	0	0	0	0	0
+912dc151e3ecdf57069e8103e82ca984	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	175	221	0
+9141dfe6b4bf4b85267433f4a0346017	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	0	0	30	0	0	0
 918a4f744b7ff4b40b33e4a714fe6e2b	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Spirosomaceae	Persicitalea	uncultured bacterium	6	0	0	0	0	0
 91dc4689e28a475d539081a8738997de	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	46	0
 925f7d728282f2955d338cf26279542a	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	uncultured bacterium	uncultured bacterium	0	0	0	44	0	0
 928b3e01784c03f3c94fac85119ca645	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	Ambiguous_taxa	0	0	6	0	0	0
-93c203b801413421b085ac9f2d2945d5	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	uncultured	uncultured bacterium	0	4	0	0	0	0
-93f178a72eea5198a7d679b5c07cfd6a	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	0	168	0
-9502e725b87e0e9c2ee58b624b7f6dd1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	23	0	0
+93c203b801413421b085ac9f2d2945d5	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	uncultured	unknown uncultured	0	4	0	0	0	0
+93f178a72eea5198a7d679b5c07cfd6a	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	0	168	0
+9502e725b87e0e9c2ee58b624b7f6dd1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	23	0	0
 956f8b6b82a2f229a3aa59d2a1401503	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	23	0
 95e9d8ababae6de90d45641cde226693	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	MWH-UniP1 aquatic group	uncultured bacterium	0	0	0	21	0	0
 95f8a8222860a176b280b674d607b919	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	6	0	0	0	0
-96b79955a2e39659dd7cd5811c5aaa53	Bacteria	Verrucomicrobia	Verrucomicrobiae	Arctic97B-4 marine group	Arctic97B-4 marine group bacterium	Arctic97B-4 marine group bacterium	Arctic97B-4 marine group bacterium	0	19	0	0	0	0
+96b79955a2e39659dd7cd5811c5aaa53	Bacteria	Verrucomicrobia	Verrucomicrobiae	Arctic97B-4 marine group	unknown Arctic97B-4 marine group	unknown Arctic97B-4 marine group	unknown Arctic97B-4 marine group	0	19	0	0	0	0
 96dbb658be07e14c78b584af7916a05c	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Ambiguous_taxa	0	0	0	29	0	0
-96fdeab2b972266bc2657f46c218c4eb	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	NS7 marine group bacterium	NS7 marine group bacterium	0	0	0	21	0	0
+96fdeab2b972266bc2657f46c218c4eb	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	unknown NS7 marine group	unknown NS7 marine group	0	0	0	21	0	0
 973bbd0c55a6ca9bd2bdaf9f844332b9	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	marine metagenome	marine metagenome	0	0	0	37	0	0
-97d59806ef2fe2e6698c6a69349571e5	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderiaceae bacterium	Burkholderiaceae bacterium	9	0	0	0	0	0
+97d59806ef2fe2e6698c6a69349571e5	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	unknown Burkholderiaceae	unknown Burkholderiaceae	9	0	0	0	0	0
 98a41f8c8b7a74929b34362e498451c2	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	0	328	0
-9916904b32d361eefc50bb4a5169b196	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	4	0	0	0
-99aa8ea7e4b238f3f04572e1d31c295c	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	NS7 marine group bacterium	NS7 marine group bacterium	0	0	0	15	0	0
+9916904b32d361eefc50bb4a5169b196	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	4	0	0	0
+99aa8ea7e4b238f3f04572e1d31c295c	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	unknown NS7 marine group	unknown NS7 marine group	0	0	0	15	0	0
 9ae102acc632ebfc6fdf6886ab7c6b28	Bacteria	Planctomycetes	OM190	uncultured Planctomycetaceae bacterium	uncultured Planctomycetaceae bacterium	uncultured Planctomycetaceae bacterium	uncultured Planctomycetaceae bacterium	0	4	0	0	0	0
 9b5776f7c4361d35c08b67203af739d5	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	16	0	0
-9b6a7459b2c92cee0abfc36d503488b7	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas bacterium	37	25	0	0	67	0
+9b6a7459b2c92cee0abfc36d503488b7	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	unknown Brevundimonas	37	25	0	0	67	0
 9ca3d79945d836f56d146fc9d7c66f56	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	cvE6	uncultured bacterium	uncultured bacterium	0	0	0	5	0	0
 9cba04c3054aeda77098f8abbe8cf426	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	Ambiguous_taxa	Ambiguous_taxa	0	0	0	22	0	0
-9ccb05eebfff149998e3f73bbc0aa9dc	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	UBA10353 marine group bacterium	UBA10353 marine group bacterium	UBA10353 marine group bacterium	0	0	0	18	0	0
+9ccb05eebfff149998e3f73bbc0aa9dc	Bacteria	Proteobacteria	Gammaproteobacteria	UBA10353 marine group	unknown UBA10353 marine group	unknown UBA10353 marine group	unknown UBA10353 marine group	0	0	0	18	0	0
 9cd56a5cd353432f0e6de5a5ed785abf	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	uncultured	uncultured marine bacterium	0	0	0	0	39	0
 9cfd8043c1e0458b506ad367431c766e	Bacteria	Proteobacteria	Gammaproteobacteria	EPR3968-O8a-Bc78	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	13	0	0	0
 9d57f8e091358ac5824cbceda8aefbca	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Ambiguous_taxa	0	0	0	11	0	0
 9d7ceff652482159ad611aced319803f	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	0	0	0	12	0	0
 9d9ef244dea95c2350f483ca7a6575ab	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	P3OB-42	uncultured bacterium	uncultured bacterium	0	0	0	6	0	0
 9dbb987046c9f60ed95e2e1ccdc8aaa3	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Coraliomargarita	Ambiguous_taxa	0	0	0	13	0	0
-9eaf3126b1a59d53885da5e5b61ab98f	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter bacterium	0	0	0	70	0	0
-9ebabb50cd524f1148965f3290c03686	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	87	0
+9eaf3126b1a59d53885da5e5b61ab98f	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	unknown Acinetobacter	0	0	0	70	0	0
+9ebabb50cd524f1148965f3290c03686	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	87	0
 9f3dbebd663f672535620f7c57b9750e	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	PS1 clade	Ambiguous_taxa	Ambiguous_taxa	0	0	0	7	0	0
 a0f65691fe0f63902306b39a88d3faa2	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus	Ambiguous_taxa	186	210	164	0	0	0
 a1a3a8b0ac9b46884f2c1025e4b9b7c7	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	10	0
-a2b73c414910bf63bc8b9b0694dbab7d	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Methylophagaceae	Methylophaga	Methylophaga bacterium	34	21	3	0	0	0
+a2b73c414910bf63bc8b9b0694dbab7d	Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosococcales	Methylophagaceae	Methylophaga	unknown Methylophaga	34	21	3	0	0	0
 a2c45679733004eb45e94334e3d5094f	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	84	71	0
-a2c9f0a0d5c8619648f227239058eaef	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	52	0
+a2c9f0a0d5c8619648f227239058eaef	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	52	0
 a2cbb8b0ab8b61d19c07fe8efcf32550	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella	Ambiguous_taxa	7	9	5	0	0	0
 a31465b4de932854f00f3d97f5adb362	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured Rhodobacteraceae bacterium	0	0	0	216	22	0
-a40561f998b5601cac06b0eee3579f60	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	0	0	0	4	0	0
-a419300eca9450bee3d43a695542081d	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	0	0	12	0	0	0
-a4559fd5b7228ddbf24516b70f911b4f	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas bacterium	0	0	0	13	0	0
+a40561f998b5601cac06b0eee3579f60	Bacteria	Proteobacteria	Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	0	0	0	4	0	0
+a419300eca9450bee3d43a695542081d	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	0	0	12	0	0	0
+a4559fd5b7228ddbf24516b70f911b4f	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	unknown Sphingomonas	0	0	0	13	0	0
 a4c09d4de3a22ad1e1c34c00b539a718	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	10	0	88	0	0	0
 a58df60ed7ace75b577563e842e7313d	Bacteria	Kiritimatiellaeota	Kiritimatiellae	WCHB1-41	uncultured bacterium AD45-G12	uncultured bacterium AD45-G12	uncultured bacterium AD45-G12	0	3	0	0	0	0
-a594a2db0ceea408a3931a4465c05420	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus bacterium	111	91	20	35	5	0
+a594a2db0ceea408a3931a4465c05420	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	unknown Rhodococcus	111	91	20	35	5	0
 a5bbe130f31d6e1a6d78c5ba38e47f5b	Bacteria	Acidobacteria	Subgroup 21	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	8	0	0	0
-a5fc3a36aa370971626c2ee6bfe5fef9	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas bacterium	148	0	14	0	6	0
-a6297e9fb265beb1594cd3c09aded0cc	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Variovorax	Variovorax bacterium	0	0	18	0	0	0
+a5fc3a36aa370971626c2ee6bfe5fef9	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	unknown Halomonas	148	0	14	0	6	0
+a6297e9fb265beb1594cd3c09aded0cc	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Variovorax	unknown Variovorax	0	0	18	0	0	0
 a6ddd1185614438400e97a211d168ab1	Bacteria	Verrucomicrobia	Verrucomicrobiae	Arctic97B-4 marine group	uncultured bacterium	uncultured bacterium	uncultured bacterium	32	0	0	0	0	0
 a71a3e1eedac44b10e9f609ef763eb5e	Bacteria	Marinimicrobia (SAR406 clade)	marine metagenome	marine metagenome	marine metagenome	marine metagenome	marine metagenome	14	0	0	0	0	0
 a7664d4d19d2d3593741af6b9b3abb18	Bacteria	Acidobacteria	Subgroup 26	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	7	0	0	0	0	0
 a79b968d84a6f591a69ab430ed3e94f9	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	6	0	0	0	0	0
 a7b992a5b6ea32d86bd33a959e28521a	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	60	0	0
-a8910605d89c2fed06d7f463b2246695	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	66	45	0	139	178	0
-a8bd3dcbf75679761856da5a6c74e78f	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium bacterium	11	0	0	0	0	0
+a8910605d89c2fed06d7f463b2246695	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	66	45	0	139	178	0
+a8bd3dcbf75679761856da5a6c74e78f	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	unknown Microbacterium	11	0	0	0	0	0
 a9007a2b1af1e653c458d0082e119f2e	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	Ambiguous_taxa	0	0	0	12	0	0
 a941f89c855deef3ab38875b9972198f	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS7 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	0	37	0	0
 a9468ca84aef0ef635be6d103dfdcebc	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Ambiguous_taxa	Ambiguous_taxa	0	0	15	0	0	0
-a952a8eb77c52b4935ba693203e94021	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	5	0	0
+a952a8eb77c52b4935ba693203e94021	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	5	0	0
 a95ac75d4f26df7c485c513c4301b5f2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	45	0
-a96086fe6184227353e3d0c580ca539d	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	A4b bacterium	A4b bacterium	0	5	0	0	0	0
+a96086fe6184227353e3d0c580ca539d	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	unknown A4b	unknown A4b	0	5	0	0	0	0
 a9719f38ce675bbd683fd28eba22b273	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	44	0	0	0
 a989a8760b87ca2b81366aec9f113a01	Bacteria	Proteobacteria	Gammaproteobacteria	KI89A clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	11	0	0	0
-aa6537dbd462149a8d7383c03d45d1d9	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	29	0	0
-aac2d2f96990cc7c774b1052a4100cba	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	0	37	0	0
-aaf3d356ce595611ef027c68da9001bf	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobiaceae bacterium	Rhizobiaceae bacterium	0	0	0	8	0	0
+aa6537dbd462149a8d7383c03d45d1d9	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	29	0	0
+aac2d2f96990cc7c774b1052a4100cba	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	0	37	0	0
+aaf3d356ce595611ef027c68da9001bf	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	unknown Rhizobiaceae	unknown Rhizobiaceae	0	0	0	8	0	0
 ab3564244dacf3baabdab240216c12d4	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	50	0
-ab8713aab2e3548dfad39f6e82f9ed4d	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	SAR86 clade bacterium	SAR86 clade bacterium	SAR86 clade bacterium	0	0	0	0	60	0
+ab8713aab2e3548dfad39f6e82f9ed4d	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	0	0	0	0	60	0
 abd2958adb92efe71e47ff34817cd643	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	0	0	24	0	0
 abea26c8f5df178ee10c32fa9477ce44	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	13	0	0	0
 ac170563921a47e3e05f8d97a5908e73	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	49	0	0	0
-ac9f56eb5dbfc3dc6b168fc73fc6c34c	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	121	0	0
+ac9f56eb5dbfc3dc6b168fc73fc6c34c	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	121	0	0
 acf34ec22b03d786dbcefbff909beb52	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	Ambiguous_taxa	0	0	0	26	0	0
-ad7a812323880fdbfb5bb08777efac8e	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	236	88	0
+ad7a812323880fdbfb5bb08777efac8e	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	236	88	0
 ad99cad2ada49d3a70e7dddb7559830d	Bacteria	Marinimicrobia (SAR406 clade)	marine metagenome	marine metagenome	marine metagenome	marine metagenome	marine metagenome	3	0	0	0	0	0
 add0f1cfa7d8d68b35dec3a4317f2685	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	Ambiguous_taxa	0	0	0	80	0	0
-adf1b9483106f8b06cc2d6073174d28b	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	17	0
+adf1b9483106f8b06cc2d6073174d28b	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	17	0
 ae44bece0581de1270163bb5ffc17463	Bacteria	Chloroflexi	TK10	marine metagenome	marine metagenome	marine metagenome	marine metagenome	5	0	25	0	0	0
 aef097f3c30622bc0f282b30d4910df3	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	30	0	0
-aeff53cff23f3076ad6c9071930202dd	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	Clade Ia bacterium	0	0	0	0	20	0
-af3ad5293c445ffbfc757ad1c9de296b	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter bacterium	0	0	0	0	36	0
+aeff53cff23f3076ad6c9071930202dd	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ia	unknown Clade Ia	0	0	0	0	20	0
+af3ad5293c445ffbfc757ad1c9de296b	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	unknown Acinetobacter	0	0	0	0	36	0
 afa2b189060a19836294c0e8a333d2ed	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Thalassospiraceae	Thalassospira	Ambiguous_taxa	0	0	4	0	0	0
 afeba1f960ef03135e1c9ff98d1ec3ce	Bacteria	Poribacteria	metagenome	metagenome	metagenome	metagenome	metagenome	0	0	0	10	0	0
 b0117e3d41e8a81b344a78b99c9b0fa4	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	30	0
 b03d95bf3dacbfc6288d98041f94e022	Bacteria	Patescibacteria	Gracilibacteria	Candidatus Peregrinibacteria	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	5	0	0
 b05fcd8aecc5b4c16c575bb38244552a	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	0	23	0	0
-b0a46b24080a8a9f24f73978a70cdbfa	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	AEGEAN-169 marine group bacterium	AEGEAN-169 marine group bacterium	0	0	13	0	0	0
+b0a46b24080a8a9f24f73978a70cdbfa	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unknown AEGEAN-169 marine group	unknown AEGEAN-169 marine group	0	0	13	0	0	0
 b10e08b182e6b212880f2914b530f8a3	Bacteria	Proteobacteria	Deltaproteobacteria	PB19	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	6	0	0	0	0
-b1918240ff0a498e4063e5d739183dfe	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	36	0	0	0
+b1918240ff0a498e4063e5d739183dfe	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	36	0	0	0
 b231b0e4912cda5d5cc81a8c39168778	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	6	0	0	0	0
-b247cf79c878d83c6ad685845b1154e3	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	Marinoscillum bacterium	0	0	0	109	0	0
-b3219039ebaa619a89b1c0cb230e1afc	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	NS9 marine group bacterium	NS9 marine group bacterium	25	0	0	0	0	0
-b4900060b15cd3eab0697bdc00bfc33a	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Methylobacterium bacterium	19	0	37	11	0	0
+b247cf79c878d83c6ad685845b1154e3	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	unknown Marinoscillum	0	0	0	109	0	0
+b3219039ebaa619a89b1c0cb230e1afc	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	unknown NS9 marine group	unknown NS9 marine group	25	0	0	0	0	0
+b4900060b15cd3eab0697bdc00bfc33a	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	unknown Methylobacterium	19	0	37	11	0	0
 b4b92d74af1964e7d5de05c7040b0b5a	Bacteria	Proteobacteria	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	uncultured	uncultured marine bacterium	0	0	0	0	73	0
 b4f2b6eaa30d6bd075aabf3018752ea6	Bacteria	Cyanobacteria	Melainabacteria	Obscuribacterales	uncultured bacterium	uncultured bacterium	uncultured bacterium	13	11	0	0	0	0
 b4f6e425ae839c2341f78f45c334e73e	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	0	0	20	0
 b50ca2360275a79aa6f452092280b6bf	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	uncultured Alcanivorax sp.	63	0	0	0	0	0
-b54cecad18a74b5dcaef6600be8fd80e	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	uncultured bacterium	0	0	0	9	0	0
-b59b05df20f1c7e1eea316b50ff4bb6b	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	44	0	0
-b5c7d9b3b02f3a6e581c164fdce01bd7	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	SAR86 clade bacterium	SAR86 clade bacterium	SAR86 clade bacterium	0	0	10	0	0	0
+b54cecad18a74b5dcaef6600be8fd80e	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	unknown uncultured	0	0	0	9	0	0
+b59b05df20f1c7e1eea316b50ff4bb6b	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	unknown uncultured	unknown uncultured	unknown uncultured	0	0	0	44	0	0
+b5c7d9b3b02f3a6e581c164fdce01bd7	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	unknown SAR86 clade	0	0	10	0	0	0
 b5d6843765969c231890371baecb938e	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	64	0	0
 b67d3740e237b1f37c165d5b637891f4	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Ambiguous_taxa	0	0	0	51	0	0
 b6acfc8d8ca44ae3c515bfe3483a628b	Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	SCGC AAA164-E04	Ambiguous_taxa	0	0	0	24	0	0
 b6dd9f53af8dd73120a3bb15a227debc	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	A714019	uncultured verrucomicrobium HF0500_27H16	5	0	0	0	0	0
-b7b69e96e16ef4714d506a92130f1e8e	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	176	0
+b7b69e96e16ef4714d506a92130f1e8e	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	176	0
 b80e478cc9b57a4c2bdeb8696521d8d6	Bacteria	Chloroflexi	N9D0	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	0	9	0	0	0
 b85a5022ebff16a18b5a13edb232eb80	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	uncultured bacterium	uncultured bacterium	11	5	0	67	0	0
 b8695fb99811d3071d283481c7517b49	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Roseibacillus	Ambiguous_taxa	5	27	0	0	0	0
 b8c9df412488ad9320c2169e5b23a0e2	Bacteria	Chloroflexi	Dehalococcoidia	S085	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	10	0	0	0
-ba108683e2f5735a27b115c5702ba80f	Bacteria	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	0	0	0	2	0	0
+ba108683e2f5735a27b115c5702ba80f	Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	0	0	0	2	0	0
 ba8712d82e77652a0af89d5dee22ad96	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	hydrothermal vent metagenome	0	0	0	10	0	0
 bb032ac26ae0eb88aaca774064aea9aa	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	0	13	0	0
 bbbf4860481e7c5649cc7471b6d389ac	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	uncultured bacterium	0	0	0	0	6	0
 bc6742aed37e7bda7ca7b299e476b7db	Bacteria	Lentisphaerae	Lentisphaeria	Lentisphaerales	Lentisphaeraceae	Lentisphaera	Ambiguous_taxa	3	0	0	0	0	0
-bcc4d62876a9a347fb4c3ead843287e5	Bacteria	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	0	10	0	0	0	0
-bd5037ef9a74b74e15194fc07aad17de	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	55	0
+bcc4d62876a9a347fb4c3ead843287e5	Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	0	10	0	0	0	0
+bd5037ef9a74b74e15194fc07aad17de	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	55	0
 bd817a444e5c803f270d06503657a71a	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	metagenome	metagenome	0	0	0	6	0	0
 bdac6833e65118b05c60a4028cf1b6ed	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	34	0	0
-bdcc40837c394dd8bd139d3215f81cb7	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonadaceae bacterium	Sphingomonadaceae bacterium	4	0	0	0	0	0
-be68cca493bb35ba5660a147adadc369	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	Idiomarina bacterium	0	0	0	0	7	0
+bdcc40837c394dd8bd139d3215f81cb7	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	unknown Sphingomonadaceae	unknown Sphingomonadaceae	4	0	0	0	0	0
+be68cca493bb35ba5660a147adadc369	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	unknown Idiomarina	0	0	0	0	7	0
 be7fc03b1010f6774be92f8305060fa9	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	20	0	0	0
 beb8cb17f8152e488b6bc95bfcdb484f	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Ambiguous_taxa	0	0	0	27	0	0
-bf039cc2a711b3fa3f36db948e101449	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	NB1-j bacterium	NB1-j bacterium	NB1-j bacterium	0	7	0	0	0	0
+bf039cc2a711b3fa3f36db948e101449	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	unknown NB1-j	unknown NB1-j	unknown NB1-j	0	7	0	0	0	0
 bf0e44c5ba84a5e9c1666fb5a09766ea	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	29	94	0
 bf1783f5e9cfde8ea24ab006c3b8af36	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured SAR202 cluster bacterium	uncultured SAR202 cluster bacterium	uncultured SAR202 cluster bacterium	0	0	22	0	0	0
-bf267dfa46ff81c1a47b2967d6d95702	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	25	0	0	0	0	0
+bf267dfa46ff81c1a47b2967d6d95702	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	25	0	0	0	0	0
 bf3a17d2d00665455cc6260c1cdf0dce	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	0	0	0	26	0	0
 bf7679c7fa3c1ac9a2e6876c5cbbe24f	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Gimesiaceae	Gimesia	Ambiguous_taxa	12	10	0	0	0	0
-bfbe7005884f10fdbe826aebf38c184e	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	OM75 clade bacterium	0	0	0	0	7	0
+bfbe7005884f10fdbe826aebf38c184e	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	unknown OM75 clade	0	0	0	0	7	0
 c04070c8d869e1957c738231403097b1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	uncultured bacterium	uncultured bacterium	0	9	0	0	0	0
-c144e52feced182b1615bbc64e79d244	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	3	0	0	0
+c144e52feced182b1615bbc64e79d244	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	3	0	0	0
 c1fd45f4f578cef143e5e338e490bb73	Bacteria	Gemmatimonadetes	BD2-11 terrestrial group	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	13	0	0	0
-c21b2c91427bb5073ce7127d958d3cf8	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus	Anaerococcus bacterium	2	0	0	0	0	0
+c21b2c91427bb5073ce7127d958d3cf8	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus	unknown Anaerococcus	2	0	0	0	0	0
 c29d3b5060193d14857afa758f2451e1	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	3	0	0	0	0
 c371def27b9d23f8fe3dcd6180e049c2	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	uncultured	uncultured gamma proteobacterium	0	0	30	0	0	0
 c41f665e39e3ebc476a939131c9a8445	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured Rhodobacteraceae bacterium	0	0	0	48	0	0
-c47c474b771cc6cf606c1caf0facbba3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	319	0
+c47c474b771cc6cf606c1caf0facbba3	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	319	0
 c5f57a20c4858f35f19eb54bee578c0d	Bacteria	Marinimicrobia (SAR406 clade)	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	2	43	0	0	0
-c63451c82539feaba83284b63c632626	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	180	0
-c70e64f0a093f296e0e2187a63f811da	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	NB1-j bacterium	NB1-j bacterium	NB1-j bacterium	11	0	2	0	0	0
+c63451c82539feaba83284b63c632626	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	180	0
+c70e64f0a093f296e0e2187a63f811da	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	unknown NB1-j	unknown NB1-j	unknown NB1-j	11	0	2	0	0	0
 c73ba05290db62af6cd8e45c8656cd43	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	242	0
 c746a1426e0b59851e15518919cef858	Bacteria	Proteobacteria	Alphaproteobacteria	Sneathiellales	Sneathiellaceae	Sneathiella	Ambiguous_taxa	9	0	0	0	0	0
-c81a584374c758ddb8f981f384249fbb	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	107	0	0	0
-c8ae30694628d88926c743be0dfb0943	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade IV	Clade IV bacterium	Clade IV bacterium	0	0	0	8	0	0
+c81a584374c758ddb8f981f384249fbb	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	107	0	0	0
+c8ae30694628d88926c743be0dfb0943	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade IV	unknown Clade IV	unknown Clade IV	0	0	0	8	0	0
 ca3b031071350eca44100709543693de	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	Parvibaculaceae	uncultured	Ambiguous_taxa	0	0	0	7	23	0
 caaabb9ba13c78c7f9ecc19bbea3558b	Bacteria	Patescibacteria	Parcubacteria	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	3	0	0	0	0	0
-cac25ad0a8527e51168e76379563c5a4	Bacteria	Planctomycetes	OM190	OM190 bacterium	OM190 bacterium	OM190 bacterium	OM190 bacterium	0	6	0	0	0	0
+cac25ad0a8527e51168e76379563c5a4	Bacteria	Planctomycetes	OM190	unknown OM190	unknown OM190	unknown OM190	unknown OM190	0	6	0	0	0	0
 cb0c09bda0c3d4bc3eb48eefe5f74016	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade III	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	19	0
-cb7e4be2a5967df9b019d93e5eecfb8b	Bacteria	Armatimonadetes	Fimbriimonadia	Fimbriimonadales	Fimbriimonadales bacterium	Fimbriimonadales bacterium	Fimbriimonadales bacterium	0	2	0	0	0	0
+cb7e4be2a5967df9b019d93e5eecfb8b	Bacteria	Armatimonadetes	Fimbriimonadia	Fimbriimonadales	unknown Fimbriimonadales	unknown Fimbriimonadales	unknown Fimbriimonadales	0	2	0	0	0	0
 cb7e8326d407dc39d17f839bf38d69e4	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	uncultured SAR324 cluster bacterium	0	7	0	0	0	0
 cc1e9cc7b5d5c955b025d6e85c5bab2d	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	85	0
 ccbd25b284e46f0d643e256cae0e2916	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseovarius	Ambiguous_taxa	12	7	0	0	0	0
@@ -545,66 +545,66 @@ cd4b8b5a4af3cc2c7e53dc7d7b6f0a8e	Bacteria	Proteobacteria	Alphaproteobacteria	Ric
 ce0cbc9a27428cd6c5bc53fd4550f256	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	44	0	0	0
 cef4032e4d89fb0ddf6f18436eb06b71	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured Chloroflexus sp.	uncultured Chloroflexus sp.	uncultured Chloroflexus sp.	0	0	8	0	0	0
 d021ccf12a33784f4c086a451e9668a5	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	Ambiguous_taxa	0	6	0	142	0	0
-d089e76cb77366eba904ed413876e849	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	0	0	0	1337	1980	0
+d089e76cb77366eba904ed413876e849	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	0	0	0	1337	1980	0
 d127dfa83b0fea8ef26ffb3c253a03be	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Cyclobacteriaceae	Marinoscillum	Ambiguous_taxa	0	0	0	0	132	0
-d16302bbd739ffc628c49803b25c8f6e	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium bacterium	10	0	0	0	0	0
-d1a6e36fa27e15661323ab0d43fab8b4	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	70	0	0	0
+d16302bbd739ffc628c49803b25c8f6e	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	unknown Mycobacterium	10	0	0	0	0	0
+d1a6e36fa27e15661323ab0d43fab8b4	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	70	0	0	0
 d1d0106a5c14958eadee6ba91497e4f9	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	3	0	0	0
 d1e777adb88b999d56cbca6f5ea4c518	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	NS9 marine group	uncultured marine bacterium	uncultured marine bacterium	0	7	0	0	0	0
-d2b7230ea4536b4670c7a2e2b7f7ce3b	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	NS2b marine group bacterium	5	0	0	0	0	0
+d2b7230ea4536b4670c7a2e2b7f7ce3b	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS2b marine group	unknown NS2b marine group	5	0	0	0	0	0
 d2c8ceb66453a63def7bdf32ddae7267	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	34	0
 d31f9fd76c34bb732dae5bbb8214e9ee	Bacteria	Proteobacteria	Deltaproteobacteria	NB1-j	hydrothermal vent metagenome	hydrothermal vent metagenome	hydrothermal vent metagenome	0	8	0	0	0	0
 d440e0d9cd3b49df925c1394cd60ac65	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	Ambiguous_taxa	0	11	0	0	0	0
-d45c378769d3c0167987f1865dbe55d5	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	35	0	0
-d48254b13350c460539945f0f7a01943	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	36	0	0	0
+d45c378769d3c0167987f1865dbe55d5	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	35	0	0
+d48254b13350c460539945f0f7a01943	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	36	0	0	0
 d5205547095678b93cb802701fe80824	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	FS140-16B-02 marine group	Ambiguous_taxa	16	0	0	0	0	0
 d53fcdf5f08a6216c2627616036cb20b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	marine metagenome	0	0	0	26	0	0
 d55b597330740fc2e345c9cbe99eeacb	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	10	0	0	0
-d566a335d70398afc0b17a42e5d7cb80	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobiaceae bacterium	Rhizobiaceae bacterium	0	8	0	0	0	0
-d57c5d67d7a84d9c12d4891df510e0a1	Bacteria	Acidobacteria	Subgroup 6	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	Subgroup 6 bacterium	0	0	8	0	0	0
+d566a335d70398afc0b17a42e5d7cb80	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	unknown Rhizobiaceae	unknown Rhizobiaceae	0	8	0	0	0	0
+d57c5d67d7a84d9c12d4891df510e0a1	Bacteria	Acidobacteria	Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	unknown Subgroup 6	0	0	8	0	0	0
 d5dfa7b6be369d3973b44262d8dc034b	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	43	0	0
 d612992f1570e4a7ab959faeb4feeac4	Bacteria	PAUC34f	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	40	0	0
 d638c5e7c21504763d30b5810ed9119a	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	0	7	0	0	0	0
 d6dc663cbbe3e978ec969ad559cb848d	Bacteria	Verrucomicrobia	Verrucomicrobiae	Arctic97B-4 marine group	metagenome	metagenome	metagenome	0	0	0	35	0	0
 d724085e83abc16b54b2372752e6f235	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	Ambiguous_taxa	0	0	0	10	0	0
-d782c14064048e32bac292d4bfa9516d	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	OM75 clade bacterium	0	0	0	36	0	0
+d782c14064048e32bac292d4bfa9516d	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales	Nisaeaceae	OM75 clade	unknown OM75 clade	0	0	0	36	0	0
 d7bc5420827085c3465b3404b9f00285	Bacteria	Planctomycetes	BD7-11	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	2	0	0	0	0
-d7ed190248946f75e523598e5f3e5572	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderiaceae bacterium	Burkholderiaceae bacterium	0	0	0	38	0	0
-d80a7a0d11667d904252489f7c1a7bc0	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	23	0	0
-d830e05e5fdf1d9af8655e89cbbabaf3	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides bacterium	0	23	0	0	0	0
+d7ed190248946f75e523598e5f3e5572	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	unknown Burkholderiaceae	unknown Burkholderiaceae	0	0	0	38	0	0
+d80a7a0d11667d904252489f7c1a7bc0	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	23	0	0
+d830e05e5fdf1d9af8655e89cbbabaf3	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	unknown Nocardioides	0	23	0	0	0	0
 d9420bd5bfdd58d4a63a85711c5c13e9	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	2	0	0
 d9eb8aa850daae1b647565e895989a42	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured gamma proteobacterium	uncultured gamma proteobacterium	uncultured gamma proteobacterium	4	0	12	0	0	0
-da17db2491e58cb05784aaba051934f2	Bacteria	Chloroflexi	JG30-KF-CM66	JG30-KF-CM66 bacterium	JG30-KF-CM66 bacterium	JG30-KF-CM66 bacterium	JG30-KF-CM66 bacterium	0	5	0	0	0	0
+da17db2491e58cb05784aaba051934f2	Bacteria	Chloroflexi	JG30-KF-CM66	unknown JG30-KF-CM66	unknown JG30-KF-CM66	unknown JG30-KF-CM66	unknown JG30-KF-CM66	0	5	0	0	0	0
 da6a28175ed114e29802ae3cfb38ff51	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	10	0	0	0
-dab63c674059c052fb5520c8621d0aad	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	13	0	0	0	0	0
+dab63c674059c052fb5520c8621d0aad	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	13	0	0	0	0	0
 db041f412bf371637722e94767101d1b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	113	0
 db3f25e5ea70926dd3d45a0b2c72b9dc	Bacteria	Proteobacteria	Gammaproteobacteria	Piscirickettsiales	Piscirickettsiaceae	Candidatus Endoecteinascidia	Ambiguous_taxa	0	4	0	0	0	0
 db633a18ae6457b0d7cb5b601fcb7496	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Ambiguous_taxa	0	0	0	91	83	0
 dbe8c98323d6ff4fb99ddb951077f957	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured Legionellales bacterium	0	0	0	5	0	0
 dbf93a0585dca46f3971117da832b16c	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	102	0	0
-dc554c8afd843778b15fa4ffc4b41325	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Sva0996 marine group bacterium	0	0	0	62	0	0
-dc66440e7dde982894b4c4dea4e35467	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	0	0	0	13	0	0
+dc554c8afd843778b15fa4ffc4b41325	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	unknown Sva0996 marine group	0	0	0	62	0	0
+dc66440e7dde982894b4c4dea4e35467	Bacteria	Proteobacteria	Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	0	0	0	13	0	0
 dc9e3b506df9538c012ce00692172d26	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	0319-6G20	Ambiguous_taxa	Ambiguous_taxa	0	0	5	0	0	0
 dd12175fcf66f1e73855d41426d2038b	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	uncultured	Ambiguous_taxa	6	15	0	0	0	0
 dd2bc1895ad09663bc9c6e3aaabf094f	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured marine bacterium	0	0	0	11	0	0
 dd3125e97e4adf7da83b3e693f6af891	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	Ambiguous_taxa	Ambiguous_taxa	4	0	0	0	0	0
-dd6b1fc910cf931c6d47d57887e229d2	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	10	0	0	0
+dd6b1fc910cf931c6d47d57887e229d2	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	10	0	0	0
 de2f2887bfcea7e32e566841a3b21929	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	S25-593	uncultured alpha proteobacterium	uncultured alpha proteobacterium	0	0	0	0	24	0
 de3a4a18550de0de8deee11bec08474e	Bacteria	Planctomycetes	OM190	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	7	0	0	0	0
 de688742d7bb0aa194da33a718a38511	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	41	0
 df6410571da107e3c86d837f2db238d4	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	MWH-UniP1 aquatic group	uncultured bacterium	0	0	0	20	0	0
 df64bbee28db59e9ba317f90f0b4d8e4	Bacteria	Chloroflexi	JG30-KF-CM66	marine metagenome	marine metagenome	marine metagenome	marine metagenome	0	0	11	0	0	0
 dfd5c4ffaa986112332b793fbf9a2a34	Bacteria	Proteobacteria	Alphaproteobacteria	uncultured	unidentified marine bacterioplankton	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	6	0	0	44	0
-dfe700a3b6e2ef3224ef5c31eb5cbca4	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OM182 clade bacterium	OM182 clade bacterium	OM182 clade bacterium	6	0	0	42	0	0
+dfe700a3b6e2ef3224ef5c31eb5cbca4	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	unknown OM182 clade	unknown OM182 clade	unknown OM182 clade	6	0	0	42	0	0
 e093ab744c842bf935aad84e560586ad	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	11	6	0
-e0e74ed78ce9afc65f99e216fd232196	Bacteria	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	Bacteria bacterium	0	0	0	6	0	0
-e13e964e04c03694e1fc5fffd1e39962	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	NS5 marine group bacterium	0	0	0	26	0	0
+e0e74ed78ce9afc65f99e216fd232196	Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	unknown Bacteria	0	0	0	6	0	0
+e13e964e04c03694e1fc5fffd1e39962	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS5 marine group	unknown NS5 marine group	0	0	0	26	0	0
 e14bec73c33c5d2f1aff05edbc6c402e	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	uncultured	uncultured bacterium	19	0	0	0	0	0
 e14e70c0e8ece1c3641cf978236c0d26	Bacteria	Marinimicrobia (SAR406 clade)	uncultured Candidatus Marinimicrobia bacterium	uncultured Candidatus Marinimicrobia bacterium	uncultured Candidatus Marinimicrobia bacterium	uncultured Candidatus Marinimicrobia bacterium	uncultured Candidatus Marinimicrobia bacterium	0	0	3	0	0	0
-e152c17bdbb4e1af93c0180b1fccc627	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	32	131	0
+e152c17bdbb4e1af93c0180b1fccc627	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	32	131	0
 e172a3575cea7802e750811ffc4e359f	Bacteria	Planctomycetes	Pla3 lineage	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	5	0	0	0	0
 e1e6bd40565a671387d9fbd6e70f9992	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	8	0	0
-e20802157457286ff98f03e90d34f518	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonadaceae bacterium	Sphingomonadaceae bacterium	0	0	0	48	0	0
+e20802157457286ff98f03e90d34f518	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	unknown Sphingomonadaceae	unknown Sphingomonadaceae	0	0	0	48	0	0
 e25947b11c824eb7e43649369425a1a1	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	uncultured Chloroflexi bacterium	0	0	17	0	0	0
 e262597dc2bc272499094c1c2fec3f55	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	uncultured	uncultured bacterium	72	73	56	0	0	0
 e2a9b4a927691b2eb11972937fe86ee5	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Verruc-01	uncultured organism	12	0	0	0	0	0
@@ -612,178 +612,178 @@ e2af6ac1fc374a41f5dd49707e172715	Bacteria	Proteobacteria	Gammaproteobacteria	SAR
 e30a9e51a5ed4a9e8e5226bd92e49149	Bacteria	Proteobacteria	Alphaproteobacteria	Parvibaculales	Parvibaculaceae	Mf105b01	uncultured bacterium	6	0	0	0	0	0
 e3f5334ecc51c6096dc6dd8211c1210b	Bacteria	Verrucomicrobia	Verrucomicrobiae	Arctic97B-4 marine group	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	107	0	0
 e45bfe3a88e8d7b8326ce9178fb63955	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	uncultured gamma proteobacterium HF4000_19M20	uncultured gamma proteobacterium HF4000_19M20	uncultured gamma proteobacterium HF4000_19M20	0	0	4	0	0	0
-e46bb903eb5ca9ebc24af2e918f222cb	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	Gammaproteobacteria bacterium	0	0	0	22	0	0
+e46bb903eb5ca9ebc24af2e918f222cb	Bacteria	Proteobacteria	Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	unknown Gammaproteobacteria	0	0	0	22	0	0
 e484501c0f5a842a58454b9f6ab19fe4	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	23	0	0
-e4bef98ed855af8ee4db7c1ec2d4336c	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	0	0	34	0
+e4bef98ed855af8ee4db7c1ec2d4336c	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	0	0	34	0
 e4e90e302cbbc9262682d84e2d2120da	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	9	0	0	0
 e564fc2f38fc32f8b790d5bb1dc2c8b6	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade Ib	Ambiguous_taxa	0	0	0	13	0	0
-e65380cdc5e3fb57a3be936961071c39	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	Alcanivorax bacterium	37	40	0	0	0	0
+e65380cdc5e3fb57a3be936961071c39	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	unknown Alcanivorax	37	40	0	0	0	0
 e6c5d69be22ff32a9822297a47bec31c	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Bythopirellula	Bythopirellula goksoyri	0	11	0	0	0	0
-e7a0574a227b3fe1bd215774a7f5fc3f	Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	0	0	0	14	0	0
+e7a0574a227b3fe1bd215774a7f5fc3f	Bacteria	Proteobacteria	Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	0	0	0	14	0	0
 e820b2d477cac3c2fc3b458ae6067395	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured marine bacterium	0	0	0	14	0	0
 e85b1933ef64f12c11ff98e3399a6a1a	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	uncultured Flavobacterium sp.	3	0	0	0	0	0
-e9f376c867c2a1506d5b0996f9839a20	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	15	38	0	2887	4786	3
+e9f376c867c2a1506d5b0996f9839a20	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	15	38	0	2887	4786	3
 ea823c0faed26636854cc9b9ccd70bb1	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	uncultured	uncultured bacterium	0	21	0	0	0	0
-eb41af02b18dc957ef593cfd11261be5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter	Enhydrobacter bacterium	3	9	0	0	0	0
+eb41af02b18dc957ef593cfd11261be5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter	unknown Enhydrobacter	3	9	0	0	0	0
 eb74d8be10cabeb66e519b3c8eec2437	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Magnetospiraceae	uncultured	Ambiguous_taxa	0	0	0	10	0	0
 ebe39d2760e8fce45e36c039b2ee5abf	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	27	0	0
 ebe485d9b4072059c7bd003dc6500814	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	99	0
 ec105e89b7406014e4fd44d1c8ba4299	Bacteria	Margulisbacteria	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	18	0	0
-ec3c898f3086b2598aff19f11d99b2c6	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter bacterium	0	13	0	0	0	0
-ec4ae6fb42be2771f4efbde8c024a282	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OM182 clade bacterium	OM182 clade bacterium	OM182 clade bacterium	0	0	0	42	0	0
+ec3c898f3086b2598aff19f11d99b2c6	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	unknown Pedobacter	0	13	0	0	0	0
+ec4ae6fb42be2771f4efbde8c024a282	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	unknown OM182 clade	unknown OM182 clade	unknown OM182 clade	0	0	0	42	0	0
 ec617d239da76b2275a295b0085f3d4a	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	uncultured bacterium	0	0	6	0	0	0
-ed8321e5a34ce5d06dac4c8a70eda047	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Sva0996 marine group bacterium	0	0	10	0	0	0
+ed8321e5a34ce5d06dac4c8a70eda047	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	unknown Sva0996 marine group	0	0	10	0	0	0
 edfaabe6c17a7c790a022f21ba2bcddd	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	uncultured	uncultured alpha proteobacterium	0	0	0	17	0	0
 edfcaa7f4383fcb2705ee9e0e053e374	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured proteobacterium	0	0	0	17	0	0
 eea46715b6680b336bae25cc979f5838	Bacteria	Proteobacteria	Gammaproteobacteria	Ectothiorhodospirales	Ectothiorhodospiraceae	uncultured	Ambiguous_taxa	0	0	0	0	107	0
 eec25b8bfc1eaf1f354bb270dd86e22e	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Spirosomaceae	Fibrisoma	Ambiguous_taxa	0	0	4	0	0	0
 eede964d9a820dc052c470ae38550f54	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	uncultured marine bacterium	0	0	0	46	0	0
-eeeae8fd761ba6a403d99befb5e67daa	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	NS4 marine group bacterium	0	0	0	0	63	0
+eeeae8fd761ba6a403d99befb5e67daa	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	NS4 marine group	unknown NS4 marine group	0	0	0	0	63	0
 ef066b3fcade6a615810d1d8a6ba0c4a	Bacteria	Verrucomicrobia	Verrucomicrobiae	Opitutales	Puniceicoccaceae	Pelagicoccus	Ambiguous_taxa	0	0	0	21	0	0
 ef0e3f724c4355da1de73f9ddaf8347f	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	165	0	0
-ef7a51971477fb39e19a255900f1deb9	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas bacterium	0	6	0	0	0	0
+ef7a51971477fb39e19a255900f1deb9	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	unknown Stenotrophomonas	0	6	0	0	0	0
 efa1b82a0205d5c51525f290854be9a2	Bacteria	Proteobacteria	Deltaproteobacteria	Bradymonadales	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	3	0	0	0	0
-f01619f976d67706233a43382306c479	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	uncultured bacterium	0	0	0	60	0	0
-f02c14e291da09b39331032ab47012a8	Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	Pedosphaeraceae bacterium	Pedosphaeraceae bacterium	4	0	0	0	0	0
+f01619f976d67706233a43382306c479	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae	uncultured	unknown uncultured	0	0	0	60	0	0
+f02c14e291da09b39331032ab47012a8	Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae	unknown Pedosphaeraceae	unknown Pedosphaeraceae	4	0	0	0	0	0
 f08790df74ed01c8cdc7f689bba397b5	Bacteria	Proteobacteria	Alphaproteobacteria	Sneathiellales	Sneathiellaceae	uncultured	uncultured marine microorganism	3	0	0	0	0	0
 f256d83618e8f2b1167044adba963ea4	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera	Ambiguous_taxa	11	0	0	0	0	0
 f2a4771eb711b1264c92e7c752ff2bdc	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Pseudohongiellaceae	Pseudohongiella	Ambiguous_taxa	0	4	0	0	0	0
-f318395b21141b8d2af811f9fd5d0184	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	OM182 clade bacterium	OM182 clade bacterium	OM182 clade bacterium	0	0	0	42	0	0
+f318395b21141b8d2af811f9fd5d0184	Bacteria	Proteobacteria	Gammaproteobacteria	OM182 clade	unknown OM182 clade	unknown OM182 clade	unknown OM182 clade	0	0	0	42	0	0
 f3399ce18b77f44e4fdaccbdb788a907	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Ambiguous_taxa	0	0	0	45	0	0
-f3824e8252ec821a8987a6204904ec5f	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphomonas	Hyphomonas bacterium	26	28	0	5	0	0
-f3867ccb9f5b0fc240dc553918bc18fd	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	66	0	0
-f3ed0e51e737c62a980f8771be0cf850	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	AEGEAN-169 marine group bacterium	AEGEAN-169 marine group bacterium	0	0	5	0	0	0
-f3fa6b9089e58788e18d7b1874583603	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Nitrincolaceae	uncultured	uncultured bacterium	0	0	0	10	0	0
+f3824e8252ec821a8987a6204904ec5f	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphomonas	unknown Hyphomonas	26	28	0	5	0	0
+f3867ccb9f5b0fc240dc553918bc18fd	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	66	0	0
+f3ed0e51e737c62a980f8771be0cf850	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unknown AEGEAN-169 marine group	unknown AEGEAN-169 marine group	0	0	5	0	0	0
+f3fa6b9089e58788e18d7b1874583603	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Nitrincolaceae	uncultured	unknown uncultured	0	0	0	10	0	0
 f4ad315ec51d8bee23cb39f39bc8b019	Bacteria	Proteobacteria	Gammaproteobacteria	SAR86 clade	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	Rhodobacteraceae bacterium REDSEA-S29_B10	0	0	0	79	0	0
-f5259cbcc43ff67a153d314a40d98ab1	Bacteria	Proteobacteria	Deltaproteobacteria	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	Deltaproteobacteria bacterium	0	6	0	0	0	0
-f5b418c5df849380c4ac8ab67db32dff	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	78	0	0
+f5259cbcc43ff67a153d314a40d98ab1	Bacteria	Proteobacteria	Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	unknown Deltaproteobacteria	0	6	0	0	0	0
+f5b418c5df849380c4ac8ab67db32dff	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	78	0	0
 f6cbeb5992ec769ac3d414e134f20bda	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Thalassospiraceae	Thalassospira	Ambiguous_taxa	16	23	0	0	0	0
 f6f5b996c4aa1781adbc8883a21d0a5f	Bacteria	Marinimicrobia (SAR406 clade)	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	uncultured marine bacterium	0	0	0	59	0	0
 f705d1bcdfe7be960633f209836d4241	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	7	0	0	0
 f71e9da5a813a7c1b787a6897d3869ce	Bacteria	Proteobacteria	Gammaproteobacteria	Coxiellales	Coxiellaceae	Coxiella	Ambiguous_taxa	0	0	0	13	0	0
-f7b6a808234394e3ac9ebc0f3232bba1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	Prochlorococcus MIT9313 bacterium	38	0	0	0	0	0
+f7b6a808234394e3ac9ebc0f3232bba1	Bacteria	Cyanobacteria	Oxyphotobacteria	Synechococcales	Cyanobiaceae	Prochlorococcus MIT9313	unknown Prochlorococcus MIT9313	38	0	0	0	0	0
 f827eafb9a3a541a3e4af28a814cd8c9	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium	Ambiguous_taxa	0	16	0	0	0	0
-f898c7a8c566d0beb46d5448dde2387c	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	Bradyrhizobium bacterium	18	0	17	0	0	0
+f898c7a8c566d0beb46d5448dde2387c	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium	unknown Bradyrhizobium	18	0	17	0	0	0
 f8a7e9e44327fbfed8b98899f6e17d1a	Bacteria	Actinobacteria	Acidimicrobiia	Microtrichales	Microtrichaceae	Sva0996 marine group	Ambiguous_taxa	0	0	0	13	0	0
-f8b27e0250882c619976b7b292e7f334	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	SAR11 clade bacterium	SAR11 clade bacterium	SAR11 clade bacterium	0	0	57	0	0	0
+f8b27e0250882c619976b7b292e7f334	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	unknown SAR11 clade	0	0	57	0	0	0
 f8b308c12dd0885832440747714244e2	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade II	Ambiguous_taxa	Ambiguous_taxa	0	0	0	0	139	0
-f8c470a5024cf0e5b2aa7244e2985b18	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	17	0	0	0
-f8cf44d49ec7e6a275cd9ace366294a9	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aquibacter	Aquibacter bacterium	0	9	0	0	0	0
-f953cb4781abf3a98d80fe5b7cf5ac25	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	Clade I bacterium	Clade I bacterium	0	0	0	0	16	0
-f97af179fdb9e0cfb6887a0547ae517e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	25	0	0	0	0
+f8c470a5024cf0e5b2aa7244e2985b18	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	17	0	0	0
+f8cf44d49ec7e6a275cd9ace366294a9	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Aquibacter	unknown Aquibacter	0	9	0	0	0	0
+f953cb4781abf3a98d80fe5b7cf5ac25	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11 clade	Clade I	unknown Clade I	unknown Clade I	0	0	0	0	16	0
+f97af179fdb9e0cfb6887a0547ae517e	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	25	0	0	0	0
 f998e4639165ec9fb666f7c1deeb50ee	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324 clade(Marine group B)	metagenome	metagenome	metagenome	0	0	0	7	0	0
-f9be29f01a1fe21fd544850b7798c0df	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	uncultured bacterium	0	0	0	56	0	0
+f9be29f01a1fe21fd544850b7798c0df	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	uncultured	unknown uncultured	0	0	0	56	0	0
 f9ec92fdf2742fd08534797ffa686070	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	Urania-1B-19 marine sediment group	uncultured bacterium	0	7	0	0	0	0
-fa2a0bdeb148fb83dd2b7d6c8d7cb96b	Bacteria	PAUC34f	PAUC34f bacterium	PAUC34f bacterium	PAUC34f bacterium	PAUC34f bacterium	PAUC34f bacterium	0	0	0	17	0	0
-fa57b83ef8484e44ecc1fb96e869a4a7	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	Devosiaceae bacterium	Devosiaceae bacterium	0	6	0	0	0	0
+fa2a0bdeb148fb83dd2b7d6c8d7cb96b	Bacteria	PAUC34f	unknown PAUC34f	unknown PAUC34f	unknown PAUC34f	unknown PAUC34f	unknown PAUC34f	0	0	0	17	0	0
+fa57b83ef8484e44ecc1fb96e869a4a7	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Devosiaceae	unknown Devosiaceae	unknown Devosiaceae	0	6	0	0	0	0
 fa7506c9e9fd8a360066dca3bb25dacd	Bacteria	Proteobacteria	Gammaproteobacteria	uncultured	uncultured bacterium	uncultured bacterium	uncultured bacterium	0	0	0	7	0	0
 fb2a377da5cdbe6548e125c9e2445cf9	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	uncultured	uncultured marine bacterium	0	0	0	8	0	0
 fb4c5e3de1607f360cd84653e86f5b78	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Rhodopirellula	uncultured bacterium	0	9	0	0	0	0
-fc32c33214518b15a5fd59ff7c002a2b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacteraceae bacterium	Rhodobacteraceae bacterium	0	0	0	0	80	0
+fc32c33214518b15a5fd59ff7c002a2b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	unknown Rhodobacteraceae	unknown Rhodobacteraceae	0	0	0	0	80	0
 fc414e43721e26b76f1b2b6ad4feacac	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	uncultured	Ambiguous_taxa	0	6	0	0	0	0
 fc71f2d05a6710f7fe7643788d42611b	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Ambiguous_taxa	0	0	0	7	12	0
 fc8483af1ad4e2e98dd76669be21a350	Bacteria	Proteobacteria	Alphaproteobacteria	Puniceispirillales	SAR116 clade	uncultured marine bacterium	uncultured marine bacterium	0	0	0	0	64	0
 fcf11ec8b80994412cebcb3c12ac3d58	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	uncultured Alcanivorax sp.	319	80	23	44	9	0
-fd0db4b6c3c8013ee5fcade3a44b4c8d	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	SAR202 clade bacterium	SAR202 clade bacterium	SAR202 clade bacterium	0	0	8	0	0	0
+fd0db4b6c3c8013ee5fcade3a44b4c8d	Bacteria	Chloroflexi	Dehalococcoidia	SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	unknown SAR202 clade	0	0	8	0	0	0
 fd3fea7c47fc64073cab7999d71a5c99	Bacteria	Actinobacteria	Acidimicrobiia	Actinomarinales	Actinomarinaceae	Candidatus Actinomarina	Ambiguous_taxa	0	0	0	0	1638	0
 fd493c19f84a0f6fcb7ff9a227c9ebd0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AEGEAN-169 marine group	unidentified marine bacterioplankton	unidentified marine bacterioplankton	0	0	0	0	125	0
 fd86790c852514ebcceca9ef66a7bf9a	Bacteria	Marinimicrobia (SAR406 clade)	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	uncultured bacterium	14	0	0	0	0	0
-fe0da4e45e448d3ab807289cdf5ee9b7	Bacteria	Marinimicrobia (SAR406 clade)	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	Marinimicrobia (SAR406 clade) bacterium	0	0	39	0	0	0
-fe1ae64711906e86982881371f65829b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	uncultured	uncultured bacterium	uncultured bacterium	3	6	0	0	0	0
+fe0da4e45e448d3ab807289cdf5ee9b7	Bacteria	Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	unknown Marinimicrobia (SAR406 clade)	0	0	39	0	0	0
+fe1ae64711906e86982881371f65829b	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	uncultured	unknown uncultured	unknown uncultured	3	6	0	0	0	0
 fe7a3110b846dd14de40c6ee580b876e	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27 clade	Ambiguous_taxa	0	0	0	25	0	0
-ff6664ed565feffd5c5b2e948edc4b96	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Methylobacterium bacterium	29	21	42	0	0	0
-096cd2237adc50449f8ebb65ca0ffe19	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	115	0	0	0
+ff6664ed565feffd5c5b2e948edc4b96	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	unknown Methylobacterium	29	21	42	0	0	0
+096cd2237adc50449f8ebb65ca0ffe19	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	115	0	0	0
 0b06ef7f2b187bcf18d057241c1c1abe	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	4	14	0	0	0	0
-0c42f4451d4474db32f78a34b7c336d5	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	22	0	0	0	0	0
+0c42f4451d4474db32f78a34b7c336d5	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	22	0	0	0	0	0
 0e83728f7ad4609c0503c725c0ca4881	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	102	0	0
 0f06e0873a5f6fa21c00648e0b8b3321	Archaea	Thaumarchaeota	Marine Benthic Group A	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	0	0	45	0	0	0
-1948c923ff6f3d20c3bdea3ca6c4688e	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	183	0	0	0
+1948c923ff6f3d20c3bdea3ca6c4688e	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	183	0	0	0
 21139074b970fa51321ca4bdf151bed3	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Ambiguous_taxa	Ambiguous_taxa	0	0	225	0	0	0
-2625f5e0556b084be1313777d7183606	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	107	0	0
+2625f5e0556b084be1313777d7183606	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	107	0	0
 2aa4cdd5500f0d8a8f017c596279b30b	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Ambiguous_taxa	Ambiguous_taxa	0	0	65	0	0	0
 2d46dae8e35b22c05036ea3111b8940d	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	uncultured thaumarchaeote	uncultured thaumarchaeote	0	0	25	0	0	0
-2dda0cf7fe5fd5572f238ac760be6590	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	55	0	0
+2dda0cf7fe5fd5572f238ac760be6590	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	55	0	0
 3168c7ef0ddf6d37854ab7b23a99917f	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	0	16	0	0	0	0
-3242430c20a6676499568df0057f5ddf	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	9	0	0	0
+3242430c20a6676499568df0057f5ddf	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	9	0	0	0
 3da276b0f02020460280634bfa26644a	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	0	0	0	79	0	0
-3eb760e60f9536beecf2260e8065c645	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	46	0	0
+3eb760e60f9536beecf2260e8065c645	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	46	0	0
 423c7e3113b1143ae7e205d850c51692	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	4	0	0	0
 45ec378d0ab050411282e26d38e6a3a6	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	uncultured thaumarchaeote	uncultured thaumarchaeote	0	0	75	0	0	0
-48733f96a63df7c5597260525df971b1	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	72	0	0	0
-496de4f9e67f463d432d30d161f98e36	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Candidatus Nitrosopelagicus bacterium	0	0	18	0	0	0
+48733f96a63df7c5597260525df971b1	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	72	0	0	0
+496de4f9e67f463d432d30d161f98e36	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	unknown Candidatus Nitrosopelagicus	0	0	18	0	0	0
 4cdbaf972408ea3dcf55c640fc4e2240	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	0	0	0	18	0	0
 4d02642b6c8998dbe215000832122054	Archaea	Thaumarchaeota	Marine Benthic Group A	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	7	0	0	0
 4eb60c0a5861109f5366788815a00f2f	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	9	12	0	0	0
-50a1c671e8b0083be5978d5a636c8310	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	35	0	0	0
-5377f0da53b02e5bec46e20e1f8b722f	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	71	0	0	0
+50a1c671e8b0083be5978d5a636c8310	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	35	0	0	0
+5377f0da53b02e5bec46e20e1f8b722f	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	71	0	0	0
 55ad0771bd3ed7f5e35afc02903585bf	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	567	0	0
-582278f9172d2bea9566585efc0efaac	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Candidatus Nitrosopelagicus bacterium	0	0	181	0	0	0
+582278f9172d2bea9566585efc0efaac	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	unknown Candidatus Nitrosopelagicus	0	0	181	0	0	0
 596d05aab4b55ec0d97b62feef7b885a	Archaea	Nanoarchaeaeota	Woesearchaeia	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	uncultured euryarchaeote	0	0	0	7	0	0
-5e122399cb29970cea2eacd226696f87	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	234	0	0
-5e81264cb670888e93cb8132d0d03950	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	139	0	0	0
+5e122399cb29970cea2eacd226696f87	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	234	0	0
+5e81264cb670888e93cb8132d0d03950	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	139	0	0	0
 5e9f9ddcfab6534cc71b2ef1b15848e7	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	33	0	0	0
 5eb24d0a61730c46503ffd5f2eca440b	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	34	0	0	0
-625cabfbd66e4f32de52ec86cb441744	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	14	37	0	0	0
+625cabfbd66e4f32de52ec86cb441744	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	14	37	0	0	0
 62cc458b4fba194871df71f518e83ad3	Archaea	Thaumarchaeota	Marine Benthic Group A	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	uncultured marine archaeon	0	0	28	0	0	0
-638b5e6d612ba5a4c7f3ddc316cda5b6	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	61	0	0	0
+638b5e6d612ba5a4c7f3ddc316cda5b6	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	61	0	0	0
 648f76aef3b30290295df224a4cf836f	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	uncultured crenarchaeote ODPB-A9	uncultured crenarchaeote ODPB-A9	0	0	20	0	0	0
-6b90c6b09ae83813f66a7e32fdf8ec88	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	108	0	0
+6b90c6b09ae83813f66a7e32fdf8ec88	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	108	0	0
 71440c075d1a9f1d2e225a7d40426cc1	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	uncultured marine microorganism HF200_10-06-02	uncultured marine microorganism HF200_10-06-02	uncultured marine microorganism HF200_10-06-02	96	0	0	0	0	0
-72a81b7b3804f17689aa27929aa6e0a4	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	72	0	0	0
-72de9829d7c8731c9b777aec0a914940	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	52	0	0	0
-74832011071f6275a275e3324595b716	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	34	0	0	0	0	0
+72a81b7b3804f17689aa27929aa6e0a4	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	72	0	0	0
+72de9829d7c8731c9b777aec0a914940	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	52	0	0	0
+74832011071f6275a275e3324595b716	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	34	0	0	0	0	0
 772007c8b80a45f314acbe4e806f37a2	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	87	0	0
 774002d93bc8b2b101753adc59dbd6a3	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Ambiguous_taxa	Ambiguous_taxa	0	0	97	0	0	0
 77deb87c18fa468df0991af0e7bfbce1	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	2	0	0
 7a00eb91ef4144e8821c223eb7cbeaea	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	13	0	0
 83f82bf039380fb758e187e53b216c52	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	11	0	0	0
-83fde7d20f9fdb8b1df7a9c1c289c3f6	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	25	0	0	0
-844c74e6e7aed7d79b1ca39f52649774	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	26	0	0	0
+83fde7d20f9fdb8b1df7a9c1c289c3f6	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	25	0	0	0
+844c74e6e7aed7d79b1ca39f52649774	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	26	0	0	0
 84ce402bbecd33b12a0d464ecd799c90	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	251	0	0
 8d264289430dd37d48149eb80dfdbc24	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	12	0	0	0	0	0
-902fffa9c45939f42f30ab38be9d273c	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	15	0	0	0
+902fffa9c45939f42f30ab38be9d273c	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	15	0	0	0
 9085827b66d4bbbdf872a8b1d23d1740	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	60	0	0	0
-92a72c2ad787ef53c564b57d40e967dd	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	34	0	0	0
+92a72c2ad787ef53c564b57d40e967dd	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	34	0	0	0
 933fcaa35a98b531df3749caef2caa9d	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	marine metagenome	marine metagenome	marine metagenome	0	0	0	55	0	0
 9b6bc114ff1919d7368bad73b25c695e	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	22	0	0
 9d22df39d1ea85ad360317dd446ab696	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	54	0	0
 9ded8c371c310dacc99f1babd6651fc3	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Ambiguous_taxa	0	0	28	0	0	0
 a384331d1e534e18519f6da2c747ce84	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	75	0	0	0
-a621be2c83f72e70b2deccb700157a9c	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	9	0	0	0
-a71cd633bd0b4f6fea0b8804ab104ca0	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	16	0	0	0
-a96621e82278e88942c9ded1f1605e1a	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	61	0	0	0
-a9b70e60ec162269a09b3b4da114eda4	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	19	0	0	0
+a621be2c83f72e70b2deccb700157a9c	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	9	0	0	0
+a71cd633bd0b4f6fea0b8804ab104ca0	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	16	0	0	0
+a96621e82278e88942c9ded1f1605e1a	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	61	0	0	0
+a9b70e60ec162269a09b3b4da114eda4	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	19	0	0	0
 ab400409c7c923740bb8756469f3fa98	Archaea	Euryarchaeota	Halobacteria	Halobacteriales	Halomicrobiaceae	uncultured	Ambiguous_taxa	0	0	35	0	0	0
-af79518b819a4bc75b4cf9c5760db0e5	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	31	0	0	0
+af79518b819a4bc75b4cf9c5760db0e5	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	31	0	0	0
 b2d56bbfab02ebc351c3a95b5bf12579	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Ambiguous_taxa	0	0	23	0	0	0
-b3380379ad3d80841e69c26a0661b1f4	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	74	0	0
+b3380379ad3d80841e69c26a0661b1f4	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	74	0	0
 b366861fe53a53ad0be14a972406f3e2	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	84	0	0
 b73ca1373ab06d614822688d515f8812	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	30	0	0	0	0	0
-bb747f1c68faf1d195ff8dc6d9d66698	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	173	0	0	0
+bb747f1c68faf1d195ff8dc6d9d66698	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	173	0	0	0
 bbfff12226a6b2cd4eea89c3b278fdcb	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	47	0	0
 bd7508359251c493e9fc33e00a30aee0	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	23	0	0	0	0	0
-bd9b61c20449d9a27b2105bc8bd688c3	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Candidatus Nitrosopelagicus bacterium	0	0	70	0	0	0
-be4108b7279175a4a9565c67f56bb392	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Candidatus Nitrosopelagicus bacterium	0	0	13	0	0	0
-c10874639ea8a315cac12a3e01b31b5a	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Candidatus Nitrosopelagicus bacterium	0	0	88	0	0	0
+bd9b61c20449d9a27b2105bc8bd688c3	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	unknown Candidatus Nitrosopelagicus	0	0	70	0	0	0
+be4108b7279175a4a9565c67f56bb392	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	unknown Candidatus Nitrosopelagicus	0	0	13	0	0	0
+c10874639ea8a315cac12a3e01b31b5a	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	unknown Candidatus Nitrosopelagicus	0	0	88	0	0	0
 c3e3af816b90df02a0cc14d91a7fee61	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured marine archaeon	0	0	84	0	0	0
 cfaf68d352c230e98ddf5726c54903f0	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	215	0	0	0
 d08f9fc2d5f02647fad189f644d0ea28	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	76	0	0	0
-d2c78469934a3ba27f6ef73f070fbbf9	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	15	0	0	0
+d2c78469934a3ba27f6ef73f070fbbf9	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	15	0	0	0
 da86e668fe4c05f84ef2e90223fd338e	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	14	0	0	0	0
 e320ad0389e6bb7502b6f783bbb2dc1a	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	34	0	0
-e5bef6d7a65c9a889f20b3b9f3ba62fb	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	62	0	0	0
+e5bef6d7a65c9a889f20b3b9f3ba62fb	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	62	0	0	0
 e80730a7ffd3138915d77269428d3554	Archaea	Euryarchaeota	Thermoplasmata	Marine Group III	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	17	0	0	0	0	0
-e9b0e58a98babfee8b0bb2489e38d213	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Marine Group II bacterium	Marine Group II bacterium	Marine Group II bacterium	0	0	0	14	0	0
+e9b0e58a98babfee8b0bb2489e38d213	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	unknown Marine Group II	unknown Marine Group II	unknown Marine Group II	0	0	0	14	0	0
 ea1681774a9a9d71bcecb46e4e711164	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	Ambiguous_taxa	82	27	554	4	0	0
-f07589127dbd45a8f7f72e03d1605659	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	2	0	0	0
+f07589127dbd45a8f7f72e03d1605659	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	2	0	0	0
 f158aeca71e912cc326a63e5ad147116	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	87	0	0
 f1a2d046e4208ba026f026053e38fb83	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	78	0	0
-f1af1ed6f47150b23120090ffe83688f	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	97	0	0	0
-f2fcee2ced3713e24d51188b729e1fcf	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	23	0	0	0
-f4a14415fbd6fb61cc164476beabff02	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	13	0	0	0
-f5b9522555757a0f7f17bb4f42063c30	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	23	0	0	0
-f769263ee783df32f82ec5fa870fe055	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	31	0	0	0
+f1af1ed6f47150b23120090ffe83688f	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	97	0	0	0
+f2fcee2ced3713e24d51188b729e1fcf	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	23	0	0	0
+f4a14415fbd6fb61cc164476beabff02	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	13	0	0	0
+f5b9522555757a0f7f17bb4f42063c30	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	23	0	0	0
+f769263ee783df32f82ec5fa870fe055	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	31	0	0	0
 fb5cd222e1ba16644eb5d04657db7cee	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Candidatus Nitrosopelagicus	uncultured archaeon	0	0	54	0	0	0
 fd70a312c626eebbbbfa9ce6b13e0340	Archaea	Euryarchaeota	Thermoplasmata	Marine Group II	Ambiguous_taxa	Ambiguous_taxa	Ambiguous_taxa	0	0	0	835	0	0
-fe2f4dc3f8727cfcca5c375ab3eb5c75	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	45	0	0	0
-fe650877aed4071bfb87bf49457cc734	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilaceae bacterium	Nitrosopumilaceae bacterium	0	0	25	0	0	0
+fe2f4dc3f8727cfcca5c375ab3eb5c75	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	45	0	0	0
+fe650877aed4071bfb87bf49457cc734	Archaea	Thaumarchaeota	Nitrososphaeria	Nitrosopumilales	Nitrosopumilaceae	unknown Nitrosopumilaceae	unknown Nitrosopumilaceae	0	0	25	0	0	0
