@@ -214,7 +214,7 @@ filter_abundance <- function(datalist) {
   
   datalist$Count_Data <- counts_filtered
   
-  if ("Sequences" %in% names(.datalist)) {
+  if ("Sequences" %in% names(datalist)) {
     datalist$Sequences <- dplyr::slice(datalist$Sequences, match(datalist$Count_Data$OTU_ID, Seq_ID))
   }
   
