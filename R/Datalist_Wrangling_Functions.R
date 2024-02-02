@@ -240,7 +240,7 @@ rarefy_datalist <- function(datalist, rare_lim, drop = F) {
   datalist$Count_Data <- count_rared
   datalist$Meta_Data <- meta_subset
   
-  if ("Sequences" %in% names(.datalist)) {
+  if ("Sequences" %in% names(datalist)) {
     datalist$Sequences <- dplyr::slice(datalist$Sequences, match(datalist$Count_Data$OTU_ID, Seq_ID))
   }
   
