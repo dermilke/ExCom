@@ -1,5 +1,82 @@
 #### Datalist Wrangling Functions ####
 
+import_data <- function(file_ASV, kingdom = "Prok", sequences = F, rare_lim = NULL, drop_rare = T, 
+                        abundance_filter = F, min_counts = NULL) {
+  
+  #### Import Function ####
+  # Start of every Analysis Pipeline
+  # 
+  # Define:
+  # file_ASV = Location of folder structure (top level of substructure -> see Github ReadMe)
+  # kingdom = Prokaryotes, Chloroplasts, Eukaryotes (Prok, Chloroplast, Euk)
+  # rare_lim = Integer defining the rarefying level. If NULL no rarefying will be done
+  # drop_rare = Logical defining if samples below rare_lim will be dropped from analysis
+  # abundance_filter = Logical defining if abundance filter after Milici et al. 2016 should be applied
+  # min_count = Integer defining the minimum count number a sample should have. NULL for no filtering
+  
+  data_select <- function(file_ASV, kingdom = "Prok") {
+    
+    Count_Data <- suppressMessages(read_delim(paste(file_ASV, "Processed/", kingdom, "/Full_", kingdom,"_Count.tsv", sep = ""), 
+                                              del = "\t")) %>%
+      select(-grep("[Mm]ock", names(.))) %>%
+      select(-grep("NC", names(.))) 
+    
+    Meta_Data <- suppressMessages(read_delim(paste(file_ASV, "Meta_Data/", kingdom, "/Meta_Data.tsv", sep = ""), 
+                                             del = "\t"))
+    
+    return(list(Meta_Data = Meta_Data, 
+                Count_Data = Count_Data))
+    
+  }
+  
+  correct_ambiguous <- function(datalist, fromTaxLvl = 8) {
+    
+    replacer <- function(Count_Data, taxLvl, replaceLvl, pattern) {
+      Count_Data[grep(pattern, x = as_vector(Count_Data[, taxLvl])), taxLvl] <- paste0("Unknown ", as_vector(Count_Data[grep(pattern, x = as_vector(Count_Data[, taxLvl])), replaceLvl]))
+      return(Count_Data)
+    }
+    
+    for (taxLvl in fromTaxLvl:1) {
+      
+      for (i in (taxLvl-1):1) {
+        
+        datalist$Count_Data <- replacer(datalist$Count_Data, taxLvl, replaceLvl = i, pattern = 'bacterium$') %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "uncultured") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "metagenome") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "unidentified") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "Ambiguous_taxa") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "unknown") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "unidentified marine bacterioplankton") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "^Unknown.*bacterium$") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = "^Uncultured.*bacterium$") 
+        
+      }
+      
+    }  
+    
+    return(datalist)
+    
+  }
+  
+  data_import <- data_select(file_ASV, kingdom = kingdom) %>%
+    mutate_meta_datalist(Counts_Total = colSums(select_if(.$Count_Data, is.numeric))) %>%
+    with(., if (!is.null(min_counts)) filter_station_datalist(., Counts_Total > !!min_counts) else .) %>%
+    with(., if (!is.null(rare_lim)) rarefy_datalist(., rare_lim, drop_rare) else .) %>%
+    with(., if (abundance_filter) filter_abundance(.) else .) %>%
+    correct_ambiguous()
+  
+  if (sequences) {
+    tmp_seqs <- readLines(paste0(file_ASV, "/Fasta/", kingdom, "/Full_", kingdom, "_Sequences.fasta"))
+    
+    data_import$Sequence <- tibble(Seq_ID = tmp_seqs[seq(1, length(tmp_seqs)-1, 2)],
+                                   Sequence = tmp_seqs[seq(2, length(tmp_seqs), 2)]) %>%
+      mutate(Seq_ID = str_replace_all(Seq_ID, pattern = ">", replacement = ""))
+  }
+  
+  return(data_import)
+  
+}
+
 combine_data <- function(datalist_1, datalist_2) {
   
   Count_Data <- full_join(mutate_if(datalist_1$Count_Data, is.logical, as.character), 
