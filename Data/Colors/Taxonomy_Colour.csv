@@ -1,198 +1,173 @@
-Group,Colour,
-Acidimicrobiia,#FAFD7CFF,
-Actinobacteria,#9632B8FF,
-Alphaproteobacteria,#D43F3AFF,
-Bacteroidia,#357EBDFF,
-Deltaproteobacteria,#c6ecde,
-Gammaproteobacteria,#EEA236FF,
-<<<<<<< HEAD
-Nitrososphaeria,#a33800,
-=======
-Nitrososphaeria,#a33800,#1a472a
->>>>>>> refs/remotes/origin/master
-Oxyphotobacteria,#339900FF,
-Thermoplasmata,#f9d423,
-Unknown Marinimicrobia (SAR406 clade),#E762D7FF,
-Dehalococcoidia,#7e7b52,
-Nitrospinia,#FDAF91FF,
-<<<<<<< HEAD
-Planctomycetacia,#FAFD7CFF,#76ecfe
-=======
-Planctomycetacia,#76ecfe,
->>>>>>> refs/remotes/origin/master
-Verrucomicrobiae,#1f621e,
-BD2-11 terrestrial group,#afbd22,
-Calditrichia,#40b5bc,
-Ignavibacteria,#962c54,
-Kiritimatiellae,#2c5496,
-OM190,#f04b0e,
-Rhodothermia,#f0bc0e,
-Subgroup 22,#89819f,
-Thermoanaerobaculia,#ebcc65,
-Thermodesulfovibrionia,#5b912b,
-Unknown Latescibacteria,#dd447d,
-Holophagae,#e71837,
-<<<<<<< HEAD
-Acidobacteriia,#663399,#ffd732
-Phycisphaerae,#89819f,#d7a036
-=======
-Acidobacteriia,#ffd732,
-Phycisphaerae,#d7a036,
->>>>>>> refs/remotes/origin/master
-Spirochaetia,#663399,
-Clostridia,#62eb96,
-Melainabacteria,#87244b,
-Negativicutes,#f0f209,
-Saccharimonadia,#ffc425,
-Unknown FCPU426,#d11141,
-Methanobacteria,#0080ff,
-Bathyarchaeia,#D08442,
-Odinarchaeia,#428ed0,
-Unknown Archaea,#8442d0,
-Woesearchaeia,#229966,
-<<<<<<< HEAD
-Bacillariophyta,#66CC00,
-=======
-Bacillariophyta,#339900FF,
->>>>>>> refs/remotes/origin/master
-Chrysophyceae-Synurophyceae,#afbd22,
-Chrysophyceae,#40b5bc,
-Dictyochophyceae,#EEA236FF,
-Embryophyceae,#339900FF,
-Mamiellophyceae,#D43F3AFF,
-Ochrophyta organism,#FDAF91FF,
-Pelagophyceae,#f0bc0e,
-Prymnesiophyceae,#0080ff,
-Cryptophyceae,#8442d0,
-Crustaceans,#9632B8FF,
-Flatworms,#357EBDFF,
-Gastrotrichs,#EEA236FF,
-Nematodes,#339900FF,
-Segmented Worms,#e71837,
-Arrow Worms,#FAFD7CFF,
-Bivalves,#2e7a97,
-Bryozoans,#62eb96,
-<<<<<<< HEAD
-Hydrozoans,x,
-=======
-Hydrozoans,#ed5555,
->>>>>>> refs/remotes/origin/master
-Ribbon Worms,#ffc425,
-Tardigrades,#afbd22,
-Arthropoda,#357EBDFF,
-AX,#d6c466,
-Cnidaria,#E762D7FF,
-Dinophyceae,#1f621e,
-Heterolobosea,#40b5bc,
-Polycystinea,#ebcc65,
-RAD-A,#5b912b,
-Spirotrichea,#2f36a1,
-Syndiniales,#EEA236FF,
-Ascomycota,#f04b0e,
-Unknown Eukaryota,#a15205,
-Parcubacteria,#f04b0e,
-vadinHA49,#a15205,
-Marine Benthic Group A,#428bca,
-Halobacteria,#8bca42,
-Group 1.1c,#662299,
-Crenarchaeota Incertae Sedis,#ca428b,
-Prasinophyceae,#E762D7FF,
-Unknown Ochrophyta,#FAFD7CFF,
-Bolidophyceae,#0080ff,
-CX,#ffe433,
-Colpodea,#b42006,
-Acantharea,#eb1469,
-Cyanobacteria,#339900FF,
-Deferribacteres,#7e7b52,
-Flavobacteriia,#357EBDFF,
-Unknown Chloroflexi,#FDAF91FF,
-RAD-B,#afbd22,
-Poseidoniia,#EEA236FF,
-Labyrinthulomycetes,#ffd732,
-Unknown,#853232,
-Anaerolineae,#69140a,
-Elusimicrobia,#00ffff,
-Fibrobacteria,#949810,
-Fimbriimonadia,#e5b551,
-Methanomicrobia,#ff6666,
-Subgroup 6,#100a7c,
-Thermoleophilia,#576675,
-Unknown Bacteria,#420420,
-Unknown FBP,#daa520,
-<<<<<<< HEAD
-Unknown WS4,#ffff66,
-Oligohymenophorea,#339900FF,
-Unknown Chlorophyta,#FDAF91FF,
-Bryozoa,#2c5496,
-Platyhelminthes,#ebcc65,
-Unknown Ciliophora,#f0f209,
-Unknown Metazoa,#7e7b52,
-Planctomycetes,#9632B8FF,
-Chloropicophyceae,#a7090f,
-Bacilli,#ca428b,
-Unknown Proteobacteria,#daa520,
-Unknown SAR324 clade(Marine group B),#69140a,
-Prasinodermophyceae,#7e7b52,
-Unknown Apicomplexa,#40b5bc,
-Dothideomycetes,#f04b0e,
-Eurotiomycetes,#428bca,
-Leotiomycetes,#66CC00,
-Mortierellomycetes,#ebcc65,
-Sordariomycetes,#339900FF,
-Tremellomycetes,#7e7b52,
-Acidobacteria,#FAFD7CFF,
-Bacteroidetes,#D43F3AFF,
-Proteobacteria,#357EBDFF,
-Verrucomicrobia,#339900FF,
-Euryarchaeota,#D43F3AFF,
-Chemoheterotrophy,#357EBDFF,#EEA236FF
-Fermentation,#D43F3AFF,#afbd22
-Hydrogen,#EEA236FF,#89819f
-Iron,#87244b,#87244b
-Methan,#afbd22,#0080ff
-Nitrogen,#89819f,#40b5bc
-"Parasite, pathogens or symbionts",#7e7b52,#9632B8FF
-Phototrophy,#66CC00,
-Sulfur,#FDAF91FF,
-Autotroph,#FAFD7CFF,
-Carbon,#357EBDFF,
-Heterotroph,#a33800,
-Carbon Methane,#357EBDFF,
-Carbon Others,#ebcc65,
-Carbon Biodegradation,#afbd22,
-Carbon Fermentation,#0080ff,
-Carbon Heterotrophy,#a33800,
-Carbon Autotrophy,#9632B8FF,
-Apicomplexa,#FAFD7CFF,
-Ciliophora,#FDAF91FF,
-Dinoflagellata,#357EBDFF,
-Radiolaria,#a33800,
-SX,#9632B8FF,
-1,#FAFD7CFF,
-2,#9632B8FF,
-3,#D43F3AFF,
-4,#357EBDFF,
-5,#EEA236FF,
-6,#339900FF,
-7,#E762D7FF,
-8,#7e7b52,
-9,#FDAF91FF,
-10,darkgrey,
-11,#1f621e,
-12,#2eb9b5,
-13,#428bca,
-Acidobacteriae,#339900FF,
-Blastocatellia,#afbd22,
-Nitrospiria,#87244b,
-Polyangia,#357EBDFF,
-Rubrobacteria,#ca428b,
-Cyanobacteriia,#339900FF,
-Chloroflexia,#D43F3AFF,
-Kapabacteria,#66CC00,
-Actinomycetia,#9632B8FF,
-Campylobacteria,#2eb9b5,
-Planctomycetia,#FAFD7CFF,
-Vicinamibacteria,#ff6666,
-=======
-Unknown WS4,#ffff66,
->>>>>>> refs/remotes/origin/master
+Group,Colour
+Acidimicrobiia,#FAFD7CFF
+Actinobacteria,#9632B8FF
+Alphaproteobacteria,#D43F3AFF
+Bacteroidia,#357EBDFF
+Deltaproteobacteria,#c6ecde
+Gammaproteobacteria,#EEA236FF
+Nitrososphaeria,#a33800
+Oxyphotobacteria,#339900FF
+Thermoplasmata,#f9d423
+Unknown Marinimicrobia (SAR406 clade),#E762D7FF
+Dehalococcoidia,#7e7b52
+Nitrospinia,#FDAF91FF
+Planctomycetacia,#FAFD7CFF
+Verrucomicrobiae,#1f621e
+BD2-11 terrestrial group,#afbd22
+Calditrichia,#40b5bc
+Ignavibacteria,#962c54
+Kiritimatiellae,#2c5496
+OM190,#f04b0e
+Rhodothermia,#f0bc0e
+Subgroup 22,#89819f
+Thermoanaerobaculia,#ebcc65
+Thermodesulfovibrionia,#5b912b
+Unknown Latescibacteria,#dd447d
+Holophagae,#e71837
+Acidobacteriia,#663399
+Phycisphaerae,#89819f
+Spirochaetia,#663399
+Clostridia,#62eb96
+Melainabacteria,#87244b
+Negativicutes,#f0f209
+Saccharimonadia,#ffc425
+Unknown FCPU426,#d11141
+Methanobacteria,#0080ff
+Bathyarchaeia,#D08442
+Odinarchaeia,#428ed0
+Unknown Archaea,#8442d0
+Woesearchaeia,#229966
+Bacillariophyta,#66CC00
+Chrysophyceae-Synurophyceae,#afbd22
+Chrysophyceae,#40b5bc
+Dictyochophyceae,#EEA236FF
+Embryophyceae,#339900FF
+Mamiellophyceae,#D43F3AFF
+Ochrophyta organism,#FDAF91FF
+Pelagophyceae,#f0bc0e
+Prymnesiophyceae,#0080ff
+Cryptophyceae,#8442d0
+Crustaceans,#9632B8FF
+Flatworms,#357EBDFF
+Gastrotrichs,#EEA236FF
+Nematodes,#339900FF
+Segmented Worms,#e71837
+Arrow Worms,#FAFD7CFF
+Bivalves,#2e7a97
+Bryozoans,#62eb96
+Hydrozoans,x
+Ribbon Worms,#ffc425
+Tardigrades,#afbd22
+Arthropoda,#357EBDFF
+AX,#d6c466
+Cnidaria,#E762D7FF
+Dinophyceae,#1f621e
+Heterolobosea,#40b5bc
+Polycystinea,#ebcc65
+RAD-A,#5b912b
+Spirotrichea,#2f36a1
+Syndiniales,#EEA236FF
+Ascomycota,#f04b0e
+Unknown Eukaryota,#a15205
+Parcubacteria,#f04b0e
+vadinHA49,#a15205
+Marine Benthic Group A,#428bca
+Halobacteria,#8bca42
+Group 1.1c,#662299
+Crenarchaeota Incertae Sedis,#ca428b
+Prasinophyceae,#E762D7FF
+Unknown Ochrophyta,#FAFD7CFF
+Bolidophyceae,#0080ff
+CX,#ffe433
+Colpodea,#b42006
+Acantharea,#eb1469
+Cyanobacteria,#339900FF
+Deferribacteres,#7e7b52
+Flavobacteriia,#357EBDFF
+Unknown Chloroflexi,#FDAF91FF
+RAD-B,#afbd22
+Poseidoniia,#EEA236FF
+Labyrinthulomycetes,#ffd732
+Unknown,#853232
+Anaerolineae,#69140a
+Elusimicrobia,#00ffff
+Fibrobacteria,#949810
+Fimbriimonadia,#e5b551
+Methanomicrobia,#ff6666
+Subgroup 6,#100a7c
+Thermoleophilia,#576675
+Unknown Bacteria,#420420
+Unknown FBP,#daa520
+Unknown WS4,#ffff66
+Oligohymenophorea,#339900FF
+Unknown Chlorophyta,#FDAF91FF
+Bryozoa,#2c5496
+Platyhelminthes,#ebcc65
+Unknown Ciliophora,#f0f209
+Unknown Metazoa,#7e7b52
+Planctomycetes,#9632B8FF
+Chloropicophyceae,#a7090f
+Bacilli,#ca428b
+Unknown Proteobacteria,#daa520
+Unknown SAR324 clade(Marine group B),#69140a
+Prasinodermophyceae,#7e7b52
+Unknown Apicomplexa,#40b5bc
+Dothideomycetes,#f04b0e
+Eurotiomycetes,#428bca
+Leotiomycetes,#66CC00
+Mortierellomycetes,#ebcc65
+Sordariomycetes,#339900FF
+Tremellomycetes,#7e7b52
+Acidobacteria,#FAFD7CFF
+Bacteroidetes,#D43F3AFF
+Proteobacteria,#357EBDFF
+Verrucomicrobia,#339900FF
+Euryarchaeota,#D43F3AFF
+Chemoheterotrophy,#357EBDFF
+Fermentation,#D43F3AFF
+Hydrogen,#EEA236FF
+Iron,#87244b
+Methan,#afbd22
+Nitrogen,#89819f
+"Parasite, pathogens or symbionts",#7e7b52
+Phototrophy,#66CC00
+Sulfur,#FDAF91FF
+Autotroph,#FAFD7CFF
+Carbon,#357EBDFF
+Heterotroph,#a33800
+Carbon Methane,#357EBDFF
+Carbon Others,#ebcc65
+Carbon Biodegradation,#afbd22
+Carbon Fermentation,#0080ff
+Carbon Heterotrophy,#a33800
+Carbon Autotrophy,#9632B8FF
+Apicomplexa,#FAFD7CFF
+Ciliophora,#FDAF91FF
+Dinoflagellata,#357EBDFF
+Radiolaria,#a33800
+SX,#9632B8FF
+1,#FAFD7CFF
+2,#9632B8FF
+3,#D43F3AFF
+4,#357EBDFF
+5,#EEA236FF
+6,#339900FF
+7,#E762D7FF
+8,#7e7b52
+9,#FDAF91FF
+10,darkgrey
+11,#1f621e
+12,#2eb9b5
+13,#428bca
+Acidobacteriae,#339900FF
+Blastocatellia,#afbd22
+Nitrospiria,#87244b
+Polyangia,#357EBDFF
+Rubrobacteria,#ca428b
+Cyanobacteriia,#339900FF
+Chloroflexia,#D43F3AFF
+Kapabacteria,#66CC00
+Actinomycetia,#9632B8FF
+Campylobacteria,#2eb9b5
+Planctomycetia,#FAFD7CFF
+Vicinamibacteria,#ff6666

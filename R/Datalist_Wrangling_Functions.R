@@ -503,8 +503,7 @@ create_datatable <- function(datalist, grpBy = Family, upper_grp = Class, otherT
   
   if (addColorScheme) {
     
-    #colorTaxonomy <- read_csv("https://raw.githubusercontent.com/dermilke/ExCom/master/Data/Colors/Taxonomy_Colour.csv")
-    colorTaxonomy <- read_csv("~/PhD/SoftwareBuilds/ExCom/Data/Colors/Taxonomy_Colour.csv")
+    colorTaxonomy <- read_csv("https://raw.githubusercontent.com/dermilke/ExCom/master/Data/Colors/Taxonomy_Colour.csv")
     
     derivative_color = str_split_fixed(datatable$Group, " - ", 2) %>%
       unique() %>%
