@@ -51,14 +51,15 @@ build_alignment <- function(datalist, fasta_output,
   
 }
 
-build_tree <- function(datalist, alignment_input = NULL, tree_output) {
+build_tree <- function(datalist, alignment_input = NULL, tree_output, 
+                       FastTree_path = "~/PhD/Software/FastTree/FastTree") {
   
   if (is.null(alignment_input)) {
     write_fasta(datalist, "output/tmp_fasta.fasta", Alignment)
     alignment_input = "output/tmp_fasta.fasta"
   }
   
-  system(paste0("~/PhD/Software/FastTree/FastTree -gtr -nt ", alignment_input,
+  system(paste0(FastTree_path, " -gtr -nt ", alignment_input,
                 " > ", tree_output))
   
   datalist$tree <- ape::read.tree(tree_output)
