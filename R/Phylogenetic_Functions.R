@@ -2,9 +2,17 @@ build_alignment <- function(datalist, fasta_output,
                             ARB_DB = "~/PhD/Data_Storage/AlignmentDBs/SILVA138.1/SILVA_138.1_SSURef_NR99_12_06_20_opt.arb", 
                             SINA_path = "/Users/felixmilke/opt/anaconda3/pkgs/sina-1.7.2-hadaa689_0/bin",
                             BMGE_path = "/Users/felixmilke/PhD/Software/BMGE/src/BMGE.jar",
-                            BMGE = F) {
+                            BMGE = F, conda = T) {
   
-  require(reticulate)
+  #require(reticulate)
+  
+  if (conda) {
+    sina_command = paste0("eval \"$(conda shell.bash hook)\"\n",
+                          "conda activate sina\n",
+                          "\n", "sina")
+  } else {
+    sina_command = paste0(SINA_path, "/sina")
+  }
   
   if (BMGE) {
     
@@ -32,11 +40,8 @@ build_alignment <- function(datalist, fasta_output,
     
     write_fasta(datalist, fasta_output =  "output/tmp_fasta.fasta")
     
-    writeLines(paste0("#!/bin/bash -i\n",
-                      "eval \"$(conda shell.bash hook)\"\n",
-                      "conda activate sina\n",
-                      "\n",
-                      "sina -i output/tmp_fasta.fasta",
+    writeLines(paste0("#!/bin/bash -i\n", sina_command,
+                      " -i output/tmp_fasta.fasta",
                       " -r ", ARB_DB,
                       " -o ", fasta_output, "\n",
                       "\n",
