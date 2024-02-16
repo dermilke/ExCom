@@ -189,6 +189,7 @@ UniFrac <- function(datalist, tree_location, distance="unweighted", blocksize=10
   require(furrr)
   
   plan(multisession, workers = use.cores)
+  options(future.globals.maxSize = 891289600)
   
   tree <- import_tree(datalist, tree_location, root = T)
   
