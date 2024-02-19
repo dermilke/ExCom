@@ -70,7 +70,8 @@ import_data <- function(file_ASV, kingdom = "Prok", sequence = F, rare_lim = NUL
     
     data_import$Sequence <- tibble(Seq_ID = tmp_seqs[seq(1, length(tmp_seqs)-1, 2)],
                                    Sequence = tmp_seqs[seq(2, length(tmp_seqs), 2)]) %>%
-      mutate(Seq_ID = str_replace_all(Seq_ID, pattern = ">", replacement = ""))
+      mutate(Seq_ID = str_replace_all(Seq_ID, pattern = ">", replacement = "")) %>%
+      filter(Seq_ID %in% data_import$Count_Data$OTU_ID)
   }
   
   return(data_import)
