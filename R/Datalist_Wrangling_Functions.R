@@ -365,7 +365,7 @@ summarize_by_param <- function(datalist, ...) {
   datalist_return <- list(Count_Data = tmp_final, Meta_Data = Meta_Data_new) %>%
     mutate_count_datalist(function(x) x/sum(x))
   
-  if ("Sequence" %in% names(.datalist)) {
+  if ("Sequence" %in% names(datalist)) {
     datalist$Sequence <- dplyr::slice(datalist$Sequence, match(datalist$Count_Data$OTU_ID, Seq_ID))
   }
   
