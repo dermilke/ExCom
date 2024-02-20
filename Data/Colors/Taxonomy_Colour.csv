@@ -45,7 +45,6 @@ Dictyochophyceae,#EEA236FF
 Embryophyceae,#339900FF
 Mamiellophyceae,#D43F3AFF
 Ochrophyta organism,#FDAF91FF
-Pelagophyceae,#f0bc0e
 Prymnesiophyceae,#0080ff
 Cryptophyceae,#8442d0
 Crustaceans,#9632B8FF
@@ -107,7 +106,6 @@ Platyhelminthes,#ebcc65
 Unknown Ciliophora,#f0f209
 Unknown Metazoa,#7e7b52
 Planctomycetes,#9632B8FF
-Chloropicophyceae,#a7090f
 Bacilli,#ca428b
 Unknown Proteobacteria,#daa520
 Unknown SAR324 clade(Marine group B),#69140a
@@ -172,3 +170,6 @@ Actinomycetia,#9632B8FF
 Campylobacteria,#2eb9b5
 Planctomycetia,#FAFD7CFF
 Vicinamibacteria,#ff6666
+Urorchordata,#bada55
+Chloropicophyceae,#ff0000
+Pelagophyceae,#065535
