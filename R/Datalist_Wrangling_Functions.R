@@ -48,6 +48,7 @@ import_data <- function(file_ASV, kingdom = "Prok", sequence = F, rare_lim = NUL
           replacer(., taxLvl, replaceLvl = i, pattern = "unknown") %>%
           replacer(., taxLvl, replaceLvl = i, pattern = "unidentified marine bacterioplankton") %>%
           replacer(., taxLvl, replaceLvl = i, pattern = "^Unknown.*bacterium$") %>%
+          replacer(., taxLvl, replaceLvl = i, pattern = " X*$") %>%
           replacer(., taxLvl, replaceLvl = i, pattern = "^Uncultured.*bacterium$") 
         
       }
