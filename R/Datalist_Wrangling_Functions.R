@@ -91,8 +91,8 @@ combine_data <- function(datalist_1, datalist_2) {
   replaceX <- grep("\\.x$",names(Count_Data)) 
   replaceY <- grep("\\.y$",names(Count_Data)) 
   
-  replaceX <- replaceX[match(sub(".y","",names(Count_Data)[replaceY]), 
-                             sub(".x","",names(Count_Data)[replaceX]))]
+  replaceX <- replaceX[match(sub("\\.y","",names(Count_Data)[replaceY]), 
+                             sub("\\.x","",names(Count_Data)[replaceX]))]
   
   if (!is_empty(replaceX)) {
     
