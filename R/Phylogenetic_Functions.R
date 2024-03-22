@@ -157,16 +157,22 @@ write_fasta <- function(datalist, fasta_output, Type = Sequence) {
   
 }
 
-cophenetic_distance <- function(datalist, tree_location, use.cores=4) {
+cophenetic_distance <- function(datalist, tree_location = NULL, use.cores=4) {
   
     require(furrr)
     
     plan(multisession, workers = use.cores)
   
+    if (is.null(tree_location)) {
+      tree <- datalist$tree %>%
+        ape::reorder.phylo(order="postorder")
+      tip.order <- order(tree$tip.label)
+    } else {
     #Get tree in "postorder" order
-    tree <- import_tree(datalist, tree_location, root = T) %>%
-      ape::reorder.phylo(order="postorder")
-    tip.order <- order(tree$tip.label)
+      tree <- import_tree(datalist, tree_location, root = T) %>%
+        ape::reorder.phylo(order="postorder")
+      tip.order <- order(tree$tip.label)
+    }
     
     #Get "tip ages", or horizontal position of edges in re-ordered phylo object
     node.ages = ape::node.depth.edgelength(tree)
