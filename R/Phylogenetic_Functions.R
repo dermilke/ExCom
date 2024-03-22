@@ -138,6 +138,7 @@ write_fasta <- function(datalist, fasta_output, Type = Sequence) {
   Type <- enquo(Type)
   
   datalist$Sequence %>%
+    distinct() %>%
     select(Seq_ID, !!Type) %>%
     mutate(Seq_ID = paste0(">", Seq_ID)) %>%
     with(., do.call(rbind, lapply(seq(nrow(.)), function(i) t(.[i, ])))) %>%
