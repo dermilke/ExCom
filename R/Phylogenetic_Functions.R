@@ -85,7 +85,16 @@ import_fasta <- function(datalist, fasta_location, Type = Sequence) {
   
   Type <- enquo(Type)
   
-  tmp_seqs <- readLines(fasta_location)
+  tmp_file <- readLines(fasta_location)
+  
+  header_index <- c(grep(pattern = "^>", tmp_file), length(tmp_file))
+  
+  tmp_seqs <- map(seq(1, (length(header_index)-1)), function(x) {
+    c(tmp_file[header_index[x]],
+      paste0(tmp_file[(header_index[x]+1):(header_index[x+1]-1)], collapse = "")) %>%
+      return()
+  }) %>%
+    as_vector()
   
   fasta_table <- tibble(Seq_ID = tmp_seqs[seq(1, length(tmp_seqs)-1, 2)],
                         !!quo_name(Type) := tmp_seqs[seq(2, length(tmp_seqs), 2)]) %>%
