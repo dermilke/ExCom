@@ -87,7 +87,7 @@ import_fasta <- function(datalist, fasta_location, Type = Sequence) {
   
   tmp_file <- readLines(fasta_location)
   
-  header_index <- c(grep(pattern = "^>", tmp_file), length(tmp_file))
+  header_index <- c(grep(pattern = "^>", tmp_file), length(tmp_file)+1)
   
   tmp_seqs <- map(seq(1, (length(header_index)-1)), function(x) {
     c(tmp_file[header_index[x]],
