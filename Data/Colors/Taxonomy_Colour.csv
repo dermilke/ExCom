@@ -93,7 +93,7 @@ Anaerolineae,#69140a
 Elusimicrobia,#00ffff
 Fibrobacteria,#949810
 Fimbriimonadia,#e5b551
-Methanomicrobia,#ff6666
+Methanomicrobia,#e5b551
 Subgroup 6,#100a7c
 Thermoleophilia,#576675
 Unknown Bacteria,#420420
@@ -173,3 +173,17 @@ Vicinamibacteria,#ff6666
 Urochordata,#bada55
 Chloropicophyceae,#ff0000
 Pelagophyceae,#065535
+Cyanophyceae,#339900FF
+Candidatus Poseidoniia,#EEA236FF
+Betaproteobacteria,#a33800
+Cytophagia,#40b5bc
+Deinococci,#f04b0e
+Opitutae,#FDAF91FF
+Sphingobacteriia,#69140a
+Actinomycetes,#9632B8FF
+Unclassified,#0a75ad
+WCHB1-81,#ca428b
+Aminicenantia,#f04b0e
+Lokiarchaeia,#2c5496
+Latescibacteria,#dd447d
+JS1,#0f682e

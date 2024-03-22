@@ -90,7 +90,7 @@ import_fasta <- function(datalist, fasta_location, Type = Sequence) {
   fasta_table <- tibble(Seq_ID = tmp_seqs[seq(1, length(tmp_seqs)-1, 2)],
                         !!quo_name(Type) := tmp_seqs[seq(2, length(tmp_seqs), 2)]) %>%
     mutate(Seq_ID = str_replace_all(Seq_ID, pattern = ">", replacement = "")) %>%
-    dplyr::slice(match(datalist$Count_Data$OTU_ID, Seq_ID))
+    dplyr::slice(match(pull(datalist$Count_Data, 1), Seq_ID))
     
   if (nrow(fasta_table) != nrow(datalist$Count_Data)) {
     warning(paste0(Type, " file not complete: Expected ", nrow(datalist$Count_Data), 
@@ -108,7 +108,7 @@ import_tree <- function(datalist, tree_location, root = T) {
   require(ape)
   
   tree_tmp <- ape::read.tree(tree_location) %>%
-    keep.tip(tip = datalist$Count_Data$OTU_ID)
+    keep.tip(tip = pull(datalist$Count_Data, 1))
   
   if (root) {
     # tablify parts of tree that we need and
@@ -196,7 +196,7 @@ UniFrac <- function(datalist, tree_location, distance="unweighted", blocksize=10
   Count_Data <- datalist$Count_Data %>%
     select_if(is.numeric) %>%
     as.matrix() %>%
-    magrittr::set_rownames(datalist$Count_Data$OTU_ID) %>%
+    magrittr::set_rownames(pull(datalist$Count_Data, 1)) %>%
     .[tree$tip.label,]
   
   c.samples <- colnames(Count_Data)

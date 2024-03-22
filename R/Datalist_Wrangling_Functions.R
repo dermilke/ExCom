@@ -73,7 +73,7 @@ import_data <- function(file_ASV, kingdom = "Prok", sequence = F, rare_lim = NUL
     data_import$Sequence <- tibble(Seq_ID = tmp_seqs[seq(1, length(tmp_seqs)-1, 2)],
                                    Sequence = tmp_seqs[seq(2, length(tmp_seqs), 2)]) %>%
       mutate(Seq_ID = str_replace_all(Seq_ID, pattern = ">", replacement = "")) %>%
-      filter(Seq_ID %in% data_import$Count_Data$OTU_ID)
+      filter(Seq_ID %in% pull(data_import$Count_Data, 1))
   }
   
   return(data_import)
@@ -122,7 +122,7 @@ combine_data <- function(datalist_1, datalist_2) {
   if (("Sequence" %in% names(datalist_1)) & ("Sequence" %in% names(datalist_2))) {
     datalist_return$Sequence <- bind_rows(datalist_1$Sequence, datalist_2$Sequence) %>%
       distinct() %>%
-      slice(match(datalist_return$Count_Data$OTU_ID, Seq_ID))
+      slice(match(pull(datalist_return$Count_Data, 1), Seq_ID))
   }
   
   return(datalist_return)
@@ -138,7 +138,7 @@ singleton_filter <- function(datalist, min_count = 5, min_station = 2) {
   datalist$Count_Data <- Count_Data
   
   if ("Sequence" %in% names(datalist)) {
-    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(datalist$Count_Data$OTU_ID, Seq_ID))
+    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(pull(datalist$Count_Data, 1), Seq_ID))
   }
   
   return(datalist)
@@ -159,7 +159,7 @@ filter_station_datalist <- function(.datalist, ...,  removeEmpty = T) {
     with(., if(removeEmpty) filter(., {select_if(., is.numeric) %>% rowSums(.)} > 0) else .)
   
   if ("Sequence" %in% names(.datalist)) {
-    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(.datalist$Count_Data$OTU_ID, Seq_ID))
+    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(pull(.datalist$Count_Data, 1), Seq_ID))
   }
   
   return(.datalist)
@@ -173,7 +173,7 @@ filter_taxa_datalist <- function(.datalist, ...) {
   .datalist$Count_Data <- filter(.datalist$Count_Data, !!!(exprFilter))
   
   if ("Sequence" %in% names(.datalist)) {
-    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(.datalist$Count_Data$OTU_ID, Seq_ID))
+    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(pull(.datalist$Count_Data, 1), Seq_ID))
   }
   return(.datalist)
   
@@ -193,7 +193,7 @@ slice_station_datalist <- function(.datalist, ...) {
     dplyr::slice(!!! exprSlice)
   
   if ("Sequence" %in% names(.datalist)) {
-    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(.datalist$Count_Data$OTU_ID, Seq_ID))
+    .datalist$Sequence <- dplyr::slice(.datalist$Sequence, match(pull(.datalist$Count_Data, 1), Seq_ID))
   }
   
   return(.datalist)
@@ -295,7 +295,7 @@ filter_abundance <- function(datalist) {
   datalist$Count_Data <- counts_filtered
   
   if ("Sequence" %in% names(datalist)) {
-    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(datalist$Count_Data$OTU_ID, Seq_ID))
+    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(pull(datalist$Count_Data, 1), Seq_ID))
   }
   
   return(datalist)
@@ -321,7 +321,7 @@ rarefy_datalist <- function(datalist, rare_lim, drop = F) {
   datalist$Meta_Data <- meta_subset
   
   if ("Sequence" %in% names(datalist)) {
-    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(datalist$Count_Data$OTU_ID, Seq_ID))
+    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(pull(datalist$Count_Data, 1), Seq_ID))
   }
   
   return(datalist)
@@ -368,7 +368,7 @@ summarize_by_param <- function(datalist, ...) {
     mutate_count_datalist(function(x) x/sum(x))
   
   if ("Sequence" %in% names(datalist)) {
-    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(datalist$Count_Data$OTU_ID, Seq_ID))
+    datalist$Sequence <- dplyr::slice(datalist$Sequence, match(pull(datalist$Count_Data, 1), Seq_ID))
   }
   
   return(datalist_return)
