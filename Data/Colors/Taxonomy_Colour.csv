@@ -199,6 +199,11 @@ Membrane transport,#a33800
 Metabolism of cofactors and vitamins,#339900FF
 Protein families: genetic information processing,#f9d423
 Protein families: metabolism,#E762D7FF
-Protein families: signaling and cellular processes,#E762D7FF
+Protein families: signaling and cellular processes,#d6c466
 Replication and repair,#7e7b52
 Signal transduction,#FDAF91FF
+Translation,#FAFD7CFF
+Nucleotide metabolism,#D43F3AFF
+Energy metabolism,#EEA236FF
+Carbohydrate metabolism,#FDAF91FF
+Amino acid metabolism,#66CC00
